@@ -1,0 +1,102 @@
+http://sv2.mybia2music.com/Music/1392/3%20Khordad/13/11/Javad%20Bayat%20-%20Roya.jpg
+	dir=output/b2/images/songs/
+	out=31c58d3e985d45a987aec0e0e07dd7fc.jpg
+http://sv2.mybia2music.com/Music/1392/6%20Shahrivar/19/03/Emo%20Band.jpg
+	dir=output/b2/images/songs/
+	out=242f6440a9c5e023f2444dd926df8d09.jpg
+http://sv2.mybia2music.com/Music/1392/3%20Khordad/13/11/Javad%20Bayat%20-%20Roya.jpg
+	dir=output/b2/images/songs/
+	out=31c58d3e985d45a987aec0e0e07dd7fc.jpg
+http://sv2.mybia2music.com/Music/1392/3%20Khordad/13/11/Javad%20Bayat%20-%20Roya.jpg
+	dir=output/b2/images/songs/
+	out=31c58d3e985d45a987aec0e0e07dd7fc.jpg
+http://sv2.mybia2music.com/Music/1392/3%20Khordad/13/11/Javad%20Bayat%20-%20Roya.jpg
+	dir=output/b2/images/songs/
+	out=31c58d3e985d45a987aec0e0e07dd7fc.jpg
+http://sv2.mybia2music.com/Music/1393/04/03/04/Javad%20Bayat%20-%20Ehsas.jpg
+	dir=output/b2/images/songs/
+	out=261b6c651bdc5a198cef00802ed28ae7.jpg
+http://sv2.mybia2music.com/Music/1393/08/04/03/Javad%20Bayat%20-%20Bonbast.jpg
+	dir=output/b2/images/songs/
+	out=6c07fd08bae5caeb90f48a8e1022cc43.jpg
+http://sv2.mybia2music.com/Music/1393/06/04/02/Javad%20Bayat%20-%20Faseleh%20(Ft%20Ali%20Ghanaati).jpg
+	dir=output/b2/images/songs/
+	out=448e31affc3e76360ebc66f58048be2e.jpg
+http://sv2.mybia2music.com/Music/1393/12/05/01/Javad%20Bayat%20-%20Gharibaneh.jpg
+	dir=output/b2/images/songs/
+	out=0b4765671957a6ad208e2e2126ff2782.jpg
+http://sv2.mybia2music.com/Music/1393/02/28/02/Javad%20Bayat%20600.jpg
+	dir=output/b2/images/songs/
+	out=ef69a56cbd6225f76866608e8871aa2b.jpg
+http://sv2.mybia2music.com/Music/1393/04/28/03/Majid%20Torkashvand%20-%20To%20ke%20Nisti.jpg
+	dir=output/b2/images/songs/
+	out=7dabad0c0b685631d734d4391abb9740.jpg
+http://sv2.mybia2music.com/Music/1393/04/11/07/Majid%20Torkashvand%20-%20Havato%20Daram.jpg
+	dir=output/b2/images/songs/
+	out=1f2236837fbdfaed966fbb293cf8d88f.jpg
+http://sv2.mybia2music.com/s2/Music/1394/03/09/2/Majid%20Torkashvand%20-%20Khatereha.jpg
+	dir=output/b2/images/songs/
+	out=4d2358d43e8955386d0403fd4847c807.jpg
+http://sv2.mybia2music.com/s2/Music/1394/06/19/02/Majid%20Torkashvand%20-%20Marge%20Sade.jpg
+	dir=output/b2/images/songs/
+	out=c13cbe16dc19515fffd5d52e395eb2e2.jpg
+http://sv2.mybia2music.com/Music/1393/12/11/07/Majid%20Torkashvand%20-%20Joone%20Mani.jpg
+	dir=output/b2/images/songs/
+	out=086bffc355ebd2145bb162aed24581c0.jpg
+http://sv2.mybia2music.com/s2/Music/1391/12%20Esfand/11365637/Mehdi%20Abdollahi%20-%20Ye%20Jore%20Khas.jpg
+	dir=output/b2/images/songs/
+	out=a0e352f514e107225d39bffb4129a872.jpg
+http://sv2.mybia2music.com/Music/1392/7%20Mehr/11/08/Siavash%20B.jpg
+	dir=output/b2/images/songs/
+	out=3d8ac830c989bd7c8411ba9c2b8f4d5d.jpg
+http://sv2.mybia2music.com/s2/Pic/1393/060%20and%20Pishva%20-%20Nabash%20Mesle%20Man.jpg
+	dir=output/b2/images/songs/
+	out=de50d9b7559094e79a4734e92d9d6f49.jpg
+http://sv2.mybia2music.com/s2/Music/1394/04/20/00/0TA100%20-%20Chi%20Beshe%20Ha.jpg
+	dir=output/b2/images/songs/
+	out=23de6e0fed1cc99e34b3951e06fd4927.jpg
+http://sv2.mybia2music.com/s2/Music/1394/05/24/Sad/0TA100%20-%20Engar%20Na%20Engar.jpg
+	dir=output/b2/images/songs/
+	out=09970b61b172c4c8d640d83d814fd720.jpg
+http://sv2.mybia2music.com/Music/1393/10/01/02/1000Too%20-%20Kaboos.jpg
+	dir=output/b2/images/songs/
+	out=7253b725749d9b98d82a424ba12d335f.jpg
+http://sv2.mybia2music.com/s2/Music//1391/7%20Mehr/10232/18Band%20-%20Aroomam.jpg
+	dir=output/b2/images/songs/
+	out=1be8aea3f3dca5e5d4fc37d38299de8a.jpg
+http://sv2.mybia2music.com/Music/1392/2%20Ordibehesht/23/01/2Brothers.jpg
+	dir=output/b2/images/songs/
+	out=5ff270740e07e42a036331b2b6df68b3.jpg
+http://sv2.mybia2music.com/Music/1393/01/25/03/21%20Band%20-%20Dooset%20Dashtam.jpg
+	dir=output/b2/images/songs/
+	out=8f29f2848e4dad7397b4feb1f79859f8.jpg
+http://sv2.mybia2music.com/s2/Music/1391/12%20Esfand/11365279/MohammadrezaShabanzade.jpg
+	dir=output/b2/images/songs/
+	out=a58012009ef78ce244843377191f8afe.jpg
+http://sv2.mybia2music.com/Music/1393/09/07/07/28TH.jpg
+	dir=output/b2/images/songs/
+	out=640d80f47a143e4ac16e2d80432b7d6f.jpg
+http://sv2.mybia2music.com/Music/1392/9%20Azar/01/01/28street%20Band%20-%20Roozaye%20Bimar.jpg
+	dir=output/b2/images/songs/
+	out=b361c53fd98435277feeddc29cb807af.jpg
+http://sv2.mybia2music.com/s2/Music/1395/11/29/04/2Band-Del-Mibari.jpg
+	dir=output/b2/images/songs/
+	out=6dda55a96f0ff4d850b751e0c73ea61c.jpg
+http://sv2.mybia2music.com/s2/Pic/1393/01/Javad%20Arab%20and%20Abbas%20Baloochi%20(2band)%20-%20Del%20Del%20Nakon%20Boro.jpg
+	dir=output/b2/images/songs/
+	out=104da749688d08024c16841efe5a6559.jpg
+http://sv2.mybia2music.com/s2/Pic/1393/Javad%20Arab%20and%20Abbas%20Baloochi%20(2Band)%20-%20Khoneye%20Jadid.jpg
+	dir=output/b2/images/songs/
+	out=46a49d848b68e063be8b11660f70f0c4.jpg
+http://sv2.mybia2music.com/s2/Pic/1393/Javad%20Arab%20and%20Abbas%20Baloochi%20(2Band)%20-%20Vay%20Azizam.jpg
+	dir=output/b2/images/songs/
+	out=cfca4868728977aeff41da5b52d0e116.jpg
+http://sv2.mybia2music.com/s2/Pic/1393/(2band)%20Javad%20Arab%20and%20Abas%20Balochi%20-%20Harfato%20Rok%20Bezan.jpg
+	dir=output/b2/images/songs/
+	out=5739f359626946f3f6cc87e02be79a79.jpg
+http://sv2.mybia2music.com/Music/1390/12%20Esfand/5456/2Friends.jpg
+	dir=output/b2/images/songs/
+	out=d18e66c4dae5d161d071a8fb76867755.jpg
+http://sv2.mybia2music.com/Music/1393/03/15/2Lovers/2Lovers%20Band%20-%20Mahal.jpg
+	dir=output/b2/images/songs/
+	out=1656557c9d19fd6c8cdb1cd5859b91be.jpg
