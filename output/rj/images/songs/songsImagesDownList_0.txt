@@ -1,0 +1,2988 @@
+https://assets.rdjvn-assets.com/static/mp3/javad-bayat-noskheye-khatkhati/2f363ee5.jpg
+	dir=output/rj/images/songs/
+	out=a048a304130453c65cdb3458808d3e60.jpg
+https://assets.rdjvn-assets.com/static/mp3/javad-bayat-tamoom-shod/16c38e74.jpg
+	dir=output/rj/images/songs/
+	out=890736eb7c895f3b9fae6be626180c39.jpg
+https://assets.rdjvn-assets.com/static/mp3/javad-bayat-ehsas/651a139e4374b85.jpg
+	dir=output/rj/images/songs/
+	out=261b6c651bdc5a198cef00802ed28ae7.jpg
+https://assets.rdjvn-assets.com/static/mp3/javad-bayat-bonbast/88ba77923707ab3.jpg
+	dir=output/rj/images/songs/
+	out=6c07fd08bae5caeb90f48a8e1022cc43.jpg
+https://assets.rdjvn-assets.com/static/mp3/javad-bayat-faseleh/2a0e0556756aef8.jpg
+	dir=output/rj/images/songs/
+	out=448e31affc3e76360ebc66f58048be2e.jpg
+https://assets.rdjvn-assets.com/static/mp3/javad-bayat-gharibaneh/4160b4e8df55c9b.jpg
+	dir=output/rj/images/songs/
+	out=0b4765671957a6ad208e2e2126ff2782.jpg
+https://assets.rdjvn-assets.com/static/mp3/-javad-bayat-sandali/78f5a0e07ed0548.jpg
+	dir=output/rj/images/songs/
+	out=ef69a56cbd6225f76866608e8871aa2b.jpg
+https://assets.rdjvn-assets.com/static/mp3/majid-torkashvand-to-ke-nisti/b22ed2ab38c60fd.jpg
+	dir=output/rj/images/songs/
+	out=7dabad0c0b685631d734d4391abb9740.jpg
+https://assets.rdjvn-assets.com/static/mp3/majid-torkashvand-havato-daram/5f83559d39bcc63.jpg
+	dir=output/rj/images/songs/
+	out=1f2236837fbdfaed966fbb293cf8d88f.jpg
+https://assets.rdjvn-assets.com/static/mp3/majid-torkashvand-khatereha/316e0852dda632b.jpg
+	dir=output/rj/images/songs/
+	out=4d2358d43e8955386d0403fd4847c807.jpg
+https://assets.rdjvn-assets.com/static/mp3/majid-torkashvand-marge-sade/1e5b33a20719cc6.jpg
+	dir=output/rj/images/songs/
+	out=c13cbe16dc19515fffd5d52e395eb2e2.jpg
+https://assets.rdjvn-assets.com/static/mp3/mjid-torkashvand-joone-mani/7b287531b85a79b.jpg
+	dir=output/rj/images/songs/
+	out=086bffc355ebd2145bb162aed24581c0.jpg
+https://assets.rdjvn-assets.com/static/mp3/mehdi-abdollahi-ye-joore-khas-(ft-digital-sound)/565c5bf4.jpg
+	dir=output/rj/images/songs/
+	out=a0e352f514e107225d39bffb4129a872.jpg
+https://assets.rdjvn-assets.com/static/mp3/mehdi-abdollahi-hasrat/5b6a73613e20851.jpg
+	dir=output/rj/images/songs/
+	out=8eb00fb69d465dbde9fcf9af527f1cea.jpg
+https://assets.rdjvn-assets.com/static/mp3/-mehdi-abdollahi-bemoon/3077f7e6d0285dc.jpg
+	dir=output/rj/images/songs/
+	out=a54ec12ba77ccaf4424fc665d0734f33.jpg
+https://assets.rdjvn-assets.com/static/mp3/siavash-nazeri-khaneye-ma/a15fd49c.jpg
+	dir=output/rj/images/songs/
+	out=3d8ac830c989bd7c8411ba9c2b8f4d5d.jpg
+https://assets.rdjvn-assets.com/static/mp3/siavash-nazeri-baa-namakam/6c42b7e31bb3267.jpg
+	dir=output/rj/images/songs/
+	out=41231ca52572063a3637186b96d0c0b2.jpg
+https://assets.rdjvn-assets.com/static/mp3/siavash-nazari-daar/41c81471f84dde6.jpg
+	dir=output/rj/images/songs/
+	out=d2a0f0d08c05a6fe3fc44f79a5ca9928.jpg
+https://assets.rdjvn-assets.com/static/mp3/-siavash-nazeri-havashaye-delam/fe7a8b62e30933e.jpg
+	dir=output/rj/images/songs/
+	out=768156d5f69efa803a946355fbcb5a87.jpg
+https://assets.rdjvn-assets.com/static/mp3/05a-khepel/93cd70532adc7d5.jpg
+	dir=output/rj/images/songs/
+	out=e357e8155514591870e3a69f337bdf11.jpg
+https://assets.rdjvn-assets.com/static/mp3/060-pishva-nabash-mesle-man/e3b9dff25aee3ca.jpg
+	dir=output/rj/images/songs/
+	out=de50d9b7559094e79a4734e92d9d6f49.jpg
+https://assets.rdjvn-assets.com/static/mp3/0ta100-chi-beshe-ha/d1668c090180d74.jpg
+	dir=output/rj/images/songs/
+	out=23de6e0fed1cc99e34b3951e06fd4927.jpg
+https://assets.rdjvn-assets.com/static/mp3/0ta100-engar-na-engar/4089ac7305940df.jpg
+	dir=output/rj/images/songs/
+	out=09970b61b172c4c8d640d83d814fd720.jpg
+https://assets.rdjvn-assets.com/static/mp3/1000too-kaboos/2533a0defaac685.jpg
+	dir=output/rj/images/songs/
+	out=7253b725749d9b98d82a424ba12d335f.jpg
+https://assets.rdjvn-assets.com/static/mp3/1000too-kooche/9e15643407fe5fc.jpg
+	dir=output/rj/images/songs/
+	out=c91d93af0464f0d8b24c409d3ea8e0e4.jpg
+https://assets.rdjvn-assets.com/static/mp3/1000too-mohtaj/b14117c076135bf.jpg
+	dir=output/rj/images/songs/
+	out=79caace75a4b9340fcc16c54f1bd1f5c.jpg
+https://assets.rdjvn-assets.com/static/mp3/1000too-hezaar-omid/37ef26903de6fc0.jpg
+	dir=output/rj/images/songs/
+	out=eabfbe3dc15af3ff49e5b9dfd5e865f0.jpg
+https://assets.rdjvn-assets.com/static/mp3/1000too-faryaad/90fe54cd411e622.jpg
+	dir=output/rj/images/songs/
+	out=e6ef550d81721a198c3da0b7f494f730.jpg
+https://assets.rdjvn-assets.com/static/mp3/1000too-gomet-kardam/5b76e63eeeaf028.jpg
+	dir=output/rj/images/songs/
+	out=74fe80699f08590573f804708f3b462a.jpg
+https://assets.rdjvn-assets.com/static/mp3/106-forsate-akhar/53fffd1aee5a29c.jpg
+	dir=output/rj/images/songs/
+	out=065b79c6c5e1514888fdd291fd851ec0.jpg
+https://assets.rdjvn-assets.com/static/mp3/10d-shayad-mishod-(ft-aytak-pouya-taghdir)/3af3ea9be8bdda8.jpg
+	dir=output/rj/images/songs/
+	out=38450e7815684dd07b8db9a47e00372e.jpg
+https://assets.rdjvn-assets.com/static/mp3/parand-10-d-baron/769789396176a7c.jpg
+	dir=output/rj/images/songs/
+	out=8d3605d2ddf66e3a7e61312dd04ab4df.jpg
+https://assets.rdjvn-assets.com/static/mp3/11-11-pandemic/269dc2cd8f4da9f.jpg
+	dir=output/rj/images/songs/
+	out=fe52090dd161c1ca1b33d2549d2118e2.jpg
+https://assets.rdjvn-assets.com/static/mp3/123-seda-mosabegheye-khanandegi/feb5a4eb09a8003.jpg
+	dir=output/rj/images/songs/
+	out=952d95e077bb3f5a347ad22cd5632965.jpg
+https://assets.rdjvn-assets.com/static/mp3/13-band-faze-gol/b100d8d898ead9d.jpg
+	dir=output/rj/images/songs/
+	out=eb043526e2bc9d22086b21d4294efd46.jpg
+https://assets.rdjvn-assets.com/static/mp3/142-track-american-life-(ft-madonna)/dc2c1182e8b251a.jpg
+	dir=output/rj/images/songs/
+	out=f53f86baba22872d4a8f8cc13bc40ca5.jpg
+https://assets.rdjvn-assets.com/static/mp3/1507-band-to-ro-nemeekhaam/ff0fdbd6d32b909.jpg
+	dir=output/rj/images/songs/
+	out=10c283e729c4f021e391b4708792c870.jpg
+https://assets.rdjvn-assets.com/static/mp3/0151-band-sellol-(ft-aloneboy-larous)/9b43d66a9ec9d90.jpg
+	dir=output/rj/images/songs/
+	out=fd327183516764d1a316fc00dd8fbaf7.jpg
+https://assets.rdjvn-assets.com/static/mp3/151-band-migzare-(ft-ashkan-mabhoot)/9f6dd42f492b205.jpg
+	dir=output/rj/images/songs/
+	out=c5a48faa1d5f3b9ed42cbc1d4da094fc.jpg
+https://assets.rdjvn-assets.com/static/mp3/17-band-bi-vafa/a3b9842cb3cb6e5.jpg
+	dir=output/rj/images/songs/
+	out=2995c016ceef3ad1b2e980cc57555848.jpg
+https://assets.rdjvn-assets.com/static/mp3/18-band-aroomam/1b021455.jpg
+	dir=output/rj/images/songs/
+	out=1be8aea3f3dca5e5d4fc37d38299de8a.jpg
+https://assets.rdjvn-assets.com/static/mp3/2brothers-sedato-doos-daram-(ft-saeed-kermani)/01f25781159b62c.jpg
+	dir=output/rj/images/songs/
+	out=ddc5eb9eff177694d5e16f6234636d3a.jpg
+https://assets.rdjvn-assets.com/static/mp3/2-brothers-zarban-ghalb/96d814fe.jpg
+	dir=output/rj/images/songs/
+	out=5ff270740e07e42a036331b2b6df68b3.jpg
+https://assets.rdjvn-assets.com/static/mp3/2-lovers-band-aghoosh/49dac845a52712d.jpg
+	dir=output/rj/images/songs/
+	out=632bedd536f83a2432acf85120374e3b.jpg
+https://assets.rdjvn-assets.com/static/mp3/2-music-band-chera-ba-man/6b151b2c.jpg
+	dir=output/rj/images/songs/
+	out=2d056d12cebd727738a30d4f6c14c9ad.jpg
+https://assets.rdjvn-assets.com/static/mp3/21-band-dooset-dashtam/a60a6ec797c6583.jpg
+	dir=output/rj/images/songs/
+	out=8f29f2848e4dad7397b4feb1f79859f8.jpg
+https://assets.rdjvn-assets.com/static/mp3/21-band-deldadegi/7ad937c72f161f5.jpg
+	dir=output/rj/images/songs/
+	out=35b280e1087c0fe1b798dec65ab98aad.jpg
+https://assets.rdjvn-assets.com/static/mp3/21-band-bado-khakestar/1ac95fd3e96a716.jpg
+	dir=output/rj/images/songs/
+	out=5dd5db181fbc44bb6019d03a2ae9c39e.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-hamishe-ba-hamim/d717055a.jpg
+	dir=output/rj/images/songs/
+	out=e7f5439b635c4e17eabce149a9b1c989.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-enghad-bekhand/e2cce1ff076f2f6.jpg
+	dir=output/rj/images/songs/
+	out=9543e93f6d89af389c0179cb0eda4d0e.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-man-shak-nadaram-/dd89677b6c02216.jpg
+	dir=output/rj/images/songs/
+	out=9cb300b1f09fcf422691c838277c3ddf.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-bavar/4f92159ddc2a475.jpg
+	dir=output/rj/images/songs/
+	out=22da32e746e885f7aa43afeb83654a06.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-peurto-rico(e)/b75a1b8d.jpg
+	dir=output/rj/images/songs/
+	out=1792580a894bfe7e1b22d75bd0b81a0e.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-baroon/1b192905f2bc954.jpg
+	dir=output/rj/images/songs/
+	out=dc741de6303075eff904d2983330b0b5.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-tars/5519a0cd44b5ea1.jpg
+	dir=output/rj/images/songs/
+	out=d277e8d4413eff509793bafd2469fd74.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-darde-del-tangi/b2a10da87dbd49a.jpg
+	dir=output/rj/images/songs/
+	out=bb830d2b149367169ebdd411a29c932c.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-dooset-daram/760dd71f4a6db2a.jpg
+	dir=output/rj/images/songs/
+	out=97e900dfa9ce1beecc2ea6148fb48781.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-male-man-shodi/0f307a3339c37ba.jpg
+	dir=output/rj/images/songs/
+	out=7f2a278e2986706f44d8366f154a829f.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-daram-yakh-mizanam/25d1cdd6.jpg
+	dir=output/rj/images/songs/
+	out=46de806dfb943025df2a6f4378ae8dd1.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-mosafer/2c27cbd764f15bd.jpg
+	dir=output/rj/images/songs/
+	out=288302c657bffc3397e28522397f939e.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-az-pisham-miri/5636c3f3d1e36b3.jpg
+	dir=output/rj/images/songs/
+	out=ccb384be989d73b94e7a00559c7da0d7.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-gaahi-vaghta/2bb5e225.jpg
+	dir=output/rj/images/songs/
+	out=55b3c4f60c09b2c6efa828b51c5ef599.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-khatereha/d30507f8.jpg
+	dir=output/rj/images/songs/
+	out=6ef96aaa8aece91f2d347b25ebedc0ce.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-chegadr-tanhaee-bade/53fa87f0.jpg
+	dir=output/rj/images/songs/
+	out=42bbf3c126132cc3644d527777a1b90f.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-emshab-mikham/0bedf7dd.jpg
+	dir=output/rj/images/songs/
+	out=228d2adfbd348f056a8a91671cf3ea85.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-fandak/e2650c29309d04a.jpg
+	dir=output/rj/images/songs/
+	out=3bef170e2f04302b4e27ed7bb939ec65.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-tooye-rahe-eshghim/67def8a819c0b8c.jpg
+	dir=output/rj/images/songs/
+	out=723cd15972649dcd681ec3b3f8ecffef.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-gharantineh/11987ec6dc83c3a.jpg
+	dir=output/rj/images/songs/
+	out=492089736259c6fec0b70babc8ff85f4.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-hagh-ba-tost/3fa1f56f.jpg
+	dir=output/rj/images/songs/
+	out=cd1d2803300fdb504818658f649968e5.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-daram-yakh-mizanam-(remix)/ac07b24b.jpg
+	dir=output/rj/images/songs/
+	out=a083b44dc8ffa11ada5484c256d727df.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-az-man-nagzar/545852082aae380.jpg
+	dir=output/rj/images/songs/
+	out=a9d3688361abde701debe19cef900050.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-tariktar/9739fe7e393b7a6.jpg
+	dir=output/rj/images/songs/
+	out=627ed79ccd7336674bca9ed20479bf29.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-ye-bade-khonak/24822f2f.jpg
+	dir=output/rj/images/songs/
+	out=426efaf94772bd193a66326299fa01b7.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-tars-(video-version)/2f733ad80f49402.jpg
+	dir=output/rj/images/songs/
+	out=08df9222b29cb6d0c959416624da1b19.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-ta-sobh-khoone-narim/4d5fce8c66a1c2e.jpg
+	dir=output/rj/images/songs/
+	out=9a7eb0c711cff2e074bd4ffa08f15411.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-cheghad-khoobe/d3b83a29049fd1e.jpg
+	dir=output/rj/images/songs/
+	out=88405af24e4f85d9a544993b413de901.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-berese-mah/e3f3883c.jpg
+	dir=output/rj/images/songs/
+	out=4d6209d1accbd977533a3e90958582a6.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-eshtebah/b0ee83c8.jpg
+	dir=output/rj/images/songs/
+	out=53e65686890ea61ee6134a6666b83673.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-ayandeh-tarike/696d7414304100c.jpg
+	dir=output/rj/images/songs/
+	out=00b4a011891bd50e4a25dc7c8b78c43f.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-vaghte-parvaz-(remix)/f8441374.jpg
+	dir=output/rj/images/songs/
+	out=3b20c104d7bf5ba167af8aa13e8eb43a.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-estakhr/ab140cddb760ebf.jpg
+	dir=output/rj/images/songs/
+	out=5428fcaf8a939dc9b380640db8033b96.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-bia-bia/e4b493b2ab8c13e.jpg
+	dir=output/rj/images/songs/
+	out=a58012009ef78ce244843377191f8afe.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-bash-ta-bebini/97ac01d331d429a.jpg
+	dir=output/rj/images/songs/
+	out=7ea4d64849c66e537c6b76a7faa692c2.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-gahi-vaghta-(ramteen-remix)/2c109d5f.jpg
+	dir=output/rj/images/songs/
+	out=ab119d53b85c9347b3a2974a7d190a35.jpg
+https://assets.rdjvn-assets.com/static/mp3/25-band-vaghte-parvaaze/120376673341824.jpg
+	dir=output/rj/images/songs/
+	out=3a957cd1dfbd0b0b73aa6c4926be12cf.jpg
+https://assets.rdjvn-assets.com/static/mp3/28th-street-band-royaye-nime-kare/ecef228a9bca7df.jpg
+	dir=output/rj/images/songs/
+	out=301fc5701433dd915e27c03410db0d8a.jpg
+https://assets.rdjvn-assets.com/static/mp3/28th-street-band-maskh/5c556bf9480f833.jpg
+	dir=output/rj/images/songs/
+	out=640d80f47a143e4ac16e2d80432b7d6f.jpg
+https://assets.rdjvn-assets.com/static/mp3/28th-street-band-karoon/403cf291c9dd2cd.jpg
+	dir=output/rj/images/songs/
+	out=ab9cd908a11bad8b4a5cf75b17614dea.jpg
+https://assets.rdjvn-assets.com/static/mp3/28th-street-band-roozaye-bimar/bf833dd8.jpg
+	dir=output/rj/images/songs/
+	out=b361c53fd98435277feeddc29cb807af.jpg
+https://assets.rdjvn-assets.com/static/mp3/2b-shabhaye-taar/1e3bbca1.jpg
+	dir=output/rj/images/songs/
+	out=549ad7112519034a33ab4a6c863c0d5b.jpg
+https://assets.rdjvn-assets.com/static/mp3/2b-porsidam/e4defb08.jpg
+	dir=output/rj/images/songs/
+	out=7977c95142758428e4d1b83eb3a04911.jpg
+https://assets.rdjvn-assets.com/static/mp3/2band-del-mibari/8752aa3817ab882.jpg
+	dir=output/rj/images/songs/
+	out=6dda55a96f0ff4d850b751e0c73ea61c.jpg
+https://assets.rdjvn-assets.com/static/mp3/javad-arab-abbas-baloochi-(2band)-del-del-nakon-boro/731a529a2b57b1b.jpg
+	dir=output/rj/images/songs/
+	out=104da749688d08024c16841efe5a6559.jpg
+https://assets.rdjvn-assets.com/static/mp3/javad-arab-abbas-baloochi-(2band)-khoneye-jadid/a9f78c58e467fd1.jpg
+	dir=output/rj/images/songs/
+	out=46a49d848b68e063be8b11660f70f0c4.jpg
+https://assets.rdjvn-assets.com/static/mp3/javad-arab-abbas-baloochi-(2band)-vay-azizam/cc6f05b3577f2c2.jpg
+	dir=output/rj/images/songs/
+	out=cfca4868728977aeff41da5b52d0e116.jpg
+https://assets.rdjvn-assets.com/static/mp3/javad-arab-abbas-baloochi-(2band)-harfato-rok-bezan/810822ee4ddb305.jpg
+	dir=output/rj/images/songs/
+	out=5739f359626946f3f6cc87e02be79a79.jpg
+https://assets.rdjvn-assets.com/static/mp3/2beat-band-aria/6a1d2db7.jpeg
+	dir=output/rj/images/songs/
+	out=56d9e21a792de55156c6a387947b3ca2.jpeg
+https://assets.rdjvn-assets.com/static/mp3/2beat-band-donya/5416ed74.jpg
+	dir=output/rj/images/songs/
+	out=6efe7fab1b9d9a66feb8e168a7fe1557.jpg
+https://assets.rdjvn-assets.com/static/mp3/2beat-band-mano-to-aghooshet-begir/1dc3cd68.jpg
+	dir=output/rj/images/songs/
+	out=3ef3eb1401015ac6a0b5ae1c9777f87b.jpg
+https://assets.rdjvn-assets.com/static/mp3/2beat-band-celebrate-woman-(ft-various-artists)/0122754b.jpg
+	dir=output/rj/images/songs/
+	out=038cccab0d724d1cc126000ad2f02dad.jpg
+https://assets.rdjvn-assets.com/static/mp3/2ctiran-jange-jahani/32165d612e1390c.jpg
+	dir=output/rj/images/songs/
+	out=c954677d110e5f6c4f3426355a4b4796.jpg
+https://assets.rdjvn-assets.com/static/mp3/2deshk-6789/7e033a165a46480.jpg
+	dir=output/rj/images/songs/
+	out=e854173f3559ff067533a096416d0413.jpg
+https://assets.rdjvn-assets.com/static/mp3/2fan-deltangi/1e5096fc922e5fb.jpg
+	dir=output/rj/images/songs/
+	out=b1dc0eed242b200e20f9166804eaf3de.jpg
+https://assets.rdjvn-assets.com/static/mp3/2fan-name/42609726eb7c131.jpg
+	dir=output/rj/images/songs/
+	out=450fdbf8c22b03b805c0aa03b1194b55.jpg
+https://assets.rdjvn-assets.com/static/mp3/2friends-sheytoono-lajbaz-(ft-amir-tarokh)/03e9fba9.jpg
+	dir=output/rj/images/songs/
+	out=f05d9b5ebeb2b13131cec2d051bb9091.jpg
+https://assets.rdjvn-assets.com/static/mp3/2friends-ashegh-mesleh-maa/a02ce0c9.jpg
+	dir=output/rj/images/songs/
+	out=d18e66c4dae5d161d071a8fb76867755.jpg
+https://assets.rdjvn-assets.com/static/mp3/2gholooha-baroot-(ft-sadra)/b0dfecba64f25a2.jpg
+	dir=output/rj/images/songs/
+	out=d3b3020fd0ba2a7f3e2325e2cb284b8e.jpg
+https://assets.rdjvn-assets.com/static/mp3/2gholooha-shahre-man-(ft-sadra)/170a4e4184a4aa7.jpg
+	dir=output/rj/images/songs/
+	out=7150e86503470b725d953f91f31d962a.jpg
+https://assets.rdjvn-assets.com/static/mp3/2haste-sedaye-baad/8e36171e3758a25.jpg
+	dir=output/rj/images/songs/
+	out=7e9b7bc40e5cefe65f783bd0a00905f9.jpg
+https://assets.rdjvn-assets.com/static/mp3/2khaniat-bia-nazdikam-(ft-kasra)/20c22700.jpg
+	dir=output/rj/images/songs/
+	out=5e9060f45522fc86be36cfb62f5bede5.jpg
+https://assets.rdjvn-assets.com/static/mp3/2lovers-band-mahal/b776ae2925c2708.jpg
+	dir=output/rj/images/songs/
+	out=1656557c9d19fd6c8cdb1cd5859b91be.jpg
+https://assets.rdjvn-assets.com/static/mp3/2lovers-band-divoonegi/accb5b241e777e2.jpg
+	dir=output/rj/images/songs/
+	out=e0c7cb7e27fc1f3b708eecf1091fcb1c.jpg
+https://assets.rdjvn-assets.com/static/mp3/2m-band-divoone/300b2664bcc0c9f.jpg
+	dir=output/rj/images/songs/
+	out=2d2b5b80e33a1a04b60541233be5b00e.jpg
+https://assets.rdjvn-assets.com/static/mp3/2m-h2-kisti/f68a49bdef4d4ef.jpg
+	dir=output/rj/images/songs/
+	out=470a88b6bb6bd5f1e39c109d963e0fe2.jpg
+https://assets.rdjvn-assets.com/static/mp3/2maaj-band-bi-rahm/dec82e2b20f556f.jpg
+	dir=output/rj/images/songs/
+	out=4ceea4da966c7a147eba019667937910.jpg
+https://assets.rdjvn-assets.com/static/mp3/2maaj-band-doroogh-begoo/e4ed11ba.jpg
+	dir=output/rj/images/songs/
+	out=6933a757e5accbb6d35cf0e1dd1e7e97.jpg
+https://assets.rdjvn-assets.com/static/mp3/2maaj-band-dari-havamo/ed2a941743d5285.jpg
+	dir=output/rj/images/songs/
+	out=30d78cc008d276fb032660dd28d878ac.jpg
+https://assets.rdjvn-assets.com/static/mp3/2maaj-band-cafe-barfi/664d3d2da21c830.jpg
+	dir=output/rj/images/songs/
+	out=459a4d312c1616b13c935b22d0cb9883.jpg
+https://assets.rdjvn-assets.com/static/mp3/2maaj-band-khosh-be-halet/5a2f5073.jpg
+	dir=output/rj/images/songs/
+	out=7df885f0d7f9f25e801c2353c7813308.jpg
+https://assets.rdjvn-assets.com/static/mp3/2maaj-band-jaddeh/cf50ba1a0beee3f.jpg
+	dir=output/rj/images/songs/
+	out=4d3580555227606a891edd33d0cb219a.jpg
+https://assets.rdjvn-assets.com/static/mp3/2maaj-band-didamesh/8330b7766b45822.jpg
+	dir=output/rj/images/songs/
+	out=aa1cd46a68298b317cc1f85f621cad7f.jpg
+https://assets.rdjvn-assets.com/static/mp3/2-maaj-band-entekhabe-man-toe/ab0d5c9c.jpg
+	dir=output/rj/images/songs/
+	out=01975b6e005272f9d946007bfb6f358d.jpg
+https://assets.rdjvn-assets.com/static/mp3/2maaj-band-morteza-pashaei-(live-in-paradise)/f9458a6a3e6a348.jpg
+	dir=output/rj/images/songs/
+	out=d05317e2637e485abd45c12745cf5d5c.jpg
+https://assets.rdjvn-assets.com/static/mp3/2rsa-all-the-night-(ft-numb)/58b579aa.jpg
+	dir=output/rj/images/songs/
+	out=64542e0e340daff7ec73f7165ae7f35e.jpg
+https://assets.rdjvn-assets.com/static/mp3/3-band-delam-gerefteh/d04beb16baca633.jpg
+	dir=output/rj/images/songs/
+	out=ecbbf8d59975c4af116e1e620d6fbca9.jpg
+https://assets.rdjvn-assets.com/static/mp3/3-berar-man-asheghetam/1bf8e3217da7b27.jpg
+	dir=output/rj/images/songs/
+	out=3d34b8b02005eeac2ac9e08d77435dd4.jpg
+https://assets.rdjvn-assets.com/static/mp3/3-berar-memories-album/30624e139934193.jpg
+	dir=output/rj/images/songs/
+	out=5426a4c1bafe70d9fad69d3f9e907bd5.jpg
+https://assets.rdjvn-assets.com/static/mp3/3-berar-hojom/a1aa30901c86110.jpg
+	dir=output/rj/images/songs/
+	out=944948b0d4bea9fa806f12774e2ef15b.jpg
+https://assets.rdjvn-assets.com/static/mp3/30mon-mojaz-nist/9c76e980a998df2.jpg
+	dir=output/rj/images/songs/
+	out=65df3be158e0a3b2668e77151cc803b5.jpg
+https://assets.rdjvn-assets.com/static/mp3/30mon-cheshmat/0f13773732f47bf.jpg
+	dir=output/rj/images/songs/
+	out=c35a2403e41cc5e683fbb1437f9c7238.jpg
+https://assets.rdjvn-assets.com/static/mp3/hadi-30mon-haji-behesh-nefa-bede/d3906dae217ef5c.jpg
+	dir=output/rj/images/songs/
+	out=feb09285cfc346fe4c3b1cfdf8335863.jpg
+https://assets.rdjvn-assets.com/static/mp3/hadi-30mon-aroom-tar/b9ab8cbbf8144a4.jpg
+	dir=output/rj/images/songs/
+	out=4efbebcc8dacb58bdc425217642a1ab0.jpg
+https://assets.rdjvn-assets.com/static/mp3/30mon-bidari/e39451c5e5685a9.jpg
+	dir=output/rj/images/songs/
+	out=aabb14a300a256871b726fb41c0f593a.jpg
+https://assets.rdjvn-assets.com/static/mp3/30na-be-zoor-mikhandam/7b5c1151a675c5c.jpg
+	dir=output/rj/images/songs/
+	out=37a906d79b3d9c0d8ea32709a61e48d0.jpg
+https://assets.rdjvn-assets.com/static/mp3/30na-ghiam-rap-larzeh/8968006e9293cd4.jpg
+	dir=output/rj/images/songs/
+	out=069cc4f3c91a50c5c30a2685408e087c.jpg
+https://assets.rdjvn-assets.com/static/mp3/30na-ghiam-big-show/9f17d0e09429e06.jpg
+	dir=output/rj/images/songs/
+	out=6f6168dafb44c6840b044d2624c8dece.jpg
+https://assets.rdjvn-assets.com/static/mp3/30natra-taghdir/05c24d5d.jpg
+	dir=output/rj/images/songs/
+	out=c4866903d1bfb5b654491fe4c4712a8b.jpg
+https://assets.rdjvn-assets.com/static/mp3/anika-sooratak/fdccc773690d736.jpg
+	dir=output/rj/images/songs/
+	out=101dec08408e58a2c2d772f99f44b4ad.jpg
+https://assets.rdjvn-assets.com/static/mp3/33-band-bavar/3265cb1cc48815d.jpg
+	dir=output/rj/images/songs/
+	out=e239c127354875a4e21da003857bd3ab.jpg
+https://assets.rdjvn-assets.com/static/mp3/3ayzed-fathe-ghole/e96269a355830c0.jpg
+	dir=output/rj/images/songs/
+	out=bbc4ee6dd53410f1342ca2128cd284f5.jpg
+https://assets.rdjvn-assets.com/static/mp3/3d-band-soute-sammi/7ce3f41a0b02060.jpg
+	dir=output/rj/images/songs/
+	out=767605b76296f82b7f67aa8b4ba882fd.jpg
+https://assets.rdjvn-assets.com/static/mp3/3d-band-delay/c72e26034bdf34e.jpg
+	dir=output/rj/images/songs/
+	out=b5913d319843108b7e49668628195f03.jpg
+https://assets.rdjvn-assets.com/static/mp3/3faz-haj-khanoom/5cc44709.jpg
+	dir=output/rj/images/songs/
+	out=2b79372ec8aca1f3307747d0f2db4820.jpg
+https://assets.rdjvn-assets.com/static/mp3/3k-joker/99eb66984c3eb39.jpg
+	dir=output/rj/images/songs/
+	out=2102267828d4bc78d14cdabdd03be95a.jpg
+https://assets.rdjvn-assets.com/static/mp3/3k-chak-(ft-meysam-texter)/75dc8079d595351.jpg
+	dir=output/rj/images/songs/
+	out=18e489647d3b738339c5ffd7848cc2da.jpg
+https://assets.rdjvn-assets.com/static/mp3/3kor-team-khaterat/caf476e5.jpg
+	dir=output/rj/images/songs/
+	out=954ecc77c6c1c7c344122f6e906f5949.jpg
+https://assets.rdjvn-assets.com/static/mp3/3kor-team-eshgho-roya/3d43dccd.jpg
+	dir=output/rj/images/songs/
+	out=846c076a3c653e7fd4d7d52afe809fc9.jpg
+https://assets.rdjvn-assets.com/static/mp3/3m-band-saze-donya/6990bb5794a0899.jpg
+	dir=output/rj/images/songs/
+	out=9751ae4d987a5c1308f3f8ebec119709.jpg
+https://assets.rdjvn-assets.com/static/mp3/3m-bax-madar/6745b764ea3038a.jpg
+	dir=output/rj/images/songs/
+	out=75084769713cb57cde3060876ceb345c.jpg
+https://assets.rdjvn-assets.com/static/mp3/3n-war-time/bfc9a50b.jpg
+	dir=output/rj/images/songs/
+	out=2f9cfb80be6eb945f716793b4ac6b747.jpg
+https://assets.rdjvn-assets.com/static/mp3/3nator-band-khanoomi/1a59db26.jpg
+	dir=output/rj/images/songs/
+	out=4e3ecc8037626b25e503aabffdd1253d.jpg
+https://assets.rdjvn-assets.com/static/mp3/3noghte-adaad-(ft-vahid)/dbf4055b5eda76f.jpg
+	dir=output/rj/images/songs/
+	out=9a84cfb08e4ead90c7ea1c1ca4a4e189.jpg
+https://assets.rdjvn-assets.com/static/mp3/3noghte-hale-khoob/72e8e438a254fe4.jpg
+	dir=output/rj/images/songs/
+	out=981dcba6f2293292e0cc6489e61f79da.jpg
+https://assets.rdjvn-assets.com/static/mp3/3noghte-ghalam/b0bcc9a9cec78bf.jpg
+	dir=output/rj/images/songs/
+	out=b98d0954dc4127dc97034809b6ecf9ca.jpg
+https://assets.rdjvn-assets.com/static/mp3/3noghte-delnevesht/14dbd45e7ad83c7.jpg
+	dir=output/rj/images/songs/
+	out=1cfa24cfc91da3e74775b8172a42584a.jpg
+https://assets.rdjvn-assets.com/static/mp3/3noghte-majhool/d26611292b10982.jpg
+	dir=output/rj/images/songs/
+	out=5e96d900381d9cd0ee33b8fdeb717eaf.jpg
+https://assets.rdjvn-assets.com/static/mp3/3noghte-intro/c4482d50c0d7584.jpg
+	dir=output/rj/images/songs/
+	out=e1d9f2bc4f511c4f0fdf1216aefa1de7.jpg
+https://assets.rdjvn-assets.com/static/mp3/3p-tanhai/04c7633e.jpg
+	dir=output/rj/images/songs/
+	out=0b490d3aa16219c30b73c3ee80d47797.jpg
+https://assets.rdjvn-assets.com/static/mp3/3p-bavar/192915bc.jpg
+	dir=output/rj/images/songs/
+	out=6f8730efdf10a899739e43e9027f26b4.jpg
+https://assets.rdjvn-assets.com/static/mp3/3p-tanhayi/466b325f.jpg
+	dir=output/rj/images/songs/
+	out=f1283b2ca74df244b8e5d2777d8b48d5.jpg
+https://assets.rdjvn-assets.com/static/mp3/3p-tars/29f263b4.jpg
+	dir=output/rj/images/songs/
+	out=abdacfff55f62d04aee70d4c401db275.jpg
+https://assets.rdjvn-assets.com/static/mp3/3p-eshghe-mano-to/b4d40a48.jpg
+	dir=output/rj/images/songs/
+	out=599ddd5657e3f87db8e61757efb43837.jpg
+https://assets.rdjvn-assets.com/static/mp3/3pak-zendegi-hip-hopi/e20ad6f710805fe.jpg
+	dir=output/rj/images/songs/
+	out=917a62a4385221d20bbff9fb3f6692e2.jpg
+https://assets.rdjvn-assets.com/static/mp3/3pak-cheto-khol/927baf8f8ba21f6.jpg
+	dir=output/rj/images/songs/
+	out=ebdb7af519acf7c306006438b493e81d.jpg
+https://assets.rdjvn-assets.com/static/mp3/3panta-dastasho-nagir-(ft-amir-j)/2c165a4cdf82137.jpg
+	dir=output/rj/images/songs/
+	out=200c5320afc2c624017f4cd5111f3690.jpg
+https://assets.rdjvn-assets.com/static/mp3/3paz-gharar/8fdce238446fd0a.jpg
+	dir=output/rj/images/songs/
+	out=53908a25da67393d6fd4936465ac503d.jpg
+https://assets.rdjvn-assets.com/static/mp3/3ptamr-snowing-weather-(ft-mahbod-as-nazanin)/a1fe9b5a350804b.jpg
+	dir=output/rj/images/songs/
+	out=3816c3ca372f645208caa1b36b22e6b2.jpg
+https://assets.rdjvn-assets.com/static/mp3/3sin-ba-to-khobe-halam/2191cd3775f45f0.jpg
+	dir=output/rj/images/songs/
+	out=8442df25f93c77032d0b143a52ba5ffc.jpg
+https://assets.rdjvn-assets.com/static/mp3/3zgi-band-bemoon/83716dc0.jpg
+	dir=output/rj/images/songs/
+	out=c78b75e1b9fec2bbb2d648854fbb292c.jpg
+https://assets.rdjvn-assets.com/static/mp3/3zgi-band-(t7)-oon-rooza/8da5e0a7.jpg
+	dir=output/rj/images/songs/
+	out=ffec2a2e6658ea3882f55b4ef15a2b16.jpg
+https://assets.rdjvn-assets.com/static/mp3/4-iranian-woman-lahzeye-khodafezi/eecb65f26480ddc.jpg
+	dir=output/rj/images/songs/
+	out=3de3d3e84a8d95e8416b614774891732.jpg
+https://assets.rdjvn-assets.com/static/mp3/41-band-nafare-badi-lotfan/8e8fa77a90321e5.jpg
+	dir=output/rj/images/songs/
+	out=5b31c78c1af6a1ec0795acc69a49c01c.jpg
+https://assets.rdjvn-assets.com/static/mp3/40-band-ensane-bi-maghz/05f67630d503910.jpg
+	dir=output/rj/images/songs/
+	out=28cc705c74a78326c69d740e80e27a8b.jpg
+https://assets.rdjvn-assets.com/static/mp3/4band-lanati/8bf8e8e958e8132.jpg
+	dir=output/rj/images/songs/
+	out=89ad183574430acadf37c9ba9c1e9818.jpg
+https://assets.rdjvn-assets.com/static/mp3/4-band-didi-raft/265c02c99a105cd.jpg
+	dir=output/rj/images/songs/
+	out=5406dd4d0b4c80db38d07fd6820f4d61.jpg
+https://assets.rdjvn-assets.com/static/mp3/4-band-ayande/b9d40e8b6d1f38f.jpg
+	dir=output/rj/images/songs/
+	out=29d6e029b6a22e65354322a762514013.jpg
+https://assets.rdjvn-assets.com/static/mp3/4band-dor-shid-az-eshgham/8aac08d47f05824.jpg
+	dir=output/rj/images/songs/
+	out=8bddb72be25415397e9834fc49492342.jpg
+https://assets.rdjvn-assets.com/static/mp3/4band-luxury/fc5e0ad07c42ed8.jpg
+	dir=output/rj/images/songs/
+	out=93a8a94fb491ee3ed52e13208c05d617.jpg
+https://assets.rdjvn-assets.com/static/mp3/4band-shokhi-nist/d6bb4cdcab20f15.jpg
+	dir=output/rj/images/songs/
+	out=b7e37e24c97beadc14a7e9e454bdc5fb.jpg
+https://assets.rdjvn-assets.com/static/mp3/4brothers-melegim/9907937f7b64ba5.jpg
+	dir=output/rj/images/songs/
+	out=37e3c7a978182eecdeaed21edddb1dbc.jpg
+https://assets.rdjvn-assets.com/static/mp3/4brothers-eyvallah/cc2a2baae29b605.jpg
+	dir=output/rj/images/songs/
+	out=4e5e7850fd2b02b8bd5c6769e06cd335.jpg
+https://assets.rdjvn-assets.com/static/mp3/4brothers-muhammed-resulullah/34f05e8c5027fc5.jpg
+	dir=output/rj/images/songs/
+	out=a97da33de4313b3bbb9f535507ec7151.jpg
+https://assets.rdjvn-assets.com/static/mp3/4choob-band-to-eshghe-mani/74a46b34.jpg
+	dir=output/rj/images/songs/
+	out=57c2cb91df309d844e7a7958cb9c3532.jpg
+https://assets.rdjvn-assets.com/static/mp3/4ever-fargh-darim/29247b3d9eb08cc.jpg
+	dir=output/rj/images/songs/
+	out=d4ad8d6ed2c72f17c75ecb1f8c9d7d24.jpg
+https://assets.rdjvn-assets.com/static/mp3/4ever-dast-derazi/9ed718d2ee3d64e.jpg
+	dir=output/rj/images/songs/
+	out=356c64335f645daaa1f66e1e18d460b3.jpg
+https://assets.rdjvn-assets.com/static/mp3/4ever-dargiretam/ad5368055de8f1a.jpg
+	dir=output/rj/images/songs/
+	out=3020468469c0b3a1aa7c7dcacb52688c.jpg
+https://assets.rdjvn-assets.com/static/mp3/4ever-akharesh/85f40c2ce3aeb9d.jpg
+	dir=output/rj/images/songs/
+	out=8c7af5646fed8eec68f33d5d7abb3ba7.jpg
+https://assets.rdjvn-assets.com/static/mp3/4ever-beppa-(ft-backtash)/d91129f44d219e5.jpg
+	dir=output/rj/images/songs/
+	out=f23ad7f340a96b783207000478b39b51.jpg
+https://assets.rdjvn-assets.com/static/mp3/4ever-bargard/17d995950ad977e.jpg
+	dir=output/rj/images/songs/
+	out=4c91a209236b514bbb40148d88ab2694.jpg
+https://assets.rdjvn-assets.com/static/mp3/4ever-sang/fa9586f70dd2af0.jpg
+	dir=output/rj/images/songs/
+	out=2edbc5c92a32c98e6daab8b12fa40e8c.jpg
+https://assets.rdjvn-assets.com/static/mp3/4ever-shabe-jome/bab57345a1a9b7f.jpg
+	dir=output/rj/images/songs/
+	out=8e38be66047931ba82879b0eb6812a76.jpg
+https://assets.rdjvn-assets.com/static/mp3/4ever-javab/fbc6e7f7cd80281.jpg
+	dir=output/rj/images/songs/
+	out=91fc316658cb5aefcb71c949cb606718.jpg
+https://assets.rdjvn-assets.com/static/mp3/4ever-tabloo/0030b944314ed3d.jpg
+	dir=output/rj/images/songs/
+	out=21233603bb409b3ade24f0de95d38e42.jpg
+https://assets.rdjvn-assets.com/static/mp3/4ever-majhool/456807a11c27c91.jpg
+	dir=output/rj/images/songs/
+	out=afcfd1c85b99cdf41576b4f6a177a34a.jpg
+https://assets.rdjvn-assets.com/static/mp3/4n-hasan-chand-khat-rap/35fc67e05288d54.jpg
+	dir=output/rj/images/songs/
+	out=f1bd7f2677f8cc4181a373b866d4f286.jpg
+https://assets.rdjvn-assets.com/static/mp3/4p-band-dard-mardom/d4b5ed92815bb68.jpg
+	dir=output/rj/images/songs/
+	out=c3dc8869275f93377d30f73f41a4e7ad.jpg
+https://assets.rdjvn-assets.com/static/mp3/4p-band-paradox/a839451b97b6b35.jpg
+	dir=output/rj/images/songs/
+	out=b83fd649cfe912c2a985e4e676be9f7d.jpg
+https://assets.rdjvn-assets.com/static/mp3/4rah-shayad/13f1b753.jpg
+	dir=output/rj/images/songs/
+	out=f485e4549b4fad19f4cc1288eb5da60d.jpg
+https://assets.rdjvn-assets.com/static/mp3/4rah-band-dari-miri/9874f4f1.jpg
+	dir=output/rj/images/songs/
+	out=0610ab1ad611bd910d9c0925a2d4a531.jpg
+https://assets.rdjvn-assets.com/static/mp3/4rah-band-hesse-khoob-(ft-sina-shahidi-ariana)/f6bda84811c36c7.jpg
+	dir=output/rj/images/songs/
+	out=e5fc3abfd5f665d36df8c6c706caf5de.jpg
+https://assets.rdjvn-assets.com/static/mp3/4shadow-izad/cc022ae12d3ce3e.jpg
+	dir=output/rj/images/songs/
+	out=e997dacc2f72481a96e6f5f10dc831b5.jpg
+https://assets.rdjvn-assets.com/static/mp3/4soooo-fly/669ef2a6.jpg
+	dir=output/rj/images/songs/
+	out=39d98b9f4ef4e3deed7051881aeefeb6.jpg
+https://assets.rdjvn-assets.com/static/mp3/4soooo-faghat-ba-to/5a78f62f.jpg
+	dir=output/rj/images/songs/
+	out=76bd4d2162178bbe60d9db8f098303f5.jpg
+https://assets.rdjvn-assets.com/static/mp3/4soooo-band-soorati/899c509d.jpg
+	dir=output/rj/images/songs/
+	out=75d78b1f97108da945092a8732bcc927.jpg
+https://assets.rdjvn-assets.com/static/mp3/4stars-royaye-sahel/e9b1a20a.jpg
+	dir=output/rj/images/songs/
+	out=eef7bdf8736d3239a03536fc6bc840b3.jpg
+https://assets.rdjvn-assets.com/static/mp3/4stars-band-barooneh/9d13763d.jpg
+	dir=output/rj/images/songs/
+	out=8a0a54af2951d1caca587c8201b8deb6.jpg
+https://assets.rdjvn-assets.com/static/mp3/5pookband-dige-dire/dbdf9fed613caf3.jpg
+	dir=output/rj/images/songs/
+	out=cc92bc35662083ed18f3c07a3ffa44bf.jpg
+https://assets.rdjvn-assets.com/static/mp3/mehrshaad-harfi-nadaram-(ft-5pookband)/5ccbbc410c7662e.jpg
+	dir=output/rj/images/songs/
+	out=5a44ba14ac1fd0232d3904825aee44da.jpg
+https://assets.rdjvn-assets.com/static/mp3/5thboys-love-story/53acd3325caa656.jpg
+	dir=output/rj/images/songs/
+	out=9c5ca822a07c8d0b1b7731786f99b317.jpg
+https://assets.rdjvn-assets.com/static/mp3/60-band-matarsak/27dcfc0fc97ddf0.jpg
+	dir=output/rj/images/songs/
+	out=ccc25a4ff27c38adb31aecac31de515b.jpg
+https://assets.rdjvn-assets.com/static/mp3/60-band-baziche/bd2047894c17b8f.jpg
+	dir=output/rj/images/songs/
+	out=516f97f6b81c26b78daa1a490e7d9a9c.jpg
+https://assets.rdjvn-assets.com/static/mp3/60-band-jadoo/3b9341e2d8a0eb8.jpg
+	dir=output/rj/images/songs/
+	out=1a457cc8531b825b59225a5761ef577d.jpg
+https://assets.rdjvn-assets.com/static/mp3/60-band-ketabe-farsi/a1c257f89d33865.jpg
+	dir=output/rj/images/songs/
+	out=2160f89d954abaa87f004565e69e43aa.jpg
+https://assets.rdjvn-assets.com/static/mp3/60-band-roya/ca213393ba53e8d.jpg
+	dir=output/rj/images/songs/
+	out=01c88be37911fb2b2c6ce5be911a6025.jpg
+https://assets.rdjvn-assets.com/static/mp3/60-band-gerye-nakon/a82a88c7d889c49.jpg
+	dir=output/rj/images/songs/
+	out=ba4ce0582b3fa5525c5106f0865d09b4.jpg
+https://assets.rdjvn-assets.com/static/mp3/60-band-saye-roshan/de5812cdca2c977.jpg
+	dir=output/rj/images/songs/
+	out=597b50c3c9f073a8c891c9e5e0eaa328.jpg
+https://assets.rdjvn-assets.com/static/mp3/60-band-yadegari/2f0c4c209cd6210.jpg
+	dir=output/rj/images/songs/
+	out=aa66fc9f1f2e597423e8363975b32f79.jpg
+https://assets.rdjvn-assets.com/static/mp3/60-band-shabgard/4b455209d7668b8.jpg
+	dir=output/rj/images/songs/
+	out=e941a362c8d7255fd975fb8e280c764d.jpg
+https://assets.rdjvn-assets.com/static/mp3/60-band-sakhreh/a27b07dbc62e3f6.jpg
+	dir=output/rj/images/songs/
+	out=969bc4dd0ca42ac115a761b3915819d0.jpg
+https://assets.rdjvn-assets.com/static/mp3/64--velgard/7cc644215d6c0f8.jpg
+	dir=output/rj/images/songs/
+	out=a1d09e25ed4b04894830b40f13f7b155.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-dooset-daram-(live-in-concert)/d118bce2.jpg
+	dir=output/rj/images/songs/
+	out=2dc88269b80f52760e648bb170da176c.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-eddea/304f93c0a522da9.jpg
+	dir=output/rj/images/songs/
+	out=a6e0ae6ea46a47f0d2b01c1e7e6ea30e.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-avalin-eshgh/3665bab10287e8f.jpg
+	dir=output/rj/images/songs/
+	out=12ee71a592b82385adb51cc0e8b720da.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-donyaye-bade-to/477be08ea3ea35c.jpg
+	dir=output/rj/images/songs/
+	out=4bd704496f3837177e2e0183e9ecd3c2.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-dire/77a7e4fc497dd22.jpg
+	dir=output/rj/images/songs/
+	out=3cc87ac0565afcb556356ebb380b895c.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-nafas/6b9930eb.jpg
+	dir=output/rj/images/songs/
+	out=242f6440a9c5e023f2444dd926df8d09.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-ye-rahi-pishe-room-bezar/03920344.jpg
+	dir=output/rj/images/songs/
+	out=1b5a2bde77fec7cf9385a8c701d60c29.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-band-vasat-mimiram/22402cf0.jpg
+	dir=output/rj/images/songs/
+	out=c028078146b299ae0273e94651309953.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-music-band-zamaneh/7a7ad380.jpg
+	dir=output/rj/images/songs/
+	out=becfdd0ca598748eed93f18cc0e56dd4.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-khahesh/ea4b30a3.jpg
+	dir=output/rj/images/songs/
+	out=4d7307d198a38f3dbbb086c1fe1fdf26.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-naro-khahesh-mikonam/d8a4d5b8.jpg
+	dir=output/rj/images/songs/
+	out=b377d923842bd2610392a19a4a01c3c1.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-music-band-booye-eyd/4b42edda.jpg
+	dir=output/rj/images/songs/
+	out=cc38c87d8af7485738d5f00b02e73ab4.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-man-bi-to-mimiram/a1955864.jpg
+	dir=output/rj/images/songs/
+	out=9cbf05b0fb1f346d73b6f62f0171dbda.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-music-band-ehsase-shak/55953573.jpg
+	dir=output/rj/images/songs/
+	out=a78bd61119b68e3dde56d5e8607b4af5.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-music-band-bavar/571b6fd4.jpg
+	dir=output/rj/images/songs/
+	out=4e3f154ce9e1baf307c5e4f0361e6d3f.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-band-setareh/56ce2cd6.jpg
+	dir=output/rj/images/songs/
+	out=b5d5d43615cfc397790a092bb1ef9502.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-music-band-eteraf/3c2d0dc2.jpg
+	dir=output/rj/images/songs/
+	out=7a5f4bd1bd8844b4b2ad2de6888fec9b.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-mikham-bebinamet/a0820aa15634c32.jpg
+	dir=output/rj/images/songs/
+	out=4437dfa43944e3a905bd2ac4a712f784.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-har-chi-migam-dooset-daram/d0e2f343.jpg
+	dir=output/rj/images/songs/
+	out=5a80e64d2743b2d34f8ed50d37da4c96.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-band-ye-lahzeh-cheshmato-beband/d08b434e.jpg
+	dir=output/rj/images/songs/
+	out=ad6bb866fdd9d87838b079838b2240f8.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-man-asheghet-misham/f24c5a3dfb67a33.jpg
+	dir=output/rj/images/songs/
+	out=5ad615c7d5b529cc6a01a326790b9df1.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-hamash-be-to-fekr-mikonam/a4bd39fd.jpg
+	dir=output/rj/images/songs/
+	out=3c88e307aee38d3a710e1b7e9f03dd68.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-eshghe-man/80459e62.jpg
+	dir=output/rj/images/songs/
+	out=112ccf2c3e52047d7ae8b84609a617af.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-band-asemooni/9c04bec1.jpg
+	dir=output/rj/images/songs/
+	out=7b746c0decd3c86d84b247c8faceaaf7.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-music-band-hamdast/fddd9754.jpg
+	dir=output/rj/images/songs/
+	out=768016c4435e4235dbeefc661d05215f.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-divooneh/cf5947ec246c206.jpg
+	dir=output/rj/images/songs/
+	out=cd719f8a932645499cc7911c5dcc3957.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-mesle-ye-mard/6449852139b6470.jpg
+	dir=output/rj/images/songs/
+	out=be40f5d9a60e142d838930606cfa6b13.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-band-toro-mikham/ac8bde50.jpg
+	dir=output/rj/images/songs/
+	out=eafb331564d70ca9e417fc505f27b90e.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-band-bezar-dastato-begiram/fcef8ec9.jpg
+	dir=output/rj/images/songs/
+	out=cf446c6b444c56de10d782f84702e7cc.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-tanhatarin/01d28f8e46ef495.jpg
+	dir=output/rj/images/songs/
+	out=cac113984eb96cf27a019a11b2d7605f.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-band-vasat-mimiram-(new-version)/6e6dcb1d.jpg
+	dir=output/rj/images/songs/
+	out=263eb51e22b82213421ac75b2e985d52.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-doost-dashtani/e05d52d76a4f134.jpg
+	dir=output/rj/images/songs/
+	out=bfb59b39a91e81933a4d341b1fd5952a.jpg
+https://assets.rdjvn-assets.com/static/mp3/7-band-havasam-be-toe/88971c3bf5be3ee.jpg
+	dir=output/rj/images/songs/
+	out=bf3802e377e923e030181e643f80baa4.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-band-paria/b0322e42.jpg
+	dir=output/rj/images/songs/
+	out=6eef60f23563b4ea9538a37a1180e8ce.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-band-the-voice/e9bbcf30.jpg
+	dir=output/rj/images/songs/
+	out=083d05027e52b3b8cab8737977167ea9.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-band-dorogh-goo/2664b831.jpg
+	dir=output/rj/images/songs/
+	out=fe851b9572e51e80049fd270a598757c.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-band-kocheh/7fa9ddb5.jpg
+	dir=output/rj/images/songs/
+	out=b4132d65ab93fe0c7063c013dc2b8365.jpg
+https://assets.rdjvn-assets.com/static/mp3/72-mim-raha/64407e061cc98d5.jpg
+	dir=output/rj/images/songs/
+	out=5e0cf8914970f02ffee4f143fe9d8498.jpg
+https://assets.rdjvn-assets.com/static/mp3/72-mim-shahre-ashoob/1b99cf8e8693894.jpg
+	dir=output/rj/images/songs/
+	out=d5cf0a1a59c2a3e8e297c9e902097003.jpg
+https://assets.rdjvn-assets.com/static/mp3/72-mim-panah/0f94255f76ec600.jpg
+	dir=output/rj/images/songs/
+	out=085c58e0b4819518249895cfc1d2e24a.jpg
+https://assets.rdjvn-assets.com/static/mp3/72-mim-khak/b1f0434e229e1dd.jpg
+	dir=output/rj/images/songs/
+	out=2559f15ff4537dfb6f89aeddfaaf5db5.jpg
+https://assets.rdjvn-assets.com/static/mp3/72-mim-tanasokh/feb63d03e756141.jpg
+	dir=output/rj/images/songs/
+	out=6850934c7adc51b56a352c624f580119.jpg
+https://assets.rdjvn-assets.com/static/mp3/72-mim-khoon/2422e0394694070.jpg
+	dir=output/rj/images/songs/
+	out=b1f0b6ec1ecafeeec7c696bf777d2326.jpg
+https://assets.rdjvn-assets.com/static/mp3/72-mim-takamol/bb02e72c55e8dd8.jpg
+	dir=output/rj/images/songs/
+	out=09021b1ea5c0c50ed25d57537acbb1ec.jpg
+https://assets.rdjvn-assets.com/static/mp3/72mim-curse-of-minor/282949f73bcb276.jpg
+	dir=output/rj/images/songs/
+	out=313a3124c5fda7e376f6013b864d146f.jpg
+https://assets.rdjvn-assets.com/static/mp3/72mim-heyvan-kamel/33337d5ad8646f4.jpg
+	dir=output/rj/images/songs/
+	out=454df6cb41b76c13c75d3b2696cc5b68.jpg
+https://assets.rdjvn-assets.com/static/mp3/72mim-nime-tarik/0d794cd12213e81.jpg
+	dir=output/rj/images/songs/
+	out=d239f8092c3c0f6856cf53c339fb8005.jpg
+https://assets.rdjvn-assets.com/static/mp3/72mim-mabud-2/a8c1d02cbf96f87.jpg
+	dir=output/rj/images/songs/
+	out=c528b7b9a5d032de0bbc50878396cccc.jpg
+https://assets.rdjvn-assets.com/static/mp3/72mim-sobhe-jangall/a33a6c07d01c768.jpg
+	dir=output/rj/images/songs/
+	out=b8552f84cfebd9d7f60634c6b4329323.jpg
+https://assets.rdjvn-assets.com/static/mp3/72mim-khiyabane-ajayeb/66716c30cde6642.jpg
+	dir=output/rj/images/songs/
+	out=5fc011cc01f2a73141503c667c9256d1.jpg
+https://assets.rdjvn-assets.com/static/mp3/72mim-intro/116759b5ca2565d.jpg
+	dir=output/rj/images/songs/
+	out=8256e653619348fc3d65b765f4a89ce5.jpg
+https://assets.rdjvn-assets.com/static/mp3/72mim-ashke-ghughnus/1120ae109883c7a.jpg
+	dir=output/rj/images/songs/
+	out=492b4b12abcfeca73092176752643386.jpg
+https://assets.rdjvn-assets.com/static/mp3/72mim-faryade-sokoot/53ecc023cd3587b.jpg
+	dir=output/rj/images/songs/
+	out=02c2ddebd768d20c44aaacdf62880610.jpg
+https://assets.rdjvn-assets.com/static/mp3/72mim-zakhme-rooh/7b8b4e4f8c9e595.jpg
+	dir=output/rj/images/songs/
+	out=3f351122d06056d0786640fe6be47d20.jpg
+https://assets.rdjvn-assets.com/static/mp3/72mim-mojrem/324639b6468358e.jpg
+	dir=output/rj/images/songs/
+	out=053a09f114871a872e21b6c696df2025.jpg
+https://assets.rdjvn-assets.com/static/mp3/72mim-khakestar/0dc9f8df842b042.jpg
+	dir=output/rj/images/songs/
+	out=a9f827c0c1dac97ce418e0317b770143.jpg
+https://assets.rdjvn-assets.com/static/mp3/78-band-lakar/196f65154151ddb.jpg
+	dir=output/rj/images/songs/
+	out=c58dc6e4097463e274397b167b0354d2.jpg
+https://assets.rdjvn-assets.com/static/mp3/7sin-band-baroon/7b034cac2616943.jpg
+	dir=output/rj/images/songs/
+	out=29ceb41cf28688fcfda1a86cff6488cc.jpg
+https://assets.rdjvn-assets.com/static/mp3/7sin-band-dream/d012c6ec24ea471.jpg
+	dir=output/rj/images/songs/
+	out=518c3b713593e8a255bdd048864a215c.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-arena-band-delet-koja-gireh-(ft-mohamad-reza-moshiri-elham)/c1262a34.jpg
+	dir=output/rj/images/songs/
+	out=7646203621835183b95491b03c94e86d.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-arena-band-68-(dj-farshid-remix-ft-masoud-sadegh)/b86e673e.jpg
+	dir=output/rj/images/songs/
+	out=7a2fa9b7f17673f1a9e826e9028e4d47.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-arena-band-oon-rooza-(ft-masoud-sedaghati)/190c1602.jpg
+	dir=output/rj/images/songs/
+	out=b0cbcd67b8fa4f69646ae67edf98c879.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-arena-band-chera-ke-na-(ft-masoud-sedaghati)/c32cbeb3.jpg
+	dir=output/rj/images/songs/
+	out=a67927eb06a918bbf0ea818abd49f3a8.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-arena-band-bia-hale-maro-mizoon-kon-(ft-masoud-sedaghati)/a3752353.jpg
+	dir=output/rj/images/songs/
+	out=00c5479891bf394a5a06cf96fdb24820.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-arena-band-soojeh/298b3f90.jpg
+	dir=output/rj/images/songs/
+	out=bda657ff274df63217f02fc51caf1004.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-arena-band-pesar-khaleh-(ft-sadegh-khosravi)/b5f12401.jpg
+	dir=output/rj/images/songs/
+	out=c577f52e3b521f79cb7a686524a98de3.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-arena-band-fafa/ca8a4b18.jpg
+	dir=output/rj/images/songs/
+	out=fb034a8d6bd8505b71ab348d13974b36.jpg
+https://assets.rdjvn-assets.com/static/mp3/bahram-zakhmi-(ft-7th-arena-band)/f456e0d1c9f41dc.jpg
+	dir=output/rj/images/songs/
+	out=333abe780f993405354f9c04fc9e9b8d.jpg
+https://assets.rdjvn-assets.com/static/mp3/bahram-bemir-ya-bemon-(ft-7th-arena-band)/eb341e93e487fcc.jpg
+	dir=output/rj/images/songs/
+	out=bd43609fd685aa546091065e9fa2875e.jpg
+https://assets.rdjvn-assets.com/static/mp3/bahram-pasho-bia-hamram-(7th-arena-band-am)/ca0ec89b57b6167.jpg
+	dir=output/rj/images/songs/
+	out=7c0ff2a7a53ada0143ec3388f0676308.jpg
+https://assets.rdjvn-assets.com/static/mp3/shahin-jamshid-pour-mano-bebakhsh-(ft-7th-arena-band)/06cc24c8.jpg
+	dir=output/rj/images/songs/
+	out=fc4bf3b38cb3302e462bf07b5cd456e6.jpg
+https://assets.rdjvn-assets.com/static/mp3/masoud-sedaghati-khoda-midooneh-(ft-7th-arena-band)/47101987.jpg
+	dir=output/rj/images/songs/
+	out=36a6a4d5d5e025968bc02e1be0114e8c.jpg
+https://assets.rdjvn-assets.com/static/mp3/montaghedin-(7th-arena-band)-khalije-hamishe-pars/5dd1db94.jpg
+	dir=output/rj/images/songs/
+	out=2773be9e81990a7ef6f376ce580ec5bf.jpg
+https://assets.rdjvn-assets.com/static/mp3/montaghedin-ghadima/e26160a6.jpg
+	dir=output/rj/images/songs/
+	out=09b015302418f5649b4f81a9ff752955.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-sky-band-mehmoon/78defa562c14142.jpg
+	dir=output/rj/images/songs/
+	out=656fb9163701207c52e5afe4323e420f.jpg
+https://assets.rdjvn-assets.com/static/mp3/7th-sky-band-hey-azizam/23112045a387340.jpg
+	dir=output/rj/images/songs/
+	out=e8c5bbc519375b52dd25f6e43c332e5b.jpg
+https://assets.rdjvn-assets.com/static/mp3/8-band-khial/929ecdf4a4c85c8.jpg
+	dir=output/rj/images/songs/
+	out=1e2ff6cadea5cb61bd56ce48b6ab2aca.jpg
+https://assets.rdjvn-assets.com/static/mp3/8-mm-khodamam/a99af1c0636630d.jpg
+	dir=output/rj/images/songs/
+	out=f9fa52bbfeb3e7388a56cbb83ec3578c.jpg
+https://assets.rdjvn-assets.com/static/mp3/8band-eshghami/eaa2ee019def53c.jpg
+	dir=output/rj/images/songs/
+	out=2283b5b152d9050b5a15584ba40fb5cf.jpg
+https://assets.rdjvn-assets.com/static/mp3/8band-khatoon/4e56f7b1794abc3.jpg
+	dir=output/rj/images/songs/
+	out=12c6ac90c56a0b211981cee6648bfbd3.jpg
+https://assets.rdjvn-assets.com/static/mp3/8paa-line/215233a48d254d4.jpg
+	dir=output/rj/images/songs/
+	out=4a0c60f4946d7e4ff4a3de144d846497.jpg
+https://assets.rdjvn-assets.com/static/mp3/8paa-group-sleep/63f8d98025f4b66.jpg
+	dir=output/rj/images/songs/
+	out=985e5ee8c4828d8eb07362499db73f48.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-moon-delam-nayoomad/fb12d7d4221e928.jpg
+	dir=output/rj/images/songs/
+	out=21e28473c62fb3ae10f272d839ab1bd5.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-moon-dobare-asheqet-misham/cfa0655f60565f6.jpg
+	dir=output/rj/images/songs/
+	out=3957f1cda321d8dceaa400b9ee0b3d8c.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-min-salam-(ft-masoud-sadeghloo)/f13e7432.jpg
+	dir=output/rj/images/songs/
+	out=3333a2bd3ba347f6e00075baf88b31c8.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-min-dari-miri-(ft-clara)/c568296a8d0a2f8.jpg
+	dir=output/rj/images/songs/
+	out=99bc29f8a227629277d3773a957fcbf3.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-min-jaye-khali-(ft-masud-sadeghloo)/cef53867.jpg
+	dir=output/rj/images/songs/
+	out=ad107fda77b734237942f0d965f080e4.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-min-barmigardi-(ft-parastoo)/26445e6b08c2728.jpg
+	dir=output/rj/images/songs/
+	out=60bb9fa8605f9585287ecc81ce45ee98.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-min-aghoosh-(ft-hamed-behdad)-(vahid-zakeri-remix)/06d2a257.jpg
+	dir=output/rj/images/songs/
+	out=a9a245dea60c6ff57b3f85ca3432135f.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-min-kodoom-eshgh-(ft-afra)/935ac8f5c7d5765.jpg
+	dir=output/rj/images/songs/
+	out=02359251e976f8ecca4442024ff1ad3f.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-min-navare-ghalb/60ed33a5.jpg
+	dir=output/rj/images/songs/
+	out=54ba6a667dfa09b05d8dc63fa5d1903a.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-min-the-pills/3d4805b4.jpg
+	dir=output/rj/images/songs/
+	out=a207dc39c6a104190aca6f41cddfb830.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-min-eshtebah/957db459.jpg
+	dir=output/rj/images/songs/
+	out=2ca88bed2428547c3e701b5bcfd0dbf0.jpg
+https://assets.rdjvn-assets.com/static/mp3/raysa-a-min-tahe-ghesse/46b3aff91f88921.jpg
+	dir=output/rj/images/songs/
+	out=c73487ba8c91dc49a173c54554534bf6.jpg
+https://assets.rdjvn-assets.com/static/mp3/barbod-yarmohammadi-bala-beri-paein-biai-(ft-raysa-a-min)/eceb39157947a92.jpg
+	dir=output/rj/images/songs/
+	out=e8a29f6bcba9a836a3ae62ef753ee1f2.jpg
+https://assets.rdjvn-assets.com/static/mp3/masoud-sadeghloo-a-min-sobh-shod/062ab092.jpg
+	dir=output/rj/images/songs/
+	out=22d585e5823d8e2f9b0994f5cbeb9958.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-pack-overdose/c8af48183137763.jpg
+	dir=output/rj/images/songs/
+	out=3bb5248fd4e1104c0e7d51ac6e5fe67c.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-team-dastane-talkh/95c3b590843b375.jpg
+	dir=output/rj/images/songs/
+	out=17933256267fb79843721911151933e7.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-tin-ounam-raft-(ft-ramin-milad-big-foolish)/e058b7ad810998b.jpg
+	dir=output/rj/images/songs/
+	out=56b1de670ecd035f00cd95a4a5cc5425.jpg
+https://assets.rdjvn-assets.com/static/mp3/agoli-mojassame/714155c7560fe58.jpg
+	dir=output/rj/images/songs/
+	out=ddc4f51da6b8e0efc53f4e21668876f2.jpg
+https://assets.rdjvn-assets.com/static/mp3/ak-band-az-vaghti-to-rafti/99f5287d708b0a2.jpg
+	dir=output/rj/images/songs/
+	out=31c640134afe1825569b6716cf7146a2.jpg
+https://assets.rdjvn-assets.com/static/mp3/ak-band-didoone-misham/42d42e82ac58c00.jpg
+	dir=output/rj/images/songs/
+	out=2b1e6761004ba66a687d16929fe4cd7e.jpg
+https://assets.rdjvn-assets.com/static/mp3/a-k-band-cigar/aa39612042d1e0d.jpg
+	dir=output/rj/images/songs/
+	out=0c446729d3a32a9116866059e859d081.jpg
+https://assets.rdjvn-assets.com/static/mp3/am-band-shodi-to-hameye-donyam-/c8a175abf7ee60a.jpg
+	dir=output/rj/images/songs/
+	out=5dcfafa0d5f879703844b66fdfbd44e4.jpg
+https://assets.rdjvn-assets.com/static/mp3/arock-hossein-ramzannia-ghasedak/ae88d2de.jpg
+	dir=output/rj/images/songs/
+	out=83b41d1ad32d61923153333437d7df90.jpg
+https://assets.rdjvn-assets.com/static/mp3/as-bikhabi/baf0fb2dc1f28c6.jpg
+	dir=output/rj/images/songs/
+	out=5a95f605abff57a79a0a901e232f09ee.jpg
+https://assets.rdjvn-assets.com/static/mp3/at-band-geryehaye-bi-seda/abeadec5c3cc4f9.jpg
+	dir=output/rj/images/songs/
+	out=978c94b695ad7dbca0aa29f1ae90bfcc.jpg
+https://assets.rdjvn-assets.com/static/mp3/az-charkhe-falak-(ft-mohammad-aerial)/068c38026744b25.jpg
+	dir=output/rj/images/songs/
+	out=03886a2f0656b688af65819e16a8b68e.jpg
+https://assets.rdjvn-assets.com/static/mp3/az-hemase/c71f02abf90fa81.jpg
+	dir=output/rj/images/songs/
+	out=0ca4c23b7c97101a20c3d6c4e3a5cace.jpg
+https://assets.rdjvn-assets.com/static/mp3/a1-sefr-(ft-makhfi)/f255fcfb2533c5c.jpg
+	dir=output/rj/images/songs/
+	out=d7eb5d939746fbb999703fedf3471320.jpg
+https://assets.rdjvn-assets.com/static/mp3/a13-ccu/697f4f0232f3f28.jpg
+	dir=output/rj/images/songs/
+	out=8ea953329553adab273ee17c975789b4.jpg
+https://assets.rdjvn-assets.com/static/mp3/a13-inpool/bfddb046897b324.jpg
+	dir=output/rj/images/songs/
+	out=22e7bb711feb3db4e16d00215de7e60f.jpg
+https://assets.rdjvn-assets.com/static/mp3/a2-band-ye-eshghe-nab/d36ccbc0ac88fad.jpg
+	dir=output/rj/images/songs/
+	out=dc22f5bbe447ef25a3e1a5f2118103cb.jpg
+https://assets.rdjvn-assets.com/static/mp3/a30-halle-lu-jah/345f72f15d81bad.jpg
+	dir=output/rj/images/songs/
+	out=60fd80fdd8fd93537e2f1e44ec6f76f8.jpg
+https://assets.rdjvn-assets.com/static/mp3/a30-sigar/d15aaac685733f1.jpg
+	dir=output/rj/images/songs/
+	out=7da9472e948a37b29fea25cdd7d27d89.jpg
+https://assets.rdjvn-assets.com/static/mp3/a3n-hallazoon/d177074b35013ec.jpg
+	dir=output/rj/images/songs/
+	out=3e793bb615c82a1668c5222b23fc42bc.jpg
+https://assets.rdjvn-assets.com/static/mp3/aaber-to-(ft-shekali)/feeb9a82a7e24ac.jpg
+	dir=output/rj/images/songs/
+	out=3f8b1718eed980a1c54c53da42598d00.jpg
+https://assets.rdjvn-assets.com/static/mp3/aadzzy-begoo-mano-bavaram-dari/c830debc.jpg
+	dir=output/rj/images/songs/
+	out=3b8c5163a81a1eef34e3483536fad037.jpg
+https://assets.rdjvn-assets.com/static/mp3/aadzzy-bemoon-bazam/ba881e93d9bd2da.jpg
+	dir=output/rj/images/songs/
+	out=f4734cc53f89f472955df0871bacfd46.jpg
+https://assets.rdjvn-assets.com/static/mp3/aadzzy-begoo-mano-bavaram-dari-(arteen-music-remix)/6de5e1b3a0b2c4d.jpg
+	dir=output/rj/images/songs/
+	out=e237529a0bb5c652b4eae61d8802e258.jpg
+https://assets.rdjvn-assets.com/static/mp3/aadzzy-baz-dobareh/21036e04c88dc7f.jpg
+	dir=output/rj/images/songs/
+	out=31000f967dd7ee16def3f57302fa4497.jpg
+https://assets.rdjvn-assets.com/static/mp3/aadzzy-hamoon-lahzeh/bdb2c0c9b870b72.jpg
+	dir=output/rj/images/songs/
+	out=6c71cf084bb36ca78a3a333dc3a506bb.jpg
+https://assets.rdjvn-assets.com/static/mp3/aaj-soghoot-(intro)/c622fe2c49303c8.jpg
+	dir=output/rj/images/songs/
+	out=337972b3b4f41d3d1e613b99f8ebd17d.jpg
+https://assets.rdjvn-assets.com/static/mp3/aaly-gelayeh-(ft-iman-zahedi-behyam)/ad13353851f4ba3.jpg
+	dir=output/rj/images/songs/
+	out=6ca8f0ab6a1bf385c4ef4f1a2f771580.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamel-daskhali-(ft-ali-sazesh-bahador)/554b8a0dc40a6ae.jpg
+	dir=output/rj/images/songs/
+	out=38b97c8b1b248cae212e7ad4656ece2c.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamel-mezah-(ft-aaj)/b1eaf8adcb3dcdb.jpg
+	dir=output/rj/images/songs/
+	out=14f08b667d3c00580e6acc56d1f3c993.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamel-siyahchal-(ft-aaj)/ec3c2ae7154eebc.jpg
+	dir=output/rj/images/songs/
+	out=da6af7ea681b2461032732f723bd5cbd.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamel-rozaneh-(ft-aaj)/bfe6aa4296f597c.jpg
+	dir=output/rj/images/songs/
+	out=248ed95769df201a82882df68bed200f.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamel-laashe-(outro)/f1c592af6a268ad.jpg
+	dir=output/rj/images/songs/
+	out=82120f1c637a6b2cfacd219f293c9f8f.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamid-abedian-aramesh/b277a6a67957e32.jpg
+	dir=output/rj/images/songs/
+	out=af8b14d0060959c90c7c9556209ef96f.jpg
+https://assets.rdjvn-assets.com/static/mp3/yas-amen-(ft-yas)/5983a83d.jpg
+	dir=output/rj/images/songs/
+	out=db778ff8b4cea485ac595c4d28a651be.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamin-delam-gerefteh/25b93c8f0b9499d.jpg
+	dir=output/rj/images/songs/
+	out=6abefbaaa86596eec07a8f4c7f79a36f.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamin-man-asheghesh-boodam/712967778ddd908.jpg
+	dir=output/rj/images/songs/
+	out=61d8a12474774cef5e1ffa054b6541e1.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamin-ba-to-aliye/830b53f71a0fc31.jpg
+	dir=output/rj/images/songs/
+	out=7c1f244797c6c173e200a1c3616222bf.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamin-asheghetam/3259b6e660d421c.jpg
+	dir=output/rj/images/songs/
+	out=c78c937d0fa675c7cbb891b6a0ce72e8.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamin-nisti-(new-version)/615ecaa0a057bdf.jpg
+	dir=output/rj/images/songs/
+	out=b3b125bd4f676009caa3e49702115096.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamin-halam-bade/29cfbc9c8e1a7dc.jpg
+	dir=output/rj/images/songs/
+	out=a8457532d34ba929d038ebd6c76d74ca.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamin-ye-joore-dige/130b37c6d5bb896.jpg
+	dir=output/rj/images/songs/
+	out=b2d3b7fba1ada9ee902a1ee2b22425ce.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamin-delet-inja-nist/fefa0720f0389e6.jpg
+	dir=output/rj/images/songs/
+	out=61db11a464e7cc100ab4d15711531f89.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamin-dige-bargard/3dd1c37f.jpg
+	dir=output/rj/images/songs/
+	out=5cf821e3ed15c5bdd8124875fea1cfc1.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamin-mesle-bachegi/8b3be5ab.jpg
+	dir=output/rj/images/songs/
+	out=85c6c8b3fea8a44515aa5078ff51b4ca.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamin-narenji/12beaf8e.jpg
+	dir=output/rj/images/songs/
+	out=950eb9baabcb16e7cffa0f75ff08b1d4.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamin-puzzle/1180664e.jpg
+	dir=output/rj/images/songs/
+	out=736d654b4aee5cbcefc444f6a763f7ca.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamin-sarbaz/e8a29dbb.jpg
+	dir=output/rj/images/songs/
+	out=0b82fc2f579f125e4cdcf6d43672141e.jpg
+https://assets.rdjvn-assets.com/static/mp3/ammin-be-yade-farhad-(remix)/47ecdae4.jpg
+	dir=output/rj/images/songs/
+	out=b4329b840ea073ac227c4ae6c943ea37.jpg
+https://assets.rdjvn-assets.com/static/mp3/ammin-fenjoon/f7476f41.jpg
+	dir=output/rj/images/songs/
+	out=b28527dc4823041502141ec6933073b2.jpg
+https://assets.rdjvn-assets.com/static/mp3/ammin-key/bb4c279b.jpg
+	dir=output/rj/images/songs/
+	out=0462adb3e2b4ba5992807871bb2e34e7.jpg
+https://assets.rdjvn-assets.com/static/mp3/aamin-aramesh/bfb87d11b192b64.jpg
+	dir=output/rj/images/songs/
+	out=ad4775b2184cb18bb7501a9abb0f9281.jpg
+https://assets.rdjvn-assets.com/static/mp3/yas-boghz-(ft-aamin)/7fcbe2cda3cc621.jpg
+	dir=output/rj/images/songs/
+	out=b40aef61a908b6ac472f5bc9774736b6.jpg
+https://assets.rdjvn-assets.com/static/mp3/yas-vaghte-raftan-(ft-aamin)/7ab4a3bb.jpg
+	dir=output/rj/images/songs/
+	out=e8ad8f0292ca5cefc6446972e7095b2c.jpg
+https://assets.rdjvn-assets.com/static/mp3/yas-nisti-(ft-amin)/3717a667.jpeg
+	dir=output/rj/images/songs/
+	out=79e4efb3a1422616317babfb1e1f7bb6.jpeg
+https://assets.rdjvn-assets.com/static/mp3/yas-honey-(feat-amin)/36584931.jpg
+	dir=output/rj/images/songs/
+	out=168dfee576774c7e4401e41512861a96.jpg
+https://assets.rdjvn-assets.com/static/mp3/yas-cd-ro-beshkan-(feat-ammin)/92694abb.jpg
+	dir=output/rj/images/songs/
+	out=f2cdf1fe43c11aebaca27a9b173cdfaf.jpg
+https://assets.rdjvn-assets.com/static/mp3/shahab-mozaffari-azabam-nadeh-(ft-aamin)/ab2362da99f06a2.jpg
+	dir=output/rj/images/songs/
+	out=2d90365e1e8f97f0c50155b9dd4f31d7.jpg
+https://assets.rdjvn-assets.com/static/mp3/yasin-kenaram-bash/e45a3ff4f39a4c5.jpg
+	dir=output/rj/images/songs/
+	out=e111d3b586e3cf5943731ca866731559.jpg
+https://assets.rdjvn-assets.com/static/mp3/aana-balmasque/903a95b07d8e686.jpg
+	dir=output/rj/images/songs/
+	out=66b8497fe633df99a14942e3ec840679.jpg
+https://assets.rdjvn-assets.com/static/mp3/aaraad-mikhay-beri-boro/0f663120ce619f9.jpg
+	dir=output/rj/images/songs/
+	out=37b78e2272ff79529e60eb0dea8c819f.jpg
+https://assets.rdjvn-assets.com/static/mp3/aaraad-kilishe/0d4555a32913d07.jpg
+	dir=output/rj/images/songs/
+	out=d16dd362f4b3ef7ecaaa91032849846a.jpg
+https://assets.rdjvn-assets.com/static/mp3/aaraad-nega-mikonam/df7831985f0c2db.jpg
+	dir=output/rj/images/songs/
+	out=c96fcd645952ded30206ec9fea0d711b.jpg
+https://assets.rdjvn-assets.com/static/mp3/arash-tanhaei/6cca4dce7c46db0.jpg
+	dir=output/rj/images/songs/
+	out=110c0589e6d80372c6bae86726c9ef18.jpg
+https://assets.rdjvn-assets.com/static/mp3/aaref-panjereh/82bc63412fd65f8.jpg
+	dir=output/rj/images/songs/
+	out=dd761ad428a7ce737b19814b35c5b315.jpg
+https://assets.rdjvn-assets.com/static/mp3/aata-banoo-bavaram-shod/18aee2680fbdbf3.jpg
+	dir=output/rj/images/songs/
+	out=691077adadaf553ebe7823fa8159981a.jpg
+https://assets.rdjvn-assets.com/static/mp3/erfan-adili-mojeze-(ft-aata-banoo)/5bb15985185eb54.jpg
+	dir=output/rj/images/songs/
+	out=4ffd2a73ac3eff236ff6f36ea4c115fa.jpg
+https://assets.rdjvn-assets.com/static/mp3/aba-abedin-mojeze/56100375d40a5e9.jpg
+	dir=output/rj/images/songs/
+	out=75ceac597970363227921e563cdf680a.jpg
+https://assets.rdjvn-assets.com/static/mp3/aban-azat-mikham-bargardi/3b9697d9.jpg
+	dir=output/rj/images/songs/
+	out=bff2808edfcb12ab46ec74a81a257ef2.jpg
+https://assets.rdjvn-assets.com/static/mp3/hamid-aban-khodanegahdar/4a76643bebf6b5e.jpg
+	dir=output/rj/images/songs/
+	out=2e4daf7fb1a1cdb9cd894ff32a2ffc5c.jpg
+https://assets.rdjvn-assets.com/static/mp3/aban-saffar/d7ad2e83.jpg
+	dir=output/rj/images/songs/
+	out=3c71d1c3d033111d80a8eb6225f57046.jpg
+https://assets.rdjvn-assets.com/static/mp3/aban-ghabr/07fd9f2ea433238.jpg
+	dir=output/rj/images/songs/
+	out=fe6b0a4bdc9199bf0d280c5d0fbec290.jpg
+https://assets.rdjvn-assets.com/static/mp3/rastaak-yalda-(ft-aban)/2f70dc20.jpg
+	dir=output/rj/images/songs/
+	out=589d31eadffad5dbf02ca60d5c5684de.jpg
+https://assets.rdjvn-assets.com/static/mp3/rastaak-aban-shomal/4344b7f4b5b5577.jpg
+	dir=output/rj/images/songs/
+	out=fb7b58e8d3dcb1d59c2313e63cc92cc8.jpg
+https://assets.rdjvn-assets.com/static/mp3/aband-band-hich/6032fbef.jpg
+	dir=output/rj/images/songs/
+	out=b403c3908d05d3152e0d425bd94d9da4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abar-hesse-khas-(ft-farzad-hosseini)/df3472e0d05c50c.jpg
+	dir=output/rj/images/songs/
+	out=9d77b6806607ebdf3c893f84c6bceb23.jpg
+https://assets.rdjvn-assets.com/static/mp3/abar-roozegare-siah/ffe5ab53a3b8add.jpg
+	dir=output/rj/images/songs/
+	out=1af3b34640b1aa29c3bb85b41d95d8f4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abar-shabe-royayi/65b7249f278e1ab.jpg
+	dir=output/rj/images/songs/
+	out=a39b10b0c13be96cdff4607921a0eca1.jpg
+https://assets.rdjvn-assets.com/static/mp3/abar-madaram-raft-(ft-heras)/7a7dcc778f3c8d2.jpg
+	dir=output/rj/images/songs/
+	out=0aa191b230c09bc9c1eb3450960ad7d3.jpg
+https://assets.rdjvn-assets.com/static/mp3/abar-heras-dokhtare-khoob/42f1cbf8808c2cc.jpg
+	dir=output/rj/images/songs/
+	out=aa3d8bc7c746bfb1d037083921643d15.jpg
+https://assets.rdjvn-assets.com/static/mp3/abar-heras-to-khode-mani/2fc042c31072197.jpg
+	dir=output/rj/images/songs/
+	out=3e98d6e2e1a154b71c51a45998774bf6.jpg
+https://assets.rdjvn-assets.com/static/mp3/abas-fazeli-khanoomi/e1345fb34dbb1c7.jpg
+	dir=output/rj/images/songs/
+	out=cd4a405ae59659aa8787f30c36b9aaca.jpg
+https://assets.rdjvn-assets.com/static/mp3/abazar-noorizad-eshgh/dafaf88bcbc6a89.jpg
+	dir=output/rj/images/songs/
+	out=16d0ce93272459fec1d96708997b40d5.jpg
+https://assets.rdjvn-assets.com/static/mp3/abazar-nourizad-sarat-salaamat/946befe2.jpg
+	dir=output/rj/images/songs/
+	out=09d824b41731fb995a390ed9c2209039.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ale-habib-forsate-akhar/e48254c4252d912.jpg
+	dir=output/rj/images/songs/
+	out=5b0692fdc6b9218a1d4376c24371202e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ale-habib-cheshm-entezar/56ffab1dda47e5f.jpg
+	dir=output/rj/images/songs/
+	out=358c18d38b8a1b61b4a633d1ff362637.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ale-habib-eshghe-man/8e1b7861bac13e9.jpg
+	dir=output/rj/images/songs/
+	out=1d68cd603af65964003c348c0488b82d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-alehabib-akharin-didar/c7397fb7b0d4d4e.jpg
+	dir=output/rj/images/songs/
+	out=340b130a15b2f9a5c97ee326d350e990.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-alinezhad-tab/dd730129b10b976.jpg
+	dir=output/rj/images/songs/
+	out=ae016f6fbd424192f2eea314be7c2d9f.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ap-cheshaye-man/ffd570cdf4e1056.jpg
+	dir=output/rj/images/songs/
+	out=d6b4e2bbb7da79a02c4b07f539bffe78.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-asadi-man-ba-to/d61aa46c23ab1ba.jpg
+	dir=output/rj/images/songs/
+	out=4e7de703f87117fc3e84e2c86decce5a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-asadi-aramesh-(ft-saeed-ghorbani)/62b6d717c95e054.jpg
+	dir=output/rj/images/songs/
+	out=1e3c4ccea02a8404591089d95a23691d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-asadi-donyaye-man/4086fac3.jpg
+	dir=output/rj/images/songs/
+	out=3b04e8eb8e71fdef33f75e0b47e0cee7.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-asadi-irani-salam/760395c693fcb94.jpg
+	dir=output/rj/images/songs/
+	out=bd26c73652c480a9537dbda8a3a3a149.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-asadi-halam-khoobe/5fc14863.jpg
+	dir=output/rj/images/songs/
+	out=c55f98e3461dc91c4b9f1acfa4573dab.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-asadi-fereshteye-zamini/ca6c40b0c714801.jpg
+	dir=output/rj/images/songs/
+	out=55cb67fbc46db71d377563d7fb5c35b6.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-asadi-naro/fd074d830fc11fd.jpg
+	dir=output/rj/images/songs/
+	out=2029d9a4c794b8a8f259d71890a53284.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-asadi-hese-residan/e8eb02253ef9cb5.jpg
+	dir=output/rj/images/songs/
+	out=d52c0ed68cbab58af7db8cf981604475.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-asadi-mojezeye-eshgh/0cf9acdfd83e987.jpg
+	dir=output/rj/images/songs/
+	out=c2f51d7a794821debadf8c6a5ce8fa47.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-asadi-labbayk/0db62a3e40f68f4.jpg
+	dir=output/rj/images/songs/
+	out=45436c2cd041d5071659010a4cbb6f7c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-baloochi-bi-to-nemitoonam/f2d582a50fc71dd.jpg
+	dir=output/rj/images/songs/
+	out=8b8156336266106080325cf18ea3c6fc.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-balouchi-khalkoobi-(ft-javad-arab)/ed9f6d03bb8f4de.jpg
+	dir=output/rj/images/songs/
+	out=b0dce64fc2abfd5346d9fd38ff93ec9e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-baloochi-nazi-(ft-javad-arab)/f4eb547be3c2527.jpg
+	dir=output/rj/images/songs/
+	out=4da619190863d2e722128dfa07f79baa.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-baloochi-azat-nemigzaram/0a02bfc51028585.jpg
+	dir=output/rj/images/songs/
+	out=43ef96605336b769757d6b10a285b176.jpg
+https://assets.rdjvn-assets.com/static/mp3/javad-arab-abbas-baloochi-(2band)-del-del-nakon-boro/731a529a2b57b1b.jpg
+	dir=output/rj/images/songs/
+	out=104da749688d08024c16841efe5a6559.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-baloochi-javad-arab-(2band)-dige-behem-zang-nemizani/bd394d07f702367.jpg
+	dir=output/rj/images/songs/
+	out=312d23293c8ad7260d32387fed849189.jpg
+https://assets.rdjvn-assets.com/static/mp3/javad-arab-abbas-baloochi-(2band)-khoneye-jadid/a9f78c58e467fd1.jpg
+	dir=output/rj/images/songs/
+	out=46a49d848b68e063be8b11660f70f0c4.jpg
+https://assets.rdjvn-assets.com/static/mp3/javad-arab-abbas-baloochi-(2band)-vay-azizam/cc6f05b3577f2c2.jpg
+	dir=output/rj/images/songs/
+	out=cfca4868728977aeff41da5b52d0e116.jpg
+https://assets.rdjvn-assets.com/static/mp3/javad-arab-abbas-baloochi-mikham-gereftaret-besham/2ad60b4f6f9686b.jpg
+	dir=output/rj/images/songs/
+	out=8d3ef5f279d86eb09e2927cd9bdb0f69.jpg
+https://assets.rdjvn-assets.com/static/mp3/javad-arab-abbas-baloochi-(2band)-harfato-rok-bezan/810822ee4ddb305.jpg
+	dir=output/rj/images/songs/
+	out=5739f359626946f3f6cc87e02be79a79.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-emadi-roozaye-bade-tow/23a62e3d.jpg
+	dir=output/rj/images/songs/
+	out=71b2d6b35274d8fd97a3e20ca0de8b3c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-emadi-hesse-in-roozam/3e74e305f938ad4.jpg
+	dir=output/rj/images/songs/
+	out=b072f4a1220a3ef4b65577d43acd9cc4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-emadi-booye-bahar/8018e9f0c8d1629.jpg
+	dir=output/rj/images/songs/
+	out=7de92678ee44a96aafe890edefcfbc44.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-emadi-chera-rafti/fd970e5e61328c2.jpg
+	dir=output/rj/images/songs/
+	out=bcc36e8ff4932c978dac246a4d16e563.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-emadi-khaterate-eyd/1e345e5a5eed89f.jpg
+	dir=output/rj/images/songs/
+	out=10f15e6d3b91dff5d02e5c8d01c57e77.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghadamzadeh-tabe-doori-/6984cf0e6ec7fb7.jpg
+	dir=output/rj/images/songs/
+	out=895a31cf2f0640ee71468e5c77cab40f.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghadamzadeh-tabe-vabastegi/e95e9cf6fff32e7.jpg
+	dir=output/rj/images/songs/
+	out=b42a7f577a17704a22023a3b0d8bafb5.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghadamzadeh-shekayat/9eaf2ec78c05041.jpg
+	dir=output/rj/images/songs/
+	out=917b4f1c6c3646832ad42d6328797775.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-yeh-rooz-ashegh-boodam/d07fddf31cdfdd5.jpg
+	dir=output/rj/images/songs/
+	out=b5d322d5943981ee4d7c1e7649f3c6ff.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-doroogheh/e3a946320b1baaa.jpg
+	dir=output/rj/images/songs/
+	out=adb3975b1808efde6d9a29c76737d127.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-sobhe-roshan/898b28a34560ad3.jpg
+	dir=output/rj/images/songs/
+	out=0cfaf5b032e989ef4dbcc65ec5dfde60.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-sargardoon/9dbb5640e4945a3.jpg
+	dir=output/rj/images/songs/
+	out=94b02a1e8bc1fd5f243baa4c89e4bdf9.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-raghib/46df41490c1f590.jpg
+	dir=output/rj/images/songs/
+	out=e19d67808c433d6fe2eb3958cbf148f5.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-sheitoon-bala/3d59a6388ad6bb4.jpg
+	dir=output/rj/images/songs/
+	out=fc29a77941e41c205990ff1d792a77e3.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-khodahafezi/0ce9550f0bcf0fe.jpg
+	dir=output/rj/images/songs/
+	out=b42d14f859646ced2d8356442f0e759c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-gharib/df743bed77bf0dd.jpg
+	dir=output/rj/images/songs/
+	out=ff3fea2f609ca9688ca6d9249692221f.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-kharidar/91ab6e9a7523aee.jpg
+	dir=output/rj/images/songs/
+	out=fdd5df4518682f7ed9998afca409fdae.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-tobeh/99bd8d76266dc8e.jpg
+	dir=output/rj/images/songs/
+	out=bbc95f20a42d941c4fa54673a8ded0ba.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-moama/d40c3591d2a7878.jpg
+	dir=output/rj/images/songs/
+	out=fa681214d08622ae2d72047f8eaa2f7a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-do-deldar/7010bfa33263973.jpg
+	dir=output/rj/images/songs/
+	out=1142a8fab6bf23daa47cf8c62b16b7e9.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-maghroor/cd55df03403034e.jpg
+	dir=output/rj/images/songs/
+	out=660e3b332645d0ff6dedcb211e6b0745.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-nagoo-nemisheh/71c1d712fc41376.jpg
+	dir=output/rj/images/songs/
+	out=86791feff4cb617c7fa4aa74e49d2f5a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-naakaam/b8844572b39bbd5.jpg
+	dir=output/rj/images/songs/
+	out=6faa1e195a2e0eca4d6505a85f5bcd2a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-track-13/32c011da33e4f2e.jpg
+	dir=output/rj/images/songs/
+	out=e7ead2a1a38f263b14762207a4dd128f.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-instrumental/3d61bf841309101.jpg
+	dir=output/rj/images/songs/
+	out=9204300bf9d04b856e131e74bef68324.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-saat/aa066f98cea02cf.jpg
+	dir=output/rj/images/songs/
+	out=02d66df76cdc555e3b119100ae126609.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-gahvareh/7f88fd4d25a5492.jpg
+	dir=output/rj/images/songs/
+	out=1bb3b1dbca35ea4cc6106d8c22f993d1.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-naz-golakam/68d56cbf4274ecd.jpg
+	dir=output/rj/images/songs/
+	out=80f543b2f677103715ef43342f7bb326.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-shabe-mahtab/57068072e0fb9e6.jpg
+	dir=output/rj/images/songs/
+	out=c0a3926ea6e32df4067f4634a62aaf9f.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-vasvaseh/930d3bff0a943e3.jpg
+	dir=output/rj/images/songs/
+	out=8b1c6e6c4a9b8ad83f207213276ab194.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaderi-bi-nasib/f209cd0e191af7e.jpg
+	dir=output/rj/images/songs/
+	out=4ac3f3a090b60cc7e8bb7b7ef9437282.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaemi-bezanim-zire-baroon/5629585a4ca817a.jpg
+	dir=output/rj/images/songs/
+	out=7cc0e4cd5c4c82910345cb7666c4b7d6.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaemi-khoshbakhti-(ft-roza)/2c87f96df37f4e0.jpg
+	dir=output/rj/images/songs/
+	out=a2cabe0ff6b2ff44ac5d1d5522573726.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghaemi-doosesh-daram/2af1ffceed09bdd.jpg
+	dir=output/rj/images/songs/
+	out=ffb97eed0840a03b423ef2d3c90ab08b.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghamari-gheymate-asheghi/75004b84.jpg
+	dir=output/rj/images/songs/
+	out=8c74d8b15f2a37917956ba9044957d54.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghamari-chand-sale/a24674cbf007745.jpg
+	dir=output/rj/images/songs/
+	out=bfd095c726c9ca8e9321ec726bfafee2.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghamari-bazam-sedam-kon/f899ea0228a5c09.jpg
+	dir=output/rj/images/songs/
+	out=12cfe42e6d01829432e8f9b8caf5edd0.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghasemi-ghasre-khiali/b6739389b6c55f4.jpg
+	dir=output/rj/images/songs/
+	out=753fc245466aedfcfd85d5c84fb6d7fd.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-ghassemi-deltangi/df931f34a8a9a17.jpg
+	dir=output/rj/images/songs/
+	out=64ad109021dbe1168cfc16ace2781690.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-gholitabar-haft-sin/8c11711d.jpg
+	dir=output/rj/images/songs/
+	out=9eefbcfe91159895631d158a9e31906f.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-gholitabar-chatr/6aad34b07261996.jpg
+	dir=output/rj/images/songs/
+	out=17eb27ff7b5923169a8e513596a0b951.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-golpayegani-delgir/ed7d75b09c5e410.jpg
+	dir=output/rj/images/songs/
+	out=cde6ccfb1d303fdecb43f5cc7aa3b4cc.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-golshani-deltange-asemoon/91529a4b.jpg
+	dir=output/rj/images/songs/
+	out=c6f6d55ca2e804642391f834e3e45784.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-haghi-too-in-rooza/b7b134c5.jpg
+	dir=output/rj/images/songs/
+	out=8bf74df110477cdac86e5335ed63db29.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-haghi-dari-miri/b4514e63e4a85d5.jpg
+	dir=output/rj/images/songs/
+	out=72098fa2b07c369a80aa0f46f94b5a32.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-hashemi-bejaye-man/44f79fc1.jpg
+	dir=output/rj/images/songs/
+	out=1c8445a53d7d47892d4d18576c735411.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-hashemi-cheshm-be-rah/32ccc421.jpg
+	dir=output/rj/images/songs/
+	out=c987e43a9a35595d6b797fdf0369af58.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-hashemi-hormate-eshgh/842a6c7d.jpg
+	dir=output/rj/images/songs/
+	out=c3fe18d7dc46672d5c73c1e5f80005b5.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-hashemi-sahme-man/d8517475068cc40.jpg
+	dir=output/rj/images/songs/
+	out=b36e3a65a2251980b1d9004815001c1a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-hashemi-hesse-nab/988d4e44e44ff3c.jpg
+	dir=output/rj/images/songs/
+	out=74b8f7db3b4ab2976bff5d9ba02a663d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-hashemi-ba-to/b32dc4471d96018.jpg
+	dir=output/rj/images/songs/
+	out=a4c323479d60d8995288debad4f52407.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-hashemi-yek-sal/12321bf5a88f299.jpg
+	dir=output/rj/images/songs/
+	out=388dccce7e7f051d4fe0fda0cb071eeb.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-heydari-bargard/6eb25a0e.jpg
+	dir=output/rj/images/songs/
+	out=4266ff272e14bb358fe4988cae585fde.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-iran-nejad-madar/bb26cc92043f4ee.jpg
+	dir=output/rj/images/songs/
+	out=4db2cdf739515901af6501e166ee542f.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-karimzadeh-yalda/ab8d8bb44a25486.jpg
+	dir=output/rj/images/songs/
+	out=f67b723d0dd40b196d8c48d24db8edb8.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-keyhani-bi-marz/c5746c7d.jpg
+	dir=output/rj/images/songs/
+	out=935c886fed739c99a79ad17f2a3566c4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-koohi-harfe-delam/b8506e4edd1d1ed.jpg
+	dir=output/rj/images/songs/
+	out=381387b87db5a67581a9623d1af38001.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-latifi-miram-az-zendegiye-to/89465dda.jpg
+	dir=output/rj/images/songs/
+	out=d8f83200ca84f243ccbc124a2b45c474.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-malek-bia-ye-kari-bokon/1d2f1559149e2e8.jpg
+	dir=output/rj/images/songs/
+	out=a17753dc4f0a73e87aaed957adbf9ef6.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-mirzaei-baavar-nakon-(ft-sajad-farjam)/555896d07557936.jpg
+	dir=output/rj/images/songs/
+	out=eebdd8320f0ef8afe6ac49391b8ea202.jpg
+https://assets.rdjvn-assets.com/static/mp3/naser-sadr-abbas-mirzaei-marge-lahzeha/f0d9d3379206aa2.jpg
+	dir=output/rj/images/songs/
+	out=c70a811c66708607c9e0e3f46a601cd4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-mostafavi-nazanin-maryam/bcf3a4f3.jpg
+	dir=output/rj/images/songs/
+	out=e32f837723f8570056e49479f7aa0734.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-mostafavi-beshkan/51eac269.jpg
+	dir=output/rj/images/songs/
+	out=0547363a3aeb82be26363ad11ef42d58.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-mostafavi-soltan-gham/a8c9ab17.jpg
+	dir=output/rj/images/songs/
+	out=cfcde5eb92a7f0334bb8a4c52285eed6.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-motamed-hesse-tardid-(ft-mehrdad-alihoseini)/55fba46a5051d58.jpg
+	dir=output/rj/images/songs/
+	out=18f2b765662384e3ed94590a55688208.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-namazi-vasiat/5576fc52df08897.jpg
+	dir=output/rj/images/songs/
+	out=54bb4c6f55d87810187c6bb3a08c5fa8.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-namazi-eshghe-mahal/81275f7e75d8058.jpg
+	dir=output/rj/images/songs/
+	out=d72cd478215c74070f26a907ebce7398.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-namazi-ghahve-o-shumineh/5b91222d64ffe2b.jpg
+	dir=output/rj/images/songs/
+	out=653440eaa55418eabb89a5ee5ea4c047.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-namazi-cheghadr-khobe/a9e0bf6d451cf9a.jpg
+	dir=output/rj/images/songs/
+	out=86603a11a3a8fd4ecc57bf72bacf816e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-namazi-deltangi-(new-version)/9906d26e417ac37.jpg
+	dir=output/rj/images/songs/
+	out=8b5ecca87b4eb2e9aaacd60a11b3aec8.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-namazi-deltangi/8d8fbba1527d06e.jpg
+	dir=output/rj/images/songs/
+	out=b7442a67d2e88f3c2dcbaa7ddf1d6da7.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-nasiri-daste-tanhaei/eaa3b61fee6d0ee.jpg
+	dir=output/rj/images/songs/
+	out=5a1bc5444dd0a5189fe6584f0fc79fe6.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-nasiri-ensaf/8a2331433476d08.jpg
+	dir=output/rj/images/songs/
+	out=257aeeb84ec8d6a7855d55355e2d0759.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-nasiri-mesle-roya/8a670e59e0f0df0.jpg
+	dir=output/rj/images/songs/
+	out=3134a1ce336df58f2be134e9c7dd5ee6.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-nasiri-eshghe-man/41b3812d83cee9e.jpg
+	dir=output/rj/images/songs/
+	out=03278385ded18bceb36acbdff699c42e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-nasiri-dari-namehraboon-mishi/70c95ca0364623c.jpg
+	dir=output/rj/images/songs/
+	out=a027657e72c73be771c65f90434da8ae.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-nasiri-havaye-ghorbat/88003831315cdcc.jpg
+	dir=output/rj/images/songs/
+	out=46f108383db11b5f76bb04017b0a4b7d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-noori-aftabe--zendegi/c2b6ffefb189bd6.jpg
+	dir=output/rj/images/songs/
+	out=a495dea798f92b0ccb6a8809e69c3865.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-parnia-mojezah/248da984ed56af4.jpg
+	dir=output/rj/images/songs/
+	out=7e7130a5be16619ac25af20999c643dd.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-pour-mohammadian-hale-delam-khoobe/22e1d5d8.jpg
+	dir=output/rj/images/songs/
+	out=24507428c9fa347e6d4a071714869fa8.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-pourmohammadian-parte-havasam/91806afd2fbd6ee.jpg
+	dir=output/rj/images/songs/
+	out=e579a6c30af62bb0373e15e54f46f26c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-pour-mohammadian-to-kenaram-hasti/534e55ab.jpg
+	dir=output/rj/images/songs/
+	out=48bb5ece84782de9ea43a994419e5a0c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-razmi-bargard/40c1a38b4e9a4dd.jpg
+	dir=output/rj/images/songs/
+	out=bb18f30ccbbcc0f7424ae9775f8c1ae4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-razmi-hamin-emshab/35a0041d8f29088.jpg
+	dir=output/rj/images/songs/
+	out=07f55e3056fcd8970c75a845e12d637c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-reisi-delvapasi/de1671835d0291c.jpg
+	dir=output/rj/images/songs/
+	out=79927b1a1192d147dc78d0feb128bc53.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-reisi-darde-del/5d6b355ad56f3ba.jpg
+	dir=output/rj/images/songs/
+	out=e492e2cd5133eaad8b1454a6ed658b0d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-reisi-baroon/8e5d8ead5a8cdba.jpg
+	dir=output/rj/images/songs/
+	out=b651f885a0df611d7efe2afe502f81fb.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-reisi-akharinbarg/d5fc128ed6b8c94.jpg
+	dir=output/rj/images/songs/
+	out=1cc582f5deb819b76f993b4c5d728752.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-reisi-eshtebah/a78a66eab8086b4.jpg
+	dir=output/rj/images/songs/
+	out=af023822c6a3c16ec272016f654382f0.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-reisi-sedat-mizanam/01ae7c357d217b7.jpg
+	dir=output/rj/images/songs/
+	out=cfb90adaf0880142734e0dd1ea806031.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-reisi-kashki/c364dadf8abd2b6.jpg
+	dir=output/rj/images/songs/
+	out=0205113b1d900a4bba3896c1b258c1f7.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-reisi-adat/80d667be63d4c38.jpg
+	dir=output/rj/images/songs/
+	out=eeab3c0731fdc2b3892a79a288b67a48.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-reisi-ba-to-aroomam/24095dbb280e83d.jpg
+	dir=output/rj/images/songs/
+	out=f39f1438bc5586569c2977f1808c3ba5.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-reisi-delvapasii/0e38074f5dc7009.jpg
+	dir=output/rj/images/songs/
+	out=f4cb5b54bdd43691cbf264a853a3a01e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-rezagholi-vazyate-ghermez/a8cb0dbc2e5634a.jpg
+	dir=output/rj/images/songs/
+	out=be2b8eda302a6b02f9f9a6fc2a927320.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-rezagholi-tekrar/0190e913a2747cb.jpg
+	dir=output/rj/images/songs/
+	out=e316ab6f9696fab87ff604717aea29bc.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-rezagholi-hobab/cfcf220d4e98db9.jpg
+	dir=output/rj/images/songs/
+	out=7d424acabc3869e934eb204c0a1d2299.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-rezagholi-tasvir/3e4ef6bae57a577.jpg
+	dir=output/rj/images/songs/
+	out=27333c1e77898b3c6f9687f0da096bc0.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-rezagholi-enekas/ee3c735f19a7617.jpg
+	dir=output/rj/images/songs/
+	out=34e42b0e32c00d756c390e808a3614dc.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-rezagholi-tavahom/152a25c178e32bf.jpg
+	dir=output/rj/images/songs/
+	out=ca32270d7803ce0d7dce5e0096650d11.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-rezvani-eyalate-motahedeye-banoo-(fasle-2)/f9b33b75c3e7235.jpg
+	dir=output/rj/images/songs/
+	out=aa68c96d1fdb5e2e75b104a52444b721.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-rosanzadeh-darde-penhoon/7c1d988ed2318e8.jpg
+	dir=output/rj/images/songs/
+	out=4d8554a3d08340da74ea14ba64c5ef7e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-roshanzadeh-nefrin/2ac8ab78.jpg
+	dir=output/rj/images/songs/
+	out=fb47b26c707803b946fbd2eea00f4601.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-roshanzadeh-taeme-dard/b5d9d6023f21999.jpg
+	dir=output/rj/images/songs/
+	out=6d283d981634bde249bf6c3e58ef1a9e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-roshanzadeh-eyde-emsal/e1ea38fa5707e04.jpg
+	dir=output/rj/images/songs/
+	out=a7d053a6a3e6c078a1c0fab1fc32d66a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-roshanzadeh-paeez/751b0df56d5dc33.jpg
+	dir=output/rj/images/songs/
+	out=4594d8434ce0d1a9cfe39c29bf0bf908.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-roshanzadeh-setareh/6e6a9cbb6aaa2ef.jpg
+	dir=output/rj/images/songs/
+	out=4bffadec27449bded66f22700db14ca7.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-rostamikia-jodaee/f2ee22b762e839e.jpg
+	dir=output/rj/images/songs/
+	out=0a5cc7166e23d29919f4055144e09bbf.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-shams-male-mani/dcf0c672c94f16b.jpg
+	dir=output/rj/images/songs/
+	out=5df2be936044d392d87cac594fc1118c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-shams-atre-tanet/17b5dfcbe5774b3.jpg
+	dir=output/rj/images/songs/
+	out=bbb9cc18cc83b240667867c5230fa9e3.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-shams-beyne-khodemon-bashe/b66cc87620adf33.jpg
+	dir=output/rj/images/songs/
+	out=50123f68b7557c355f6f61000ee7a53d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-shams-hale-man-khoobe/7b0516e4e14e2a9.jpg
+	dir=output/rj/images/songs/
+	out=ea71f1d8539efff46e5dd34c765bcdee.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-shams-bonbast/070414b37c0e94a.jpg
+	dir=output/rj/images/songs/
+	out=8f9f79facb9a5111e4bcfd68e665e407.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-shams-zakhme/827caf5051ef86a.jpg
+	dir=output/rj/images/songs/
+	out=5caed8d4af6e13dce17fdf61b5d8fca4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-shams-naro/d6efc92328c2516.jpg
+	dir=output/rj/images/songs/
+	out=12ef4fe6f82c0555c3dedfa9188aff6e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-shams-jarfa/401c0fc3c1d193d.jpg
+	dir=output/rj/images/songs/
+	out=d03679e064c9bcfe69d131c54fbd0876.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-shams-kenare-to/7fea9081bfa9933.jpg
+	dir=output/rj/images/songs/
+	out=8eb42a268189b2f374274a54e4fe8aeb.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-soleimani-to-ashegh-naboodi/5ec44cddced83b6.jpg
+	dir=output/rj/images/songs/
+	out=cf457bb032b09e07232176814bcac314.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-torabi-saate-tanhayee/a93e5c19.jpg
+	dir=output/rj/images/songs/
+	out=32bb9553d1431062fa198b9b7b13cc37.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-torabi-lahze/c75fb913da1f9af.jpg
+	dir=output/rj/images/songs/
+	out=89ab01d1bf6fa61d41eb6ccb928da034.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-yahyapoor-roya/d2e083e0169761c.jpg
+	dir=output/rj/images/songs/
+	out=54551d3bf9d511fd4622d74a15e7581e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-yousefi-marge-tadriji/f56d501df001c19.jpg
+	dir=output/rj/images/songs/
+	out=512704dcb66e493504abc66343072fce.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-yousefi-soghoot/9b0780196363c70.jpg
+	dir=output/rj/images/songs/
+	out=39d85cca975efdc6dbcfc67d94843eb4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-yousefi-daste-khali/dde84cc575b50fa.jpg
+	dir=output/rj/images/songs/
+	out=c44efe4e3ca5572c3a559dd8103e3e16.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-yousefi-atere-to/4a214c9729c06af.jpg
+	dir=output/rj/images/songs/
+	out=e91fe016429914488fb9fc453af2ed5b.jpg
+https://assets.rdjvn-assets.com/static/mp3/abbas-zare-farnaz/70d838b8.jpg
+	dir=output/rj/images/songs/
+	out=2341e996f3a9268b2f825ceee482887d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdi-yousefi-heyf-shod/051b9e7bf933e73.jpg
+	dir=output/rj/images/songs/
+	out=7f80e946971205fc75aa254d4d0baf48.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdi-yousefi-ye-haftast/16bb63b31b42f99.jpg
+	dir=output/rj/images/songs/
+	out=00e3f40ab961015f356cc47e54f16c02.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdi-yousefi-roozaye-bi-to/76a378202bb9307.jpg
+	dir=output/rj/images/songs/
+	out=373923f7bae8f1507b84d8d24d3a356c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdi-yusefian-taghsire-mane/52f8523f.jpg
+	dir=output/rj/images/songs/
+	out=847c278324de5c8336762d8866f9acc1.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdolah-yavari-taghdir/f3d018e7.jpg
+	dir=output/rj/images/songs/
+	out=efe1414acea90450bf8d04d06eeea836.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdolah-yavari-to-rafti/6f508479.jpg
+	dir=output/rj/images/songs/
+	out=a6ce79e9333d82954c8817b3073a0720.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-behdar-vali-mohammad-tahmasbi-eyd-(ft-behrooz-salehvand-mostafa-hezbavi)/07a906469c2ff51.jpg
+	dir=output/rj/images/songs/
+	out=b935cdbf0b8f37d0b43ff4bbcc971c8d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-ghorbani-garyan/b126b5db5ebac97.jpg
+	dir=output/rj/images/songs/
+	out=8681629c9c9f661b08d6337978786527.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-ghorbani-zangi/385331d37848512.jpg
+	dir=output/rj/images/songs/
+	out=18d7d0bdbf7d6a97c35faaaecbd6fc2b.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-ghorbani-saqqezi/3ad2788f9ded21c.jpg
+	dir=output/rj/images/songs/
+	out=637cd71ed7abb4f6b3c1161ebd215e4d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-ghorbani-lablan/c7837b3d772153b.jpg
+	dir=output/rj/images/songs/
+	out=aee9e62f5f39d048aaac97ef9ddc4634.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-ghorbani-marivani/6856ba875d4f1df.jpg
+	dir=output/rj/images/songs/
+	out=cb413c4e187d008f4702919fb270af6d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-ghorbani-chapi/86b56a303d4db83.jpg
+	dir=output/rj/images/songs/
+	out=27b88a0cc6ae528df1c5ea2ab4a81f0b.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-ghorbani-mukri/37823e56173b9af.jpg
+	dir=output/rj/images/songs/
+	out=917eb7ff196cead66ce2b6f467b451a3.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-ghorbani-khan-amiri/8686d7ecee78de3.jpg
+	dir=output/rj/images/songs/
+	out=64aa50861e89c01d21cc75424989d6bc.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-ghorbani-shakaki/25ab5d4ab3003c1.jpg
+	dir=output/rj/images/songs/
+	out=4018beb3a737405809bedfaaf391e093.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-molavi-khak/5214e6077388428.jpg
+	dir=output/rj/images/songs/
+	out=7d7ce44e1f64b9440813b125548ecca4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-sadeghi-jodaei/c4f08ff2.jpg
+	dir=output/rj/images/songs/
+	out=0143ce89b9c65e34b2366d9701269340.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-sadeghi-koohe-gham/65a80334.jpg
+	dir=output/rj/images/songs/
+	out=7d437fd0a39194d8e44e1437281b22aa.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-sadeghi-sedam-kon/10736764.jpg
+	dir=output/rj/images/songs/
+	out=190240841004cb42bda402cfdfa03841.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-sadeghi-bi-vafa/0530aff5.jpg
+	dir=output/rj/images/songs/
+	out=0611d8f837326aeab25299cb0d4fd31a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-sadeghi-hadise-del/e4288e03.jpg
+	dir=output/rj/images/songs/
+	out=6c6c547dae0fecbfce1d5c2a6d0ae9de.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-sadeghi-deltangi/6ea5d36d.jpg
+	dir=output/rj/images/songs/
+	out=fb8dfd16e4e37a093dc6df6ef112bab4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-sadeghi-remix/65542e58.jpg
+	dir=output/rj/images/songs/
+	out=f67ea9b3883295a3b4f2b9a953057252.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-sadeghi-chegoone/c2ec67a8.jpg
+	dir=output/rj/images/songs/
+	out=d1e14d70ce1939870186b937e49058fb.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-yousefi-sokot-noghrehie/ad4a6a985ced1c6.jpg
+	dir=output/rj/images/songs/
+	out=55bb51a607242ce55c233d15614875fa.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdollah-yousefi-saat-dori/761b6e5fe19e180.jpg
+	dir=output/rj/images/songs/
+	out=a76cc7177c82f17d770f85582e92c95c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdolreza-basiri-khalij-fars/a1318b986519de1.jpg
+	dir=output/rj/images/songs/
+	out=38d26594c613ef802efb8904017ad7f9.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdolreza-ghavidel-ebadat/500543096031fb3.jpg
+	dir=output/rj/images/songs/
+	out=f3aab267e31c0d0d4bb4e27763e24b25.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdolreza-ghavidel-baghalam-kon/236e5d0b2e1158e.jpg
+	dir=output/rj/images/songs/
+	out=6401c16b39629cf50fdad4cf0bdd5526.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdolreza-ghavidel-khodanegahdar/3edbf443f51ceba.jpg
+	dir=output/rj/images/songs/
+	out=2b6801ef35ebaf77a99e707ad20553b2.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdolreza-ghavidel-roya/ca4a2dbd.jpg
+	dir=output/rj/images/songs/
+	out=9008a77d0d9aa6719eda98079f7954d9.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdolreza-ghavidell-naghashi/c6bd7e1b.jpg
+	dir=output/rj/images/songs/
+	out=8bd90670cd57e7b638499f17b512b3ff.jpg
+https://assets.rdjvn-assets.com/static/mp3/abdolreza-ghavidel-royaye-mahal/7e97ae7e5a3e1f5.jpg
+	dir=output/rj/images/songs/
+	out=b1b36fa630b31957d34767bfee1cc2c6.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-nemikham-dige-bargardi/52db6730.jpg
+	dir=output/rj/images/songs/
+	out=8a99a35e08907a1aa6fe9d3c04d31874.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-delshureh/bb84355e.jpg
+	dir=output/rj/images/songs/
+	out=28f399b045f330de59cc557b82ee4e5d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-aroom-aroom-(ft-100ler-ho3ein)/6ca16fc9586a819.jpg
+	dir=output/rj/images/songs/
+	out=be7c7224ce15f58a89e2dd0d51e2e482.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-cheshmaro-nemishe-bast-(acid-pashi)/6e8a4e148640ac6.jpg
+	dir=output/rj/images/songs/
+	out=26adfcf9c18e8af1e54cd075b57ba6ae.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-bagheri-omid-edame-dare/ee7b7b0f2e73b42.jpg
+	dir=output/rj/images/songs/
+	out=fed0e0b2b0b09448d2ed7477ce6086ff.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-bagheri-chie-haji/ddf1b6ea83180f7.jpg
+	dir=output/rj/images/songs/
+	out=70734e423e9f9482882a3dea348600f1.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-derakhshan-cheshmaye-to/f18da9e68e22c7d.jpg
+	dir=output/rj/images/songs/
+	out=f5ae931042321bb8a688cb5614b8b992.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-derakhshan-roohe-sabz/d2a0d3c395cebc6.jpg
+	dir=output/rj/images/songs/
+	out=a33e8bcb55f3d811b0d54f0addd6652a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-derakhshan-mano-yadet-hast/e9b6723d39fd49c.jpg
+	dir=output/rj/images/songs/
+	out=279a0d994b2a428eda98557b58c177e7.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-derakhshan-khial/7bc4694997a16aa.jpg
+	dir=output/rj/images/songs/
+	out=0e8a4daac201060b821c9fd74810266e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-derakhshan-khabe-zemastooni/7f60e603a8086b2.jpg
+	dir=output/rj/images/songs/
+	out=0773ba417aadb91b3ba8c382616db232.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-derakhshan-in-rooza/9e53f16e2374ec2.jpg
+	dir=output/rj/images/songs/
+	out=35fe016b5928f57e53ee4299a4959eaf.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-derakhshan-asemooniha/912eeca37d70f09.jpg
+	dir=output/rj/images/songs/
+	out=6b9ff0cbe18640a742f3ee5e45494dbf.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-derakhshan-bargard/e84bee7973d9b64.jpg
+	dir=output/rj/images/songs/
+	out=6021112449fca8b361b7ba3c77b2f2f1.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-derakhshan-mitarsam/d4b45f780dac6e9.jpg
+	dir=output/rj/images/songs/
+	out=4a3cbb77565c60c71e3c1356bd23d16a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-goodarzi-daram-miram/3a0055bb7ca99a3.jpg
+	dir=output/rj/images/songs/
+	out=ede05f2c08362d535387d6a1d2578e6c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-nik-madar/ec54cc48d79c68d.jpg
+	dir=output/rj/images/songs/
+	out=79a091d6205174f425323b434e7b8fa0.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-nik-faryade-sokoot/b40a7e8e0c4f750.jpg
+	dir=output/rj/images/songs/
+	out=aea562fd8c4a84cf881f8afbbe249054.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-nik-mahe-cheshmat/dd4041c2de7fbe7.jpg
+	dir=output/rj/images/songs/
+	out=7c3fd4be20cf1e27fed81ba1b8e746fa.jpg
+https://assets.rdjvn-assets.com/static/mp3/abed-norouzi-gole-shab-boo/f285de5e6af5e24.jpg
+	dir=output/rj/images/songs/
+	out=290dd37fe3090d6c2a7abb1093166504.jpg
+https://assets.rdjvn-assets.com/static/mp3/abi-aran-armaghan-boose/431c6b00.jpg
+	dir=output/rj/images/songs/
+	out=baf86664f782a1d0173b0bc08428dccb.jpg
+https://assets.rdjvn-assets.com/static/mp3/abi-aran-garashin-yar/9f08f5d6af89a62.jpg
+	dir=output/rj/images/songs/
+	out=c5ed719422896b88b1d7452f1bcaac91.jpg
+https://assets.rdjvn-assets.com/static/mp3/abi-aran-gisgora-goydolar/30374e8750c6835.jpg
+	dir=output/rj/images/songs/
+	out=86b50faa3619da0f6ca9bc4e623d4761.jpg
+https://assets.rdjvn-assets.com/static/mp3/abi-aran-akhsham-lar/3e7a2612709e69e.jpg
+	dir=output/rj/images/songs/
+	out=e024238eadb7ab08fb8459e660e54fe4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abi-aran-dayma-mana/7587915af19a704.jpg
+	dir=output/rj/images/songs/
+	out=b5a07ea1f1dc5cdd8cde99797f7ca2b4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abjad-ba-man-beraghs-(ft-mijo)/6793027697556e3.jpg
+	dir=output/rj/images/songs/
+	out=ad33e44d7fc1476e4d7accce91d15e64.jpg
+https://assets.rdjvn-assets.com/static/mp3/abjad-minimal-(ft-mijo)/1f59ed8779e3f11.jpg
+	dir=output/rj/images/songs/
+	out=68824e6d4a6c06cf06bb576570112cfe.jpg
+https://assets.rdjvn-assets.com/static/mp3/abjad-roozaye-barooni/7e6f828cf7e73ca.jpg
+	dir=output/rj/images/songs/
+	out=24022bc540093ee5d098ba0743b6e515.jpg
+https://assets.rdjvn-assets.com/static/mp3/abjad-ye-atmosphere-gharg-(ft-mijo)/f01d258d.jpg
+	dir=output/rj/images/songs/
+	out=a2424e6d70e23ada1606dcb2226ea5ca.jpg
+https://assets.rdjvn-assets.com/static/mp3/abjad-hess-mikonam-(ft-mania)/f769b4ed67aea9b.jpg
+	dir=output/rj/images/songs/
+	out=8469ebdb8d2da62cbe781cdae9ab4e12.jpg
+https://assets.rdjvn-assets.com/static/mp3/abjad-noure-tarik-(ft-mijo)/6d9ba3b4e0d23b2.jpg
+	dir=output/rj/images/songs/
+	out=9207fa7cc72f9a30371963bcbdd6564d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abjad-mash-budi-mididi-(ft-zolfa)/b13c62df4bee90c.jpg
+	dir=output/rj/images/songs/
+	out=d658ece6cb1887474481f73b9e1879ec.jpg
+https://assets.rdjvn-assets.com/static/mp3/abjad-naghshe-man-(ft-zolfa)/16f0ac58c9c81ef.jpg
+	dir=output/rj/images/songs/
+	out=1fe1738cf882b5b94fd720efb9a637dd.jpg
+https://assets.rdjvn-assets.com/static/mp3/abjeez-biyaa/4ec9b2e4.jpeg
+	dir=output/rj/images/songs/
+	out=73472643ca76e3be64fdd5ad3f26aff4.jpeg
+https://assets.rdjvn-assets.com/static/mp3/abjeez-rakht/6776a02ec10ceb3.jpg
+	dir=output/rj/images/songs/
+	out=36e1a2b5223a17d67009b725f5885d85.jpg
+https://assets.rdjvn-assets.com/static/mp3/abjeez-shahamat/646de265.jpg
+	dir=output/rj/images/songs/
+	out=5dd50153db0db490b10fb154739caf4c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abjeez-parcham/703d42c2.jpg
+	dir=output/rj/images/songs/
+	out=db62f9ba29fda573f07bcb6a04386ae9.jpg
+https://assets.rdjvn-assets.com/static/mp3/abjeez-hameh-baayad-bedoonan/10376b6dda9921e.jpg
+	dir=output/rj/images/songs/
+	out=5048d8cfa6e34d0df4f28e969d4141de.jpg
+https://assets.rdjvn-assets.com/static/mp3/ablofazl-yazdanpanah-nabz/f85a81913d93ee6.jpg
+	dir=output/rj/images/songs/
+	out=925e7d7f1ddd48c38494bc5da702acd5.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazel-alem-hese-ghashang/c14ce5ec9d900d3.jpg
+	dir=output/rj/images/songs/
+	out=e6109b074a4ca43adf3aa683b3cd245e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-ampooli/14f3c700e38f89c.jpg
+	dir=output/rj/images/songs/
+	out=275d8ca1a49c4970e7ddd1a712ed2c4e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-karimi-20-hours/be7657192405143.jpg
+	dir=output/rj/images/songs/
+	out=47f26c438380e39d7176f1146f464274.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-ali-moghadam-mano-ayen/e00458e409ea58e.jpg
+	dir=output/rj/images/songs/
+	out=3edb5d0c8dc3909d6b4146747217996a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-ebrahim-be-to-madyounam/d30f4f9bb454581.jpg
+	dir=output/rj/images/songs/
+	out=aabfade8415e3d56bb2583a859fa493e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-ar-afsordeh/147767f306d3a2e.jpg
+	dir=output/rj/images/songs/
+	out=c90ba33925ca7553f0f461035ce2b117.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-a3ed-cheshmaye-khis/4b7f588f0ecaba1.jpg
+	dir=output/rj/images/songs/
+	out=f1b8071c96f62f12dd7179886604b725.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-abbasi-sarma/5e7aad539398578.jpg
+	dir=output/rj/images/songs/
+	out=08b68bac4ba122bbaf72f7a577ca73b6.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-abdollahi-rasme-ashegh/673006d5.jpg
+	dir=output/rj/images/songs/
+	out=e1bef3a53e4784a20a66f588916e404b.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-akherat-single-(ft-bahman)/8ef273752dd1e8b.jpg
+	dir=output/rj/images/songs/
+	out=6e69237dbb2bba1354ea10f7df852c9a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alem-kare-ghalat/3e8c43aa6a5585e.jpg
+	dir=output/rj/images/songs/
+	out=ac10f1178d00411372c7c6533b790c3d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alem-doret-begardam/2da24e288bcbb71.jpg
+	dir=output/rj/images/songs/
+	out=547d236adc0ce9c9df0649292af203ed.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alem-faramooshi/72812cdd.jpg
+	dir=output/rj/images/songs/
+	out=b192121a3d4fccf8083630215c783906.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alem-khoshhalam/aaef7ce5eb5f432.jpg
+	dir=output/rj/images/songs/
+	out=340c552950b03f4ddee04878d5ac1f83.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alem-bazei-ehsas/3bbb175926cc366.jpg
+	dir=output/rj/images/songs/
+	out=461413467a25a3d9e12f1803d7102ebc.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alem-merci-ke-hasti/5d772a81a192215.jpg
+	dir=output/rj/images/songs/
+	out=51103e6bb04f861465a8bd313965b7b9.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alem-ghalamro/f29a6861a0b66ca.jpg
+	dir=output/rj/images/songs/
+	out=c7583d285ebbfc8bc790fbf442663056.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alem-ye-negah/9ce62eed823a705.jpg
+	dir=output/rj/images/songs/
+	out=4ea3c82d21b9d6d54e232c10cef3d151.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alem-tasob/07929f26398d94c.jpg
+	dir=output/rj/images/songs/
+	out=a5c01a79d7474a678b82e35ab41da2bb.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alem-name/1791a68e54c64f6.jpg
+	dir=output/rj/images/songs/
+	out=ed7f4c956feebf4aebc1babbd0a3cdee.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alem-delamo-zadi/4b3fd93027cbeef.jpg
+	dir=output/rj/images/songs/
+	out=837d7081757100676720e45fe5263fd2.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alem-ye-rooz-didamesh/2ed7bf6a981a56c.jpg
+	dir=output/rj/images/songs/
+	out=0aa13c6f11e2836cc5e0f76bae461ff2.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alem-etefagh/3f7b2871abd1280.jpg
+	dir=output/rj/images/songs/
+	out=63de19423a6dabba3faa83663ebef5b1.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alem-parte-havasam/8c9c2a63518fb13.jpg
+	dir=output/rj/images/songs/
+	out=8c25bd66c90a7ba0e387423628b1b36b.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-barmigardam/c9cb81a91196f38.jpg
+	dir=output/rj/images/songs/
+	out=7076883b17380b1e047eb41a1b98080f.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-dastam-bitabe/98ea0757.jpg
+	dir=output/rj/images/songs/
+	out=4a78480a04a9ddb437a3ca068ba3f463.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-hesse-pak/0caf82dc820d0e8.jpg
+	dir=output/rj/images/songs/
+	out=fb4ddd0d268204c6c499195f32d991c9.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-kaboos/7fadf01e07aed21.jpg
+	dir=output/rj/images/songs/
+	out=ec8cdf64ead746c73ff74e0c9e3cfdb5.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-laleh/ef2a8ec7ed50f08.jpg
+	dir=output/rj/images/songs/
+	out=086013088598a0acbc4739aaff7bceca.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-ejazeh/7a557e5e.jpg
+	dir=output/rj/images/songs/
+	out=1879440672270c0696845ae3ba5d6e70.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-daaram-miram/6466bbdc530717d.jpg
+	dir=output/rj/images/songs/
+	out=79fa2f03ced8913ff4b413b3bfd62eb3.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-dire-(ft-siamak-master)/fceeeb47c51e0d9.jpg
+	dir=output/rj/images/songs/
+	out=c565b1d4892d04dd0bdc18f0146e466b.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-bargard-(ft-majid-farahani)/d42e73f7be70cff.jpg
+	dir=output/rj/images/songs/
+	out=68439169fef380992c70e7fdcef955cc.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-hesse-khoob-(ft-mohammad-zare)/3e4ea3b753c90a5.jpg
+	dir=output/rj/images/songs/
+	out=5204a2a8bd50550796893d9fb2d6eb5e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-kiye-kiye-(ft-roxana)/a537007f8665501.jpg
+	dir=output/rj/images/songs/
+	out=0281b1263c567186a5585bd50c6e1a4b.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-tabe-geryeh-(ft-behnam-noroozi)/a3907b533c5cd46.jpg
+	dir=output/rj/images/songs/
+	out=d11e36e5b2a3fedbb5b7c2dca488617b.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-asheghet-shodam/cc9f91cfc013bb5.jpg
+	dir=output/rj/images/songs/
+	out=4ac48f6049762c630853cce2c90d4df9.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-rouze-eshgh-(ft-behnam-noroozi)/b55b6d64597e5b9.jpg
+	dir=output/rj/images/songs/
+	out=1849a873c6a0223382cb0b2c35491579.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-yadet/09f884c7e9b4021.jpg
+	dir=output/rj/images/songs/
+	out=51f8e2324f32ae1ee2a0680707a7c70f.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-vange-vange/0da957e5fece211.jpg
+	dir=output/rj/images/songs/
+	out=3996a0257383112c4b8bb642ba5084ec.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-bedoone-to-nemishe/01a50750dc5b985.jpg
+	dir=output/rj/images/songs/
+	out=d80ce9c123096b363f68fe9de22d0faf.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-aroom-aroom/f1a335e1a24d6eb.jpg
+	dir=output/rj/images/songs/
+	out=d89acfe529e00f4e01641d42bb4cb0a1.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-bivafa/c8968752b6a42e2.jpg
+	dir=output/rj/images/songs/
+	out=ab8cab60cb7a8a145ba3cae2b6426f8b.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-mohreye-mar/c042cea24a394da.jpg
+	dir=output/rj/images/songs/
+	out=22d699a8b60d82f6d2b0b31768feae36.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-ebi-ebrahimi-ameli-kija/dab3d459.jpg
+	dir=output/rj/images/songs/
+	out=7f9f76b1ecef3fef19695f138761f969.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-alizadeh-majid-farahani-aroom-aroom/e8945970d276245.jpg
+	dir=output/rj/images/songs/
+	out=db2a5938617e01588916e359a26bdc06.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-barmaki-bi-to-nemitoonam/c0d2bc78.jpg
+	dir=output/rj/images/songs/
+	out=5945077bb843b40e7673b47d18236204.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-barmaki-tars/2efacc87.jpg
+	dir=output/rj/images/songs/
+	out=2dfc276b0ee694572a937ba0830d870e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-bonakdaran-ghadir/2e061f2e856b42a.jpg
+	dir=output/rj/images/songs/
+	out=89ad19ab9a34d0f045ae6a1769b1044a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-dadashi-ahay-khoda/e0dc7801.jpg
+	dir=output/rj/images/songs/
+	out=a05eaaada34c0dbd1a893f764f0c0265.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-dadashi-sokoute-sedam/1916125d5079408.jpg
+	dir=output/rj/images/songs/
+	out=6aa3209dc4383ea8be336e00c2a6986e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-dadashi-farib/b3c9cbf9b011efd.jpg
+	dir=output/rj/images/songs/
+	out=06039296e487bd1feab6e103d3a6913f.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-dadashi-delshoureh/de90588027c456d.jpg
+	dir=output/rj/images/songs/
+	out=6a7cc194dc60aebac394290724273ab6.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-dehghan-aroome-aroom/2d8428df7af99c1.jpg
+	dir=output/rj/images/songs/
+	out=19cc3a7019a895e17bbba07622f7ec43.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-dehghan-in-roozha/a95cbf2b1c73fee.jpg
+	dir=output/rj/images/songs/
+	out=97c97c13023e37249728d1295f4c7c72.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-dehghan-leilaye-leilaha/198911ec0d12370.jpg
+	dir=output/rj/images/songs/
+	out=6f7e575279179f4760e20f49ccb4f550.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-dehghan--ashke-setareh/7226ce3bb12424e.jpg
+	dir=output/rj/images/songs/
+	out=4f0026142432492049f1d894095911a2.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-entezari-ma-do-ta/9730cf6f7618316.jpg
+	dir=output/rj/images/songs/
+	out=b91a11327cbb70808eea00b1fb3b81cd.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-entezari-janjal/780c0649.jpg
+	dir=output/rj/images/songs/
+	out=1d8ed8b6e85ff4de35fe53fa6648086f.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-entezari-begoo-bashe/434a9c2d.jpg
+	dir=output/rj/images/songs/
+	out=fe3b496e82a9939c979bb05b36b6bd37.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-entezari-emshab/2698a8d1d410d6f.jpg
+	dir=output/rj/images/songs/
+	out=680e82db5b53a3171c2bc28aab674fdc.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-sayyar-(ft-ali-barati)/44de8380faadfec.jpg
+	dir=output/rj/images/songs/
+	out=17977dbf71362faa52def83507af61a2.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-doos-derom-bogom-mo-(ft-sasy)/c6502731fd25960.jpg
+	dir=output/rj/images/songs/
+	out=383fb2983afc2a6ebad1feec724e5d81.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-majnoone-leyli-(ft-sa30)/aea02463711a0aa.jpg
+	dir=output/rj/images/songs/
+	out=a4593cd1ab5d9d5c8e9349442214e48d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-bahar-(ft-ali-barati)/8e92221068158c9.jpg
+	dir=output/rj/images/songs/
+	out=1b26269839e7734515867444a42a89ff.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-delroba-(ft-behrooz-fathi)/c1aaa0f3a831d94.jpg
+	dir=output/rj/images/songs/
+	out=c41e28b92e83de028263e4e18817eac8.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-siah-moo/657ecefc81124ef.jpg
+	dir=output/rj/images/songs/
+	out=09dcd880565caca3a6011a75b348df68.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-cheshmaye-jadoogar-(hamid-fallah)/db9535fb5205c4b.jpg
+	dir=output/rj/images/songs/
+	out=757f85a9b679c1a2084dbed4c30813aa.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-tange-del-(ft-hamid-fallah)/513aa1aa4522ae7.jpg
+	dir=output/rj/images/songs/
+	out=5f06bd7d2067eb1674a41f2cbfa34d3a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-negar/c52025d1a331a57.jpg
+	dir=output/rj/images/songs/
+	out=daf9d724b71cbab5da05e31402034c23.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-ashke-cheshmat/370ba16186b35e1.jpg
+	dir=output/rj/images/songs/
+	out=3255e171ad645f39548cb61542306de1.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-az-to-che-penhoon-(ft-peyman-mousavi)/f85ba305d6ada63.jpg
+	dir=output/rj/images/songs/
+	out=a404a262abd04fb05e9342e1a4a13f9d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-ay-donya-(new-version)/e1d569eb9daa37e.jpg
+	dir=output/rj/images/songs/
+	out=e0f4d9ed0803458aa725f410620c4a7e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-naze-cheshmat-(ft-behrooz-fathi)/f9a2253ffc6c10a.jpg
+	dir=output/rj/images/songs/
+	out=ff5c978f9c846e919ef5f4736f3295a2.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-nafas-nafas-(ft-abolfazl-zeraatkar)/f18b47db90500d1.jpg
+	dir=output/rj/images/songs/
+	out=13e2ee433ac31e277ca811ff8e2b583f.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-deltange-cheshatam-(ft-hadi-afarideh)/c232826e956770c.jpg
+	dir=output/rj/images/songs/
+	out=d0ec7e31165b0c17ee7e75909859669e.jpg
+https://assets.rdjvn-assets.com/static/mp3/mostafa-taftish-abolfazl-esmaeili-eshgh-yani-hamin/67e1b69d0f7b9e9.jpg
+	dir=output/rj/images/songs/
+	out=854c21df563afe12beb982600e1934fd.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-alireza-esmaeili-madar-zan/502703330d60a85.jpg
+	dir=output/rj/images/songs/
+	out=fa1a750dd6c6c76533e88a159da6a839.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-mostafa-dareini-taghsir/919d76f0e4245cb.jpg
+	dir=output/rj/images/songs/
+	out=5434095520cffea9bc32140d48520db9.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-emad-hamedi-donyaye-hasood/7bca9e272257a4f.jpg
+	dir=output/rj/images/songs/
+	out=bff36e47c875abdfc63121d1e9d3b5bf.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaeili-emad-hamedi-domado-avordan/dcbfb201125d338.jpg
+	dir=output/rj/images/songs/
+	out=35556a2e8196ce53304f13a1aeea6712.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaili-zan-nomokham-(ft-arman-gaysoon-sasy)/c3f3dd915cf4bfb.jpg
+	dir=output/rj/images/songs/
+	out=aec1758f20c8d8000451512072527512.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaili-yaregeh-(ft-sasy)/883a716947f0460.jpg
+	dir=output/rj/images/songs/
+	out=2ae3cef913f4e5ac86ac0a7874744a81.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaili-mastom-kon/423041b8749d078.jpg
+	dir=output/rj/images/songs/
+	out=48ccd16626c5060730c56357a06966dd.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaili-kamal-barekati-lahnat-be-darya/236c0d140b87216.jpg
+	dir=output/rj/images/songs/
+	out=96f8cd1ce4c06aec4f25ef41b9808a7e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaili-ali-barati-dele-tang/664c57fd500c7c4.jpg
+	dir=output/rj/images/songs/
+	out=b0fddbd3366285c6a90f825dbc3a8df8.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaili-emad-hamedi-berar/8b9735cf9cbf27e.jpg
+	dir=output/rj/images/songs/
+	out=e4ddc587168db390f83a63a12804251c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaili-mohsen-dolat-ay-donya/506f3e7303471d5.jpg
+	dir=output/rj/images/songs/
+	out=798ce3738068a3fbef73ed2424417dec.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-esmaili-mostafa-taftish-nazgol/a4a38ce42e38c66.jpg
+	dir=output/rj/images/songs/
+	out=8b3bd7a6c32f1efe9fc93c33d25ba14a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-chete-refigh/e217cf35f3539f1.jpg
+	dir=output/rj/images/songs/
+	out=a028d43b82189e00c7f465fbe32e817e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-nadari-ouno/0557a8d087fffc0.jpg
+	dir=output/rj/images/songs/
+	out=35043465cb0f5c2779c446a1ca78f863.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-coffe/05bc6b9b.jpg
+	dir=output/rj/images/songs/
+	out=8d1f76195bdd4cf3b1ca3f508a9e2ce2.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-hasrate-didanet/3b353b44.jpg
+	dir=output/rj/images/songs/
+	out=43f78b09969664730ae43a0932ad431b.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-eshtebah/2a6b3671.jpg
+	dir=output/rj/images/songs/
+	out=67fa7456e228c1aa4988342dc73666c5.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-chizi-nagoo-boro/4c36ac72.jpg
+	dir=output/rj/images/songs/
+	out=6fdd02c8a1b94d62e6cc5d75bff6d95c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-yalda/ef6100eb867f0ba.jpg
+	dir=output/rj/images/songs/
+	out=38f696ad8d2af497f8deb35ab4f1cdbb.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-omghe-divoonegi/d57c076ac6e62a7.jpg
+	dir=output/rj/images/songs/
+	out=fd9a9a1888224eda6acbac57aee601ed.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-vay-to/bd42677c539ba21.jpg
+	dir=output/rj/images/songs/
+	out=a86fee4aadc1c0244812ed84b0f287a3.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-che-sakhte/31f944f1dd6ff0b.jpg
+	dir=output/rj/images/songs/
+	out=1c276851a7bb0e943539d8ff0683dfd0.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-eshghe-bi-mantegh/622fd521b375da5.jpg
+	dir=output/rj/images/songs/
+	out=a20ed438b07027bca404112a517eb039.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-royaei/ef25a54f5d4bec9.jpg
+	dir=output/rj/images/songs/
+	out=6f226c0a8b80e3450f0f5ef3426665c7.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-toro-mikham/1074ce73803bd54.jpg
+	dir=output/rj/images/songs/
+	out=3d7b540951769b38a1681e8263305fcd.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-sakhte/87ed0c57b1afc73.jpg
+	dir=output/rj/images/songs/
+	out=b53174d15641f105b22076e795fc24df.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-shahre-lanati/490934d654dd4cf.jpg
+	dir=output/rj/images/songs/
+	out=24ff63ae2b1e0e1a9d71bfec5140ecc9.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fallah-saeid-sedaghati-khatereha/0842bd193878f82.jpg
+	dir=output/rj/images/songs/
+	out=c6c1b37c129d214f6499818587648f6b.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-faramarzi-eshghe-tahereh/61b74f36df6a2ba.jpg
+	dir=output/rj/images/songs/
+	out=5ffe6aafb034be2d1f6aa5312f1e58d0.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-faramarzi-cheshm-be-rah/d6c8887564533a5.jpg
+	dir=output/rj/images/songs/
+	out=b074f6fb501d153bd539bacced9f3bd1.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-faramarzi-mane-divooneh/2dee203a5882db6.jpg
+	dir=output/rj/images/songs/
+	out=857afddad4b8da2db704b97587638949.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-faramarzi-ba-to-hastam/3bd306452a9a898.jpg
+	dir=output/rj/images/songs/
+	out=d4aac494861767a4caefa5f801a6e8bd.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-faramarzi-khiyanat/190aad479273d68.jpg
+	dir=output/rj/images/songs/
+	out=9dbdaf378e9d4431d321574ae9423f38.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-faramarzi-tamaa/46f2f54d8d4d88b.jpg
+	dir=output/rj/images/songs/
+	out=741ce7b2d6e3d2e3c5d1f8400572b8e4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-faramarzi-to-ke-rafti/386199f8dcdc1a3.jpg
+	dir=output/rj/images/songs/
+	out=d008502f23aed69d2ab29991d69c50d5.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-faramarzi-gonah/00b195b5732d57f.jpg
+	dir=output/rj/images/songs/
+	out=1e14eec7941aae4cae5d1fdbe75d26f5.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fardi-poshtet-khaliye/f101f800b7e6169.jpg
+	dir=output/rj/images/songs/
+	out=1eaa604a8c941921d2984439a4b2a9b6.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fardi-taghas/a65903fd1d6609d.jpg
+	dir=output/rj/images/songs/
+	out=3ddd11a599d050d9f2a99b2554880d64.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-fardi-mehdi-javid-sookot/390353578169491.jpg
+	dir=output/rj/images/songs/
+	out=a8165ad1004a0dccaf23ab5f132cda9e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-gholipour-bargardi-behtare/e9b1cc2b4bdf3be.jpg
+	dir=output/rj/images/songs/
+	out=eacbf04ee876fd1a765406dbea385c81.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-sange-tamoom/eefc0256d13e946.jpg
+	dir=output/rj/images/songs/
+	out=87532a150307a3b4bc024dd3331449d3.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-hesse-baroon/2f7b26a38a42a16.jpg
+	dir=output/rj/images/songs/
+	out=0295b362998d6755b7bfec4e6dc3c54f.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-ayandeye-roshan/e37c3e1b97e0ea1.jpg
+	dir=output/rj/images/songs/
+	out=8808d924e8146d4d4497dfd852de585a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-age-to-boodi/823bb70477058db.jpg
+	dir=output/rj/images/songs/
+	out=ac4fe00584ce86ae85351c53851c0f96.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-asheghet-shodam/a0325a0c4526d58.jpg
+	dir=output/rj/images/songs/
+	out=8c76119f1cc9143bca972437220bd5f0.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-dooset-daram/de567b1d159d5c8.jpg
+	dir=output/rj/images/songs/
+	out=f338abf946194f95b6bec677d35775c5.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-jacket-tanhaei/b2f2a93004c1b50.jpg
+	dir=output/rj/images/songs/
+	out=da2839c987c3bd1b03dbc88ebe76c084.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-halam-khobeh/461b0fcf2c3a652.jpg
+	dir=output/rj/images/songs/
+	out=e7e728c227869ff7f2624c69c332e189.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-khabe-zemestooni/fa9bde42182e09f.jpg
+	dir=output/rj/images/songs/
+	out=1fcc91c46094aaf294753c9c4605f02c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-hesse-baroon-(remix)/e5f3ca069ba2a93.jpg
+	dir=output/rj/images/songs/
+	out=4b6c5c788539f1d11d2faa56c601c097.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-eyde-bi-to/7222f7a9cc90ab9.jpg
+	dir=output/rj/images/songs/
+	out=a80c04c1ffd751eb9808e48622c544ff.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-masir/2055e2e2a02c345.jpg
+	dir=output/rj/images/songs/
+	out=155dad01b3a16582e40c6d20971ef92c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-tanham-gozashti/54d4e4c3ca94f2c.jpg
+	dir=output/rj/images/songs/
+	out=8559c910c1ae478fa85209757747044d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-mehmone-man-bash/7a1dd943438dc7c.jpg
+	dir=output/rj/images/songs/
+	out=eceafd4bd61987228057324f177e9f91.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-masir-(remix)/4057299efe9c66d.jpg
+	dir=output/rj/images/songs/
+	out=19aa7314cc469510dcbe93c906f44333.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-masoudi-royaye-dour/e970d68589e9ba7.jpg
+	dir=output/rj/images/songs/
+	out=b467cd51835ca67420eb714e7cfb4c3a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-mehraban-bayad-beram/d2dc4b919890f88.jpg
+	dir=output/rj/images/songs/
+	out=007f30474ca3a40d69163f277b34a138.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-mehraban-baroon/e5e6a0ae5399c8b.jpg
+	dir=output/rj/images/songs/
+	out=bce70c09e1704266c5adfa5021bdd49b.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-miraei-dooset-daram/8a60b0d88211a49.jpg
+	dir=output/rj/images/songs/
+	out=7dcaf791f30944bbaa4221079f169f57.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-mirzaei-dele-man/e73a3611c969f18.jpg
+	dir=output/rj/images/songs/
+	out=c2ccca9ac5c6de37e0191313ed9ad4bd.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-mohammadiyan-akharesham-(ft-sasan-sp)/11dceff0122be90.jpg
+	dir=output/rj/images/songs/
+	out=c3aafdf06eed5798d1fec03d8a39ff49.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-naderi-ye-omreh/ed21837e1175b44.jpg
+	dir=output/rj/images/songs/
+	out=6e651dbfd5d63f3f7b3336b6c6595a98.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-naderi-hasrate-arbaein/c01f8e7ff17dffa.jpg
+	dir=output/rj/images/songs/
+	out=11dfbf42a053ff78960183e9df58e9a7.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-naderi-teshne-ab/d48d8e75ae4eb6c.jpg
+	dir=output/rj/images/songs/
+	out=bb95670dcc7846f0f6fc6a3b832a81aa.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-najjari-bad-az-to/cae04dd8d626f42.jpg
+	dir=output/rj/images/songs/
+	out=290d0d2bf6349c0101f212dc97f5f764.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-nayebpoor-hossein-saghebi-roo-siah/f9d0c8e1005d562.jpg
+	dir=output/rj/images/songs/
+	out=11c6fbfc1ae71a9faf533a5dbbf3bf8d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-pirhadi-khanomi/4e897c1318039e3.jpg
+	dir=output/rj/images/songs/
+	out=a72906274cd5cadfe2539b6a2637bda2.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-pirhadi-vay-che-dokhtare-balaei/6cc6f062a2852ea.jpg
+	dir=output/rj/images/songs/
+	out=ce9952be4027ed14080da8d57bc09711.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-pirhadi-delamoo-ashegh-kon/9246525b74f1b97.jpg
+	dir=output/rj/images/songs/
+	out=3199370a5faa154151880f1bb6142c06.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazle-pirhadi-naro/e9039e203aaeee5.jpg
+	dir=output/rj/images/songs/
+	out=de53a87e2acc4f543ac8d169ee866f04.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-pirhadi-ya-habibi/f70a15ec8ba60b7.jpg
+	dir=output/rj/images/songs/
+	out=effdc3fe6efdca57df21fff011707488.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-rezin-alafaye-harz-(ft-saya)/1a6cb480ca84ddf.jpg
+	dir=output/rj/images/songs/
+	out=4121ef841c880cd2b55f7e5862cc1a09.jpg
+https://assets.rdjvn-assets.com/static/mp3/ablofazl-rezin-reza-sokoot-faramosham-kon/17765af4ca705d7.jpg
+	dir=output/rj/images/songs/
+	out=cce2940e5da750da906838cf7baaca5d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-samaee-kheyli-halam-bade/a1654484.jpg
+	dir=output/rj/images/songs/
+	out=b3d7c322d867125fd2e7f8e53a885ab5.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-samaee-geryeh-nakardam/b315619822c187d.jpg
+	dir=output/rj/images/songs/
+	out=dd7a051d203b484fa67245886e0ef4cc.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-samaee-doset-daram/03c4556d3f59932.jpg
+	dir=output/rj/images/songs/
+	out=475e3a8c285226dcee1d1bcad8f11998.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-samaee-hesse-ajib/6db18861fd0b458.jpg
+	dir=output/rj/images/songs/
+	out=79921e68c8aa9d64a3c8fef5d7aa4263.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-saraee-zahed/091c2ef7d56281c.jpg
+	dir=output/rj/images/songs/
+	out=c418dfc6dee9c00b1ef40aa46bcc8630.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-saraei-marham/4921eca0b01f8a1.jpg
+	dir=output/rj/images/songs/
+	out=23c86e02cc5d2049c57a5167dccbc84e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-shahvarani-adat/be980f8d30071e6.jpg
+	dir=output/rj/images/songs/
+	out=a6f6f0104692c9dd06463dbc9d4b4fdb.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-shaikhi-tahamol-nadare-nabashi/763a979a1f29d1c.jpg
+	dir=output/rj/images/songs/
+	out=80eb4cdd74baa9874441758df8e3f0b7.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-shaker-ghalbe-shekaste/ceff3aba27f59c8.jpg
+	dir=output/rj/images/songs/
+	out=3928f173964507a60881af3258218f14.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-tayeb-nostalgia/80e980fd1c5295a.jpg
+	dir=output/rj/images/songs/
+	out=870d710f7ccf9f7c96074369f802706d.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-valayi-marge-man/9be26b8d228050b.jpg
+	dir=output/rj/images/songs/
+	out=1a667efb99f7fd0c828a40c38c4a646c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-yazdanpanah-range-dard/242242c644a4260.jpg
+	dir=output/rj/images/songs/
+	out=1618184c5aba293bbcfb921b2282cf1f.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-zare-rahaei-(ft-reza-dadgar)/dac8d64f6a58993.jpg
+	dir=output/rj/images/songs/
+	out=1cba8d34ceda3647a56bd7ed3ffecb60.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-zare-mano-nemibini/11e17f2b39df6f9.jpg
+	dir=output/rj/images/songs/
+	out=b11345b79945f3de7517274d00e63c4a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-zare-khiaboon/3ee0cdc3e76a3a1.jpg
+	dir=output/rj/images/songs/
+	out=f12d2db91bf7c9cb5198517bc3c06574.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazl-zarrin-ma-montazerim/b2d99100c2a91c9.jpg
+	dir=output/rj/images/songs/
+	out=44dc6b1d93f7e885f1a6939e9bf234b9.jpg
+https://assets.rdjvn-assets.com/static/mp3/abolfazle-alikhani-ali-asghar/5e16758dc0f7d85.jpg
+	dir=output/rj/images/songs/
+	out=918ee2a048d4d33898b834c849c03837.jpg
+https://assets.rdjvn-assets.com/static/mp3/aboozar-asadolahi-bekhand-masnoei/4318e38f438f79c.jpg
+	dir=output/rj/images/songs/
+	out=c8333db69e145cc5cb466bfa75b4faf0.jpg
+https://assets.rdjvn-assets.com/static/mp3/aboozar-izadpour-kenare-to/bd73490eb322db2.jpg
+	dir=output/rj/images/songs/
+	out=266d115ad316344d8fe70c77ab9876aa.jpg
+https://assets.rdjvn-assets.com/static/mp3/aboozar-izadpour-mage-mishe/5191538fcc2ebf8.jpg
+	dir=output/rj/images/songs/
+	out=3c41cf63dadded02243ea6e789e0e220.jpg
+https://assets.rdjvn-assets.com/static/mp3/aboozar-izadpour-atre-narges/119312e9a1c19d1.jpg
+	dir=output/rj/images/songs/
+	out=73f19a5933152addfc014e5080f8fef2.jpg
+https://assets.rdjvn-assets.com/static/mp3/aboozar-izadpour-khod-azaar/46fb0738d3340e6.jpg
+	dir=output/rj/images/songs/
+	out=40b340e59f75e642ecd747563c6c0b27.jpg
+https://assets.rdjvn-assets.com/static/mp3/aboozar-izadpour-royaye-to/95d857755943ac5.jpg
+	dir=output/rj/images/songs/
+	out=28969e95cd8fc65951528b9d3e8390cc.jpg
+https://assets.rdjvn-assets.com/static/mp3/aboozar-mehrabi-birahm/c43dbf1e6eade96.jpg
+	dir=output/rj/images/songs/
+	out=3a066114539ef6d2dbad8ef8084c50fa.jpg
+https://assets.rdjvn-assets.com/static/mp3/abouzar-asadolahi-heseh-tazeh/7722c2fb00e8a65.jpg
+	dir=output/rj/images/songs/
+	out=6e427b123a70594da4bd2c7513e0ca22.jpg
+https://assets.rdjvn-assets.com/static/mp3/abouzar-ghashghavi-donyaro-mizaram-kenar/db83909cfeee2a2.jpg
+	dir=output/rj/images/songs/
+	out=366ade218c8b474f1b026becd4e6376a.jpg
+https://assets.rdjvn-assets.com/static/mp3/abouzar-ghashghavi-khabe-hazyoon/9d41aaf3005d120.jpg
+	dir=output/rj/images/songs/
+	out=c54449f9a9877d195f4c716f6a581ebe.jpg
+https://assets.rdjvn-assets.com/static/mp3/abouzar-ghashghavi-boghz/b43ff62cb30224e.jpg
+	dir=output/rj/images/songs/
+	out=fd09dd138881e937bae9a019df096f4c.jpg
+https://assets.rdjvn-assets.com/static/mp3/abraham-eshghe-sadeh-(ft-reza-karami)/09a499d3a83e02e.jpg
+	dir=output/rj/images/songs/
+	out=34076f2a7db3f60f507e0ff9fe77ba53.jpg
+https://assets.rdjvn-assets.com/static/mp3/abteen-boghze-kohne/b04c2f9c.jpg
+	dir=output/rj/images/songs/
+	out=39f4cc4a79ef5a6e52d86a6d95c49301.jpg
+https://assets.rdjvn-assets.com/static/mp3/abtin-shabi-ke-bad-mioomad/ec27e00d.jpg
+	dir=output/rj/images/songs/
+	out=8cc12037bdd1663a6ac25a4ebca9a328.jpg
+https://assets.rdjvn-assets.com/static/mp3/abtin-nahale-omid/517d2a95db1a403.jpg
+	dir=output/rj/images/songs/
+	out=1347fc6fbf6513520cb4362a73d40440.jpg
+https://assets.rdjvn-assets.com/static/mp3/abtin-nahale-omid-(ft-araz)/5ff6e59d753d156.jpg
+	dir=output/rj/images/songs/
+	out=3fb1b9cb67178a76f4d2d2e9ced72eff.jpg
+https://assets.rdjvn-assets.com/static/mp3/abtin-eshghe-zemestooni-(ft-araz)/e4f8c18e0e39581.jpg
+	dir=output/rj/images/songs/
+	out=ae74dccfb5e5fa87abf4ebcb02765c80.jpg
+https://assets.rdjvn-assets.com/static/mp3/abtin-kenare-man-bemoon/2cbce9a8b1502f3.jpg
+	dir=output/rj/images/songs/
+	out=ea3004630978a1faf311907098822064.jpg
+https://assets.rdjvn-assets.com/static/mp3/abtin-mano-az-yad-bordi/3fb42c21e5a5efe.jpg
+	dir=output/rj/images/songs/
+	out=302a862ec9a48a73f1ba8298ec7a4066.jpg
+https://assets.rdjvn-assets.com/static/mp3/abtin-still-remember-(ft-shuka)/03e65e288348dad.jpg
+	dir=output/rj/images/songs/
+	out=8c1710f5e024f515397b01faa1dccef4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abtin-hirbod-for-you-(ft-kimi)/4101f973c7a2df4.jpg
+	dir=output/rj/images/songs/
+	out=f200653db6d5cf7908e1933ef6d91c3c.jpg
+https://assets.rdjvn-assets.com/static/mp3/araz-2ta-donya-(ft-abtin)/9f90f30f.jpg
+	dir=output/rj/images/songs/
+	out=99087187abc590ae29f98176c842f2ad.jpg
+https://assets.rdjvn-assets.com/static/mp3/abtin-ebham-moon-cafe-(ft-ali-gerami)/9619da5b6ef7a72.jpg
+	dir=output/rj/images/songs/
+	out=85313bce7a8e6e0b4daccb06cfa7481e.jpg
+https://assets.rdjvn-assets.com/static/mp3/abtin-ebham-divooneh/a1788f961f26cfa.jpg
+	dir=output/rj/images/songs/
+	out=41211811b32a86986f370f9b4ef5e953.jpg
+https://assets.rdjvn-assets.com/static/mp3/abtin-iravani-aramesh/b45874f1.jpg
+	dir=output/rj/images/songs/
+	out=59c407e51df39737a25d11e2529149f4.jpg
+https://assets.rdjvn-assets.com/static/mp3/abtin-zarei-ki-bishtar-az-man/c01d19d2485624f.jpg
+	dir=output/rj/images/songs/
+	out=485aaa0b366af8c204e3c043b48b201e.jpg
+https://assets.rdjvn-assets.com/static/mp3/ac-donyami/4f6d44641941b9a.jpg
+	dir=output/rj/images/songs/
+	out=c30df279be78f6e0219cdd0edbc39a2f.jpg
+https://assets.rdjvn-assets.com/static/mp3/ac-band-bash/6a44e7afaf55968.jpg
+	dir=output/rj/images/songs/
+	out=4a0264fe1aba29bdcaf4bdb2aa2de8b1.jpg
+https://assets.rdjvn-assets.com/static/mp3/accolade-ninoochka-(ft-azad)/771b3859ba70a83.jpg
+	dir=output/rj/images/songs/
+	out=804a343b2112a19fc7421c6dcbdb8798.jpg
+https://assets.rdjvn-assets.com/static/mp3/accolade-harfe-ezafeh/d087c050.jpg
+	dir=output/rj/images/songs/
+	out=9d17059130d7dd10b2ba41d2fe0eb5cc.jpg
+https://assets.rdjvn-assets.com/static/mp3/accolade-raskolnikov/7ed2dfa9.jpg
+	dir=output/rj/images/songs/
+	out=734d4a5ea7ee5e02a8f466d65895d6ea.jpg
+https://assets.rdjvn-assets.com/static/mp3/accolade-mohandes/a6915c14.jpg
+	dir=output/rj/images/songs/
+	out=d6ed1e3da9444870ef05b486d481c75f.jpg
+https://assets.rdjvn-assets.com/static/mp3/accolade-leh/fa3cc5aa2c6e8b8.jpg
+	dir=output/rj/images/songs/
+	out=160a19737b33b2844c3ca10b1daebf05.jpg
+https://assets.rdjvn-assets.com/static/mp3/accolade-asbabkeshi/5c5c81c6.jpg
+	dir=output/rj/images/songs/
+	out=08fcfbe19bf621944c3fee26911defd9.jpg
+https://assets.rdjvn-assets.com/static/mp3/accolade-gheteyeh-204/fda05516b4b6414.jpg
+	dir=output/rj/images/songs/
+	out=8dbd94a08007ddc09faf2149b81b5a93.jpg
+https://assets.rdjvn-assets.com/static/mp3/ace-hararate-aftab/eeafe864.jpg
+	dir=output/rj/images/songs/
+	out=48157d4eb4cbfb846d9de473c5bd8735.jpg
+https://assets.rdjvn-assets.com/static/mp3/ace-band-yeki-mesle-man/b3bb1ec5.jpg
+	dir=output/rj/images/songs/
+	out=e78943d47d4faa0e1964594a65c3b93b.jpg
+https://assets.rdjvn-assets.com/static/mp3/ace-band-ace-night/4ccfd23cae044c4.jpg
+	dir=output/rj/images/songs/
+	out=d598225dc201b6fcb57c97ba8292775e.jpg
+https://assets.rdjvn-assets.com/static/mp3/hooman-ajdari-ace-band-high-hopes/33f84563.jpg
+	dir=output/rj/images/songs/
+	out=a634de7336499059a396ea04eaf1b42a.jpg
+https://assets.rdjvn-assets.com/static/mp3/ace-pik-barname-chie/4f5b321de213a80.jpg
+	dir=output/rj/images/songs/
+	out=2d55bb33755a46a3b9828b4ee3ca315a.jpg
+https://assets.rdjvn-assets.com/static/mp3/acedia-boys-in-the-hood/24b520eae0f9fae.jpg
+	dir=output/rj/images/songs/
+	out=c4bf7885059011b4cd6be2832db4a7b3.jpg
+https://assets.rdjvn-assets.com/static/mp3/acedia-straight-shots/cbee7a191a7b2d8.jpg
+	dir=output/rj/images/songs/
+	out=b8c58e35f84826d311ab9262bb6d5022.jpg
+https://assets.rdjvn-assets.com/static/mp3/acedia-look-me-in-the-face/bcd31c8177f3697.jpg
+	dir=output/rj/images/songs/
+	out=09666b4f726e88c76e2c37dff5c87982.jpg
+https://assets.rdjvn-assets.com/static/mp3/acepik-sargije/afe899d1a960d9d.jpg
+	dir=output/rj/images/songs/
+	out=13c6c5828d42b74e42eed4ac3f769f66.jpg
+https://assets.rdjvn-assets.com/static/mp3/acepik-baraxe-donya/72d9726f6023892.jpg
+	dir=output/rj/images/songs/
+	out=44ab5260f9bd56b4853ac1886f32fafb.jpg
+https://assets.rdjvn-assets.com/static/mp3/acepik-das-nade-(ft-lantern)/0874c99b.jpg
+	dir=output/rj/images/songs/
+	out=1ab4e1fa6f5f436b1c71bdfa12b78778.jpg
+https://assets.rdjvn-assets.com/static/mp3/acepik-band-zendegi-ine/ce2bf4cc330df90.jpg
+	dir=output/rj/images/songs/
+	out=6e25279297e5556f3347ab64d1e4e982.jpg
+https://assets.rdjvn-assets.com/static/mp3/acrovaya-man-khode-mojezeam/f781f8b4dbab989.jpg
+	dir=output/rj/images/songs/
+	out=632ce13aa10f8dc1d97a79d198d038b6.jpg
+https://assets.rdjvn-assets.com/static/mp3/acrovaya-hello/8d76acb4db09def.jpg
+	dir=output/rj/images/songs/
+	out=432bcd86e0667c7168b18675d92ba120.jpg
+https://assets.rdjvn-assets.com/static/mp3/active-records-gangsta-fathers/044f6e8409276a0.jpg
+	dir=output/rj/images/songs/
+	out=1d0c18e04f2e430706d3574cdc990270.jpg
+https://assets.rdjvn-assets.com/static/mp3/acven-fuck-step-(ft-vigen)/72c1c6f9ba67668.jpg
+	dir=output/rj/images/songs/
+	out=4d2746b5fcc57a5d308edbd5226c9a63.jpg
+https://assets.rdjvn-assets.com/static/mp3/acven-in-ye-no-jange/00ced670626159d.jpg
+	dir=output/rj/images/songs/
+	out=ea3d0cae29e5478a7aa29314cb05c3cb.jpg
+https://assets.rdjvn-assets.com/static/mp3/acven-chi-avaz-mishe-(ft-river)/69ba2a4a3476556.jpg
+	dir=output/rj/images/songs/
+	out=98219aad8dcdf43c53207bbaee3e5719.jpg
+https://assets.rdjvn-assets.com/static/mp3/acven-teyho-zirzamin/ab827a4730e2b2c.jpg
+	dir=output/rj/images/songs/
+	out=01f6a3d9f2218681692948df5940cd05.jpg
+https://assets.rdjvn-assets.com/static/mp3/acven-teyho-bavaresh-sakhte/12b788bbb49b3fd.jpg
+	dir=output/rj/images/songs/
+	out=538fd702cfd20a1271f4cc1dd5c8c318.jpg
+https://assets.rdjvn-assets.com/static/mp3/ad-bd-dizziness-(original-mix)/f3f431ad74f8ce3.jpg
+	dir=output/rj/images/songs/
+	out=88ac8c6d62fc784380462929e9f54f67.jpg
+https://assets.rdjvn-assets.com/static/mp3/adak-band-ba-man-bash/5daba7723a567ab.jpg
+	dir=output/rj/images/songs/
+	out=b24228d7b5673be66f14071354c5b853.jpg
+https://assets.rdjvn-assets.com/static/mp3/adak-band-good-vibe/542ea96fc13d8ca.jpg
+	dir=output/rj/images/songs/
+	out=e5ad5d23876b45d2712ba4a41ed85a7b.jpg
+https://assets.rdjvn-assets.com/static/mp3/adam-delkhoshi/dc4134ca3ed784e.jpg
+	dir=output/rj/images/songs/
+	out=57b206d8e1b9e320ac22eb12db0fe95d.jpg
+https://assets.rdjvn-assets.com/static/mp3/adam-behet-goftam/38ee37b5067d33e.jpg
+	dir=output/rj/images/songs/
+	out=714572d0080a4831f6210c1927efd450.jpg
+https://assets.rdjvn-assets.com/static/mp3/adam-mano-bord/d8bcbfb187e6178.jpg
+	dir=output/rj/images/songs/
+	out=373bdfc108c358e556cdd397bdb41da5.jpg
+https://assets.rdjvn-assets.com/static/mp3/adam-bigharar/ee47af1e09b9548.jpg
+	dir=output/rj/images/songs/
+	out=41a2101847c215726017d04f20e75894.jpg
+https://assets.rdjvn-assets.com/static/mp3/adam-pichak/5fd85699f8569b0.jpg
+	dir=output/rj/images/songs/
+	out=5f5ff269211edc18c20f6f52a867b105.jpg
+https://assets.rdjvn-assets.com/static/mp3/mehrnaz-adam-adam-o-hava/a8e299f3ab3f691.jpg
+	dir=output/rj/images/songs/
+	out=fc0c4ff0391e68956d3294b3d68be7cf.jpg
+https://assets.rdjvn-assets.com/static/mp3/roshana-adam-khoshbakhti/dbfce124e59d9fb.jpg
+	dir=output/rj/images/songs/
+	out=ecac96f237da5889ddcf345cd28e01be.jpg
+https://assets.rdjvn-assets.com/static/mp3/autumn-adam-akhare-ghese/ce0f0915e810b4e.jpg
+	dir=output/rj/images/songs/
+	out=512f992ebf48b884ade335c640e20300.jpg
+https://assets.rdjvn-assets.com/static/mp3/autumn-adam-mehrabani-(remix)/3500a5143271d99.jpg
+	dir=output/rj/images/songs/
+	out=6ee8b9697c221dea685005e89ca7c3c9.jpg
+https://assets.rdjvn-assets.com/static/mp3/adam-lambert-trespassing-(dj-toomaj)/fc641383.jpg
+	dir=output/rj/images/songs/
+	out=25b2c39e0243b1cf88bfe7311f58f923.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-dige-nemishinam/9995b482bd55199.jpg
+	dir=output/rj/images/songs/
+	out=ec37e0702b48677b03087a725f63b61c.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-khodaya/979d2520c50fd37.jpg
+	dir=output/rj/images/songs/
+	out=a15a7d0ec5101a48466ebaa747c5cd89.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-mard/90f0a67013dc7d6.jpg
+	dir=output/rj/images/songs/
+	out=fbca0d4f6349e5dff94aed3278628315.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-kotri-rash-la-bar/27d646dfc12cb46.jpg
+	dir=output/rj/images/songs/
+	out=6e5bb648fc3c61b5a1082fa736250bb9.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-koor-bash-banoo/88457295254e5c5.jpg
+	dir=output/rj/images/songs/
+	out=4d44f0f564e9906ef04f33040d4fbfc3.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-barun/0f26d3e3.jpg
+	dir=output/rj/images/songs/
+	out=c304e56b9c1d4a889948b58c93052981.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-amshaw-yadi-to/28787109764a659.jpg
+	dir=output/rj/images/songs/
+	out=50a0c637159e1504f635f9446f3d1206.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-drke-naxosh/c3788fe43e9c501.jpg
+	dir=output/rj/images/songs/
+	out=0addd2bb7a4d8816a28e980374b2c219.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-shar/b9d1947a559f165.jpg
+	dir=output/rj/images/songs/
+	out=09bc5555500f053828cabd7075ed9768.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-hawsafar/216f257cd5eb6b7.jpg
+	dir=output/rj/images/songs/
+	out=771a51e270eda9706809f8f3835f9528.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-hay-la-daxi-dnya/8566ea162f6d5b6.jpg
+	dir=output/rj/images/songs/
+	out=cca9d516344d081aca1c06c1a98e8fd0.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-vabastegi/1f1b2f32e3b3b09.jpg
+	dir=output/rj/images/songs/
+	out=99cc5533df9d7db02fa99eb4cd7f61f5.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-tanya-gharib/ec24f04ae19c861.jpg
+	dir=output/rj/images/songs/
+	out=6dc0b8e0521ce8ecc5fe5ebf744d0a63.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-miyone-barg-ha/2007949dd39bc35.jpg
+	dir=output/rj/images/songs/
+	out=ded8b922fee79e3b037fbe3ab1e7a68a.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-shekast/f14df24934dadf3.jpg
+	dir=output/rj/images/songs/
+	out=0cd9fd50c142d86ad5fdb7db103f4380.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-sadeghaneh/b331b6db49b1037.jpg
+	dir=output/rj/images/songs/
+	out=efe190ab4b24f2af01cebb50425ffbfe.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-aghapour-migam-dire/560df3ed796a418.jpg
+	dir=output/rj/images/songs/
+	out=7bc1cd56e8706d37e5908c2b15cbf115.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-ahmadi-vabaste/9a7db6b8e2bc764.jpg
+	dir=output/rj/images/songs/
+	out=d2c8578ab0c713a68f5bc4a370892af2.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-ahmadi-be-yade-morteza/b8b1ed8127a93ed.jpg
+	dir=output/rj/images/songs/
+	out=4e8a79fb11545ed4823afdd1e5421278.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-ahmadi-tamashai/10d32d9d3fddf23.jpg
+	dir=output/rj/images/songs/
+	out=7a8815778b341259c8165707b4241a69.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-ahmadi-tamoom-nemishe-paeiz/786538e06b9ae63.jpg
+	dir=output/rj/images/songs/
+	out=79f5599c1d77c189f176ba032d1babd6.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-asli-ruberuye-to/2bd8cc9b4c9ae6f.jpg
+	dir=output/rj/images/songs/
+	out=e368846ca0fe8c6db60edc9bd33b0e68.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-darvishi-bade-to/33ebc369387cc9e.jpg
+	dir=output/rj/images/songs/
+	out=a5088257bad7f0cd5feea0197591f271.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-darvishi-bavar-kon-(ft-nikan)/9e6c143369c4d3a.jpg
+	dir=output/rj/images/songs/
+	out=48e5f9484d79779ab50a291b041b65d5.jpg
+https://assets.rdjvn-assets.com/static/mp3/kamyab-bahari-adel-darvishi-shak/d074af97178935a.jpg
+	dir=output/rj/images/songs/
+	out=309558255f742f0bb8c731704dcaa65d.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-dastyar-bahona/96cd3df5e7816e9.jpg
+	dir=output/rj/images/songs/
+	out=b5e3147e8d0e5cc95fac447132ae2b69.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-dastyar-fekrash-ra-bokon/2101a1a4a25b3da.jpg
+	dir=output/rj/images/songs/
+	out=ae30e53bba114a5a31e83e7cc18acf63.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-dastyar-atish-bekesh/4f89c31e2b90bb5.jpg
+	dir=output/rj/images/songs/
+	out=b868642e90d8f2fee6b7bab044e6ef64.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-dastyar-sokhta-delon/0aa6eb48946c5f3.jpg
+	dir=output/rj/images/songs/
+	out=cf79a1d1065ef6ff6c9658a132816844.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-dastyar-ghenaat-(ft-sajad-arjmand)/1b1bc433f087bdb.jpg
+	dir=output/rj/images/songs/
+	out=fd87829b17e36c0db6b39a946b8d0c70.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-dastyar-na-2/a43c02eae0ead56.jpg
+	dir=output/rj/images/songs/
+	out=ddb79bb3700b57703bbcf6ecd65a6592.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-esmaeilpour-stress/d2a288781ee0327.jpg
+	dir=output/rj/images/songs/
+	out=3400553af4bd3d4cf214bab6c80b1722.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-fallah-ye-negah/5b59961c6c36bad.jpg
+	dir=output/rj/images/songs/
+	out=f989024f810d2960db3a7e171b0d0c9e.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-ghanbari-hale-delam-khoobe/ace2556d4c2b7be.jpg
+	dir=output/rj/images/songs/
+	out=f7af639e013370575e3b1a8f9779afd7.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-ghanbari-ghasam-be-ehsasam/3ea01c47ee94f00.jpg
+	dir=output/rj/images/songs/
+	out=c846a2bede03cff0031e4974429fad8b.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-ghanbari-mimiram-age-nabashi/8511547d994ac65.jpg
+	dir=output/rj/images/songs/
+	out=5b4a00e6094d77268332e5d6d1725b17.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-ghanbari-moshakhaseh-hale-khobi-nadari/b95fccd8a373db8.jpg
+	dir=output/rj/images/songs/
+	out=0a1c170f760523af6feb2ff8834bd101.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-ghanbari-baroone-kavir/1edb669c9ea256b.jpg
+	dir=output/rj/images/songs/
+	out=877442627ebd3cc553695a867c919307.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-ghanbari-toro-bekheyro-maro-be-salamat/24767816791d380.jpg
+	dir=output/rj/images/songs/
+	out=c0d16dacb3acf1e1fc823bac1f092467.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-ghanbari-fekre-mahal/3ef53abd7a4cb79.jpg
+	dir=output/rj/images/songs/
+	out=62fbd8f5bf171d34dff191176fe70079.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-ghorbani-nagoo-nemishe/bff2e46c.jpg
+	dir=output/rj/images/songs/
+	out=7dbbd03ca04795c8a5e4c16e3eb46081.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-ghorbani-banooye-asayesh/30ca7c56.jpg
+	dir=output/rj/images/songs/
+	out=d68c70b58c1916cf4729fadce9c2c212.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-habibi-hale-man-khobe/b7fb45521aa630a.jpg
+	dir=output/rj/images/songs/
+	out=bb7a566510da1ae6d23b38234e7d268f.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-mehr-ali-khatere/30ad78b6.jpg
+	dir=output/rj/images/songs/
+	out=4f0c0a9c587908b12e194ad402791e2c.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-mehrali-mohammad-kavakebi-entezar/5d62e0e9.jpg
+	dir=output/rj/images/songs/
+	out=f192513e24c58e8cbef2d2edb913eeb7.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-moazen-haale-man/41ec888e1dac8b3.jpg
+	dir=output/rj/images/songs/
+	out=b05b94658bc296518983ee18efc0bda2.jpg
+https://assets.rdjvn-assets.com/static/mp3/moein-taheri-roya-(ft-adel-moazen)/c73f7b71481df22.jpg
+	dir=output/rj/images/songs/
+	out=d2ef3a2c445a2b029f28767505510530.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-moeil-mahakam/9a23d445f66a16c.jpg
+	dir=output/rj/images/songs/
+	out=1d02456ac282f2fd1007ba1b73720704.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-moeil-khanoome-khoonam/dd32eb3e6fdfe33.jpg
+	dir=output/rj/images/songs/
+	out=473b5034dbb6c185497785547736f83f.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-moeil-khoodai/8a7315787611edb.jpg
+	dir=output/rj/images/songs/
+	out=dfebf9d4916ed88d8d061c9eb2a6617e.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-monji-nagofte-bodi/0df21ade90916e7.jpg
+	dir=output/rj/images/songs/
+	out=4ba84ac55fd3b873167291bebd3b355a.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-mousavi-ye-lotfi-kon/8d043a4c.jpg
+	dir=output/rj/images/songs/
+	out=38ef8d7ac36d6819c584638a9f8d79ee.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-naseri-khaste-shodam-dige-khoda/199f6301ad6a538.jpg
+	dir=output/rj/images/songs/
+	out=2b68a5b804d0dc73035d97c0bb885016.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-nasiri-khodaye-man-toei/087ee6b8ae2bbcb.jpg
+	dir=output/rj/images/songs/
+	out=59dcf1fd641cdac0da0120000fa3737d.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-nasiri-khasteam/291eb26c2927391.jpg
+	dir=output/rj/images/songs/
+	out=66606b7d4abf2d8112bc16664c25eeed.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-nasiri-divanegi/eb470d327152990.jpg
+	dir=output/rj/images/songs/
+	out=eba06455beb0ba698a90d99eb55287cc.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-nasiri-jonoon/bf6ac60c7606b7f.jpg
+	dir=output/rj/images/songs/
+	out=600acbacbc00b2d868f8df74c75dda54.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-nasiri-donyaye-bi-delan/9c7cc79b7784371.jpg
+	dir=output/rj/images/songs/
+	out=4397661392eee06a342c0897f6c44e7c.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-salimi-zire-baroon/6dc5e7c4.jpg
+	dir=output/rj/images/songs/
+	out=729fc75020dc4a185d2748a3ac50a0e1.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-salimi-ghalbe-sangi/0860ce213f86cae.jpg
+	dir=output/rj/images/songs/
+	out=192e6d961b2450b289021534150c4eef.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-salimi-nabze-baroon-(ft-hosein-keshtkar)/c57a40e27da3a62.jpg
+	dir=output/rj/images/songs/
+	out=d3ed02f7dd30a0d9a618f3820e11bcb5.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-salimi-zire-baroon-(remix)/231136570cdc753.jpg
+	dir=output/rj/images/songs/
+	out=9534cd97bdb26e6c89b1fa362dbf989c.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-salimi-zire-baroon-(remix)/abc90dc3e9df686.jpg
+	dir=output/rj/images/songs/
+	out=eb3b9202ad558384993044da7ccabfc9.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-shapoor-zange-tafrih/53cebe8e9554303.jpg
+	dir=output/rj/images/songs/
+	out=18d35e5bab696448e1513442c7eb3c5c.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-shapoor-hameye-mavared/87859dc9ca015c0.jpg
+	dir=output/rj/images/songs/
+	out=38b0202387dd02a4d16964d7b7eda6b3.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-shapoor-aroom-nemisham/2d9c4d263a13167.jpg
+	dir=output/rj/images/songs/
+	out=5d5f5c11efe21ce6caf92560c4937361.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-shapoor-havaye-abri-(ft-saeed-fahim)/e832bde8d7ab68a.jpg
+	dir=output/rj/images/songs/
+	out=aedbcbe0776d2c400b63014ac4725f79.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-shapoor-ghargh-shodeh/6fe0b6925186cb9.jpg
+	dir=output/rj/images/songs/
+	out=699d7879534378d8f747e3b39a0b1c1f.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-shapoor-del-tang/b3feb84b9cacc72.jpg
+	dir=output/rj/images/songs/
+	out=53f82c3efafa7508011311df01100b64.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-shapoor-mard-(ft-saeed-fahim)/803058045a377db.jpg
+	dir=output/rj/images/songs/
+	out=29e34620535d0524e0f3fc763c938037.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-sharif-7sin/ffb795aecab0504.jpg
+	dir=output/rj/images/songs/
+	out=2eb5f4480f569188d2e4848cd50b604e.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-star-alin-aj-donbale-forsatam/6c942c44.jpg
+	dir=output/rj/images/songs/
+	out=fc9b483ba4a5b17aea556cf9411fa7a4.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-taleghani-namayesh-nameh/ca4e320af0dd775.jpg
+	dir=output/rj/images/songs/
+	out=4d941d89cc5efefa64388c631bf4afaf.jpg
+https://assets.rdjvn-assets.com/static/mp3/adel-taleghani-daram-miam/c5677400f125d96.jpg
+	dir=output/rj/images/songs/
+	out=9c8bacdab37d81c73e036fcee100afca.jpg
+https://assets.rdjvn-assets.com/static/mp3/adensa-parseh/39da9d4d8e654b3.jpg
+	dir=output/rj/images/songs/
+	out=27024a7abb7fbdbe7a40c4c62df138dc.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-telesm/f23b169a6ee9c36.jpg
+	dir=output/rj/images/songs/
+	out=b533b0df99d619aa5bb3c9221eb9b35f.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-bazicheh/eaa5c87e3b5a136.jpg
+	dir=output/rj/images/songs/
+	out=2240b9f27495d6912df7a40779e37849.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-baade-margam/d05703d2bcf977f.jpg
+	dir=output/rj/images/songs/
+	out=de7e5c306f25f6991dc13dcde7441e52.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-daran-sakht/4d97cb1865bf3dc.jpg
+	dir=output/rj/images/songs/
+	out=f45878495db1748652b37b6831528520.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-madar/d937de8cfaba3cd.jpg
+	dir=output/rj/images/songs/
+	out=6e2bfc8d0a9afaac73ff4e3062e36d96.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-khamoosh/aad602e994a767d.jpg
+	dir=output/rj/images/songs/
+	out=3c122611a732792ac229d4b0f395e2d6.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-bahramzadeh-mihane-man/17ee70eb7fd60fe.jpg
+	dir=output/rj/images/songs/
+	out=339fbcef15770950e825fe80a2d517dd.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-hoseini-tanyaee/13de0c086574813.jpg
+	dir=output/rj/images/songs/
+	out=f3e5523e9e07e8d0d30216bca85601d8.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-pezhvak-bartar-az-man/2824fdb461ba69f.jpg
+	dir=output/rj/images/songs/
+	out=b0658bd90f5237e9651bf8ff59ab1e8e.jpg
+https://assets.rdjvn-assets.com/static/mp3/saeed-osra-adib-pezhvak-naneveshte/bdbf41203495779.jpg
+	dir=output/rj/images/songs/
+	out=94f42cc1eecbb5a66cea804f24e9765d.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-taheri-saret-ro-barnagardon/abc5144dc9b0ef0.jpg
+	dir=output/rj/images/songs/
+	out=bb5d238b76231f3b55d5e880348a078a.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-taheri-dastamo-begir/6874034d466d433.jpg
+	dir=output/rj/images/songs/
+	out=44fe7220b5f43287ffc2450ffe48b821.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-taheri-lamse-hese-tazeh/5571c35179c32ab.jpg
+	dir=output/rj/images/songs/
+	out=4182eff8868dd6987a2c3ce46beecb16.jpg
+https://assets.rdjvn-assets.com/static/mp3/adib-vahdani-kaveh/d5f3650befb24de.jpg
+	dir=output/rj/images/songs/
+	out=f88efe48cb0de031afb230de3c6bf20d.jpg
+https://assets.rdjvn-assets.com/static/mp3/adin-ghahr-nakon/36e9c4db0e51352.jpg
+	dir=output/rj/images/songs/
+	out=f3a6cf8a9554fd5a6e53e79ac51b8f05.jpg
+https://assets.rdjvn-assets.com/static/mp3/adin-negah/d01ac32dbd9a604.jpg
+	dir=output/rj/images/songs/
+	out=0a5cc77ef24398cdba8ffb46f970a786.jpg
+https://assets.rdjvn-assets.com/static/mp3/adin-divoonegit/28aeb2e12edbf05.jpg
+	dir=output/rj/images/songs/
+	out=0a9a1df29b9ad6bc3c85079abbc451a3.jpg
+https://assets.rdjvn-assets.com/static/mp3/adin-havaye-do-nafare/c0c616094323c9e.jpg
+	dir=output/rj/images/songs/
+	out=519049219a75a92feda98427fb47563c.jpg
+https://assets.rdjvn-assets.com/static/mp3/adin-lalayi-baraye-madar/7ec088be7913c7d.jpg
+	dir=output/rj/images/songs/
+	out=9ff51bc9d1021c7d3fdf7d12fffb6bd8.jpg
+https://assets.rdjvn-assets.com/static/mp3/adin-dooset-daram/815df4305f7d37e.jpg
+	dir=output/rj/images/songs/
+	out=3a9e79dcaa15e6c0f150932af501cec5.jpg
+https://assets.rdjvn-assets.com/static/mp3/adin-barf-bebar/3480b7dd4cc6911.jpg
+	dir=output/rj/images/songs/
+	out=0190fd8841499f5582114012e52750d1.jpg
+https://assets.rdjvn-assets.com/static/mp3/adin-iranian-gulf/a448c663f1d0b04.jpg
+	dir=output/rj/images/songs/
+	out=61c8dcf2d366a4681652b8563356e476.jpg
+https://assets.rdjvn-assets.com/static/mp3/adin-barf-bebar-(remix)/3651534acb34650.jpg
+	dir=output/rj/images/songs/
+	out=d1c5a954a117a241b9c05e4afcf997ba.jpg
+https://assets.rdjvn-assets.com/static/mp3/adine-7-khabis-(ft-shahdar)/42299c77e850a41.jpg
+	dir=output/rj/images/songs/
+	out=6333f436f2762f7459d498d868b35784.jpg
+https://assets.rdjvn-assets.com/static/mp3/admeta-delrikhteh/02a52044d34822c.jpg
+	dir=output/rj/images/songs/
+	out=a77351639ddf9e569a4eca3bffa396a5.jpg
+https://assets.rdjvn-assets.com/static/mp3/adnan-vasiat-nameh/6aa77562d165bfa.jpg
+	dir=output/rj/images/songs/
+	out=e72adc89a741753fe192db7804743f98.jpg
+https://assets.rdjvn-assets.com/static/mp3/adnan-khodahafez/d33434de.jpg
+	dir=output/rj/images/songs/
+	out=aa712f5e4d68a9fbfb54bcfa35c38a70.jpg
+https://assets.rdjvn-assets.com/static/mp3/adnan-rish/9204febf37c0778.jpg
+	dir=output/rj/images/songs/
+	out=981b0c51f65dbfbf0f341347c519a2fd.jpg
+https://assets.rdjvn-assets.com/static/mp3/adnan-2-friends/6650d5d4.jpg
+	dir=output/rj/images/songs/
+	out=8426e839529b4b9065dae1a4cd662e6a.jpg
+https://assets.rdjvn-assets.com/static/mp3/adnan-adamak/1278a980.jpg
+	dir=output/rj/images/songs/
+	out=e2593f97ce425a4b8ffc7d136fc6fae1.jpg
+https://assets.rdjvn-assets.com/static/mp3/adnan-khaste-shodam/d2a9faad.jpg
+	dir=output/rj/images/songs/
+	out=adb425f119a61538db2d573eb536103a.jpg
+https://assets.rdjvn-assets.com/static/mp3/adnan-man-haminam/dcdd17fd2b6179e.jpg
+	dir=output/rj/images/songs/
+	out=6f0a058887d00063fcf4273707d9d47f.jpg
+https://assets.rdjvn-assets.com/static/mp3/adnan-havaye-gham/d88bd7dd.jpg
+	dir=output/rj/images/songs/
+	out=6f90dabb8da2a0c1993d4e3788601af1.jpg
+https://assets.rdjvn-assets.com/static/mp3/adnan-bi-parde/d1b6894ebb4bf5d.jpg
+	dir=output/rj/images/songs/
+	out=67be10d505338216c7365c071245b7eb.jpg
+https://assets.rdjvn-assets.com/static/mp3/adnan-badbin-(ft-metti)/0345ff38f39ae80.jpg
+	dir=output/rj/images/songs/
+	out=a0570e83fc162f719aaed5d634ebd2a4.jpg
+https://assets.rdjvn-assets.com/static/mp3/hamid-haghighat-khah-sedam-bezan-(ft-adnan)/5bd1a2fa.jpg
+	dir=output/rj/images/songs/
+	out=73d1531b247aebba7e7d30ff0e4075cf.jpg
+https://assets.rdjvn-assets.com/static/mp3/adnan-mohammad-amin-tanhaie-mahze/5eea2be36d73f55.jpg
+	dir=output/rj/images/songs/
+	out=db640d21be927829001a71925a9c9950.jpg
+https://assets.rdjvn-assets.com/static/mp3/adonis-island-khatere/590a849b11fb789.jpg
+	dir=output/rj/images/songs/
+	out=f7a945a9e773ce906668d38cea74c22f.jpg
+https://assets.rdjvn-assets.com/static/mp3/adonis-island-baroon-paeezi/346d361dbd70e7d.jpg
+	dir=output/rj/images/songs/
+	out=3ccc21ee2b57768fdee00cf1ccbdd0d3.jpg
+https://assets.rdjvn-assets.com/static/mp3/adoodi-in-rooza/bc6c63c6caafb51.jpg
+	dir=output/rj/images/songs/
+	out=78c01d5ec3f0d5a3ed4307b851f4a7a0.jpg
+https://assets.rdjvn-assets.com/static/mp3/ador-khasis-tarin-past/6052eaeef257fb4.jpg
+	dir=output/rj/images/songs/
+	out=37719dda0800ff141b4dab57cd6c9ef9.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrenal-insomnia/aa7eb7758b1106c.jpg
+	dir=output/rj/images/songs/
+	out=d3a3cd433d3085dfa69ee4ecb53b8970.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrian-aroomam-kon/2327df0e.jpg
+	dir=output/rj/images/songs/
+	out=732aefbd4e26771badc72823c25d7d5a.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrian-to-ke-bashi/91821157ba61295.jpg
+	dir=output/rj/images/songs/
+	out=a92faf991aef6a4b79a6ff10a7c4c530.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrian-momen-del-mige-omad/7001dbb5.jpg
+	dir=output/rj/images/songs/
+	out=15d6fce415d0c3bbf6b585b2f1230058.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrian-momen-hala-nisti/f57b77c6.jpg
+	dir=output/rj/images/songs/
+	out=5a1b36d98d15fb61223265a35741edde.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrian-momen-steres/4b4bc6c9.jpg
+	dir=output/rj/images/songs/
+	out=ad8521a005154649268f59d87e5da5cf.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrian-momen-divoonam-kardi/22cb66f9003d211.jpg
+	dir=output/rj/images/songs/
+	out=8e28f5828fc9b9bc289eeec937db4464.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrin-favareha/cfbf4f30.jpg
+	dir=output/rj/images/songs/
+	out=e37430e0b616f12c29ec54eec1f067cf.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrin-baroonamo-baroonam/417e37aa.jpg
+	dir=output/rj/images/songs/
+	out=28d8619a963f0789deeabef051d3db7a.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrin-otaghe-khali/97476222.jpg
+	dir=output/rj/images/songs/
+	out=46064f6728dae64ae0402fae52c6410a.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrin-daghoone-daghoonam/59259b4a58f50f4.jpg
+	dir=output/rj/images/songs/
+	out=f3852e1a0723dfb892607b5d03da3e66.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrin-be-man-negah-kon/6acca1a89ebc80f.jpg
+	dir=output/rj/images/songs/
+	out=ba4b1ac2849b564a7d568ea3eaa8c7cd.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrin-edeam-ine/79a886c01e6a725.jpg
+	dir=output/rj/images/songs/
+	out=e793e3c260d5c309807dddf58ed88964.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrin-hey-to/53035c3f6b7dd0f.jpg
+	dir=output/rj/images/songs/
+	out=68f74db74dbaa5a53eb478b7f144bfd1.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrin-chera-az-man-boridi/706b511a8ab6443.jpg
+	dir=output/rj/images/songs/
+	out=934dd85fde6df367b2fff3ba106d5f56.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrin-fekre-manam-bash/6ebf21d226eb6ab.jpg
+	dir=output/rj/images/songs/
+	out=a8879ad60bf93f4e7196f2c3dd029ce5.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrin-dari-miri-naro/a4c14445e9a90bc.jpg
+	dir=output/rj/images/songs/
+	out=024966d4f44b98998337506bb944f869.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrin-baba-baba/7c170c704f69a24.jpg
+	dir=output/rj/images/songs/
+	out=bf1975ee38efab84e5bc915944bcf5d6.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrin-pileh/2404ba8d991c51e.jpg
+	dir=output/rj/images/songs/
+	out=116b33876cee6ec08fa30b5ce4cd03f0.jpg
+https://assets.rdjvn-assets.com/static/mp3/adrin-tarze-negahe-to/afcb1dc5a37dc05.jpg
+	dir=output/rj/images/songs/
+	out=6d272a1ac96cf14ba04cbba447c81f78.jpg

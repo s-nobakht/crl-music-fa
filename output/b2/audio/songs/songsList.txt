@@ -1,0 +1,12 @@
+http://sv2.mybia2music.com/Music/1392/3%20Khordad/13/11/Javad%20Bayat%20-%20Roya%20(128).mp3
+	dir=output/b2/audio/songs/
+	out=31c58d3e985d45a987aec0e0e07dd7fc_128.mp3
+http://sv2.mybia2music.com/Music/1392/3%20Khordad/13/11/Javad%20Bayat%20-%20Roya.mp3
+	dir=output/b2/audio/songs/
+	out=31c58d3e985d45a987aec0e0e07dd7fc_320.mp3
+http://sv2.mybia2music.com/Music/1392/6%20Shahrivar/19/03/EMO%20Band%20-%20Nafas%20Nafas%20%20(128).mp3
+	dir=output/b2/audio/songs/
+	out=242f6440a9c5e023f2444dd926df8d09_128.mp3
+http://sv2.mybia2music.com/Music/1392/6%20Shahrivar/19/03/EMO%20Band%20-%20Nafas%20Nafas.mp3
+	dir=output/b2/audio/songs/
+	out=242f6440a9c5e023f2444dd926df8d09_320.mp3

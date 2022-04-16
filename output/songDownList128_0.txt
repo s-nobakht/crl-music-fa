@@ -1,0 +1,2892 @@
+https://host1.rjmediamusic.com/media/mp3/Javad-Bayat-Noskheye-Khatkhati.mp3
+	dir=output/b2/audio/songs/
+	out=a048a304130453c65cdb3458808d3e60_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Javad-Bayat-Tamoom-Shod.mp3
+	dir=output/b2/audio/songs/
+	out=890736eb7c895f3b9fae6be626180c39_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Javad-Bayat-Ehsas.mp3
+	dir=output/b2/audio/songs/
+	out=261b6c651bdc5a198cef00802ed28ae7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Javad-Bayat-Bonbast.mp3
+	dir=output/b2/audio/songs/
+	out=6c07fd08bae5caeb90f48a8e1022cc43_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Javad-Bayat-Faseleh.mp3
+	dir=output/b2/audio/songs/
+	out=448e31affc3e76360ebc66f58048be2e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Javad-Bayat-Gharibaneh.mp3
+	dir=output/b2/audio/songs/
+	out=0b4765671957a6ad208e2e2126ff2782_128.mp3
+https://host1.rjmediamusic.com/media/mp3/-Javad-Bayat-Sandali.mp3
+	dir=output/b2/audio/songs/
+	out=ef69a56cbd6225f76866608e8871aa2b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Majid-Torkashvand-To-ke-Nisti.mp3
+	dir=output/b2/audio/songs/
+	out=7dabad0c0b685631d734d4391abb9740_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Majid-Torkashvand-Havato-Daram.mp3
+	dir=output/b2/audio/songs/
+	out=1f2236837fbdfaed966fbb293cf8d88f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Majid-Torkashvand-Khatereha.mp3
+	dir=output/b2/audio/songs/
+	out=4d2358d43e8955386d0403fd4847c807_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Majid-Torkashvand-Marge-Sade.mp3
+	dir=output/b2/audio/songs/
+	out=c13cbe16dc19515fffd5d52e395eb2e2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/-Majid-Torkashvand-Joone-Mani.mp3
+	dir=output/b2/audio/songs/
+	out=086bffc355ebd2145bb162aed24581c0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Mehdi-Abdollahi-Ye-Joore-Khas-(Ft-Digital-Sound).mp3
+	dir=output/b2/audio/songs/
+	out=a0e352f514e107225d39bffb4129a872_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Mehdi-Abdollahi-Hasrat.mp3
+	dir=output/b2/audio/songs/
+	out=8eb00fb69d465dbde9fcf9af527f1cea_128.mp3
+https://host1.rjmediamusic.com/media/mp3/-Mehdi-Abdollahi-Bemoon.mp3
+	dir=output/b2/audio/songs/
+	out=a54ec12ba77ccaf4424fc665d0734f33_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Siavash-Nazeri-Khaneye-Ma.mp3
+	dir=output/b2/audio/songs/
+	out=3d8ac830c989bd7c8411ba9c2b8f4d5d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Siavash-Nazeri-Baa-Namakam.mp3
+	dir=output/b2/audio/songs/
+	out=41231ca52572063a3637186b96d0c0b2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Siavash-Nazeri-Daar.mp3
+	dir=output/b2/audio/songs/
+	out=d2a0f0d08c05a6fe3fc44f79a5ca9928_128.mp3
+https://host1.rjmediamusic.com/media/mp3/-Siavash-Nazeri-Havashaye-Delam.mp3
+	dir=output/b2/audio/songs/
+	out=768156d5f69efa803a946355fbcb5a87_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/05A-Khepel.mp3
+	dir=output/b2/audio/songs/
+	out=e357e8155514591870e3a69f337bdf11_128.mp3
+https://host1.rjmediamusic.com/media/mp3/060-Pishva-Nabash-Mesle-Man.mp3
+	dir=output/b2/audio/songs/
+	out=de50d9b7559094e79a4734e92d9d6f49_128.mp3
+https://host1.rjmediamusic.com/media/mp3/0TA100-Chi-Beshe-Ha.mp3
+	dir=output/b2/audio/songs/
+	out=23de6e0fed1cc99e34b3951e06fd4927_128.mp3
+https://host1.rjmediamusic.com/media/mp3/0TA100-Engar-Na-Engar.mp3
+	dir=output/b2/audio/songs/
+	out=09970b61b172c4c8d640d83d814fd720_128.mp3
+https://host1.rjmediamusic.com/media/mp3/1000Too-Kaboos.mp3
+	dir=output/b2/audio/songs/
+	out=7253b725749d9b98d82a424ba12d335f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/1000Too-Kooche.mp3
+	dir=output/b2/audio/songs/
+	out=c91d93af0464f0d8b24c409d3ea8e0e4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/1000Too-Mohtaj.mp3
+	dir=output/b2/audio/songs/
+	out=79caace75a4b9340fcc16c54f1bd1f5c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/1000Too-Hezaar-Omid.mp3
+	dir=output/b2/audio/songs/
+	out=eabfbe3dc15af3ff49e5b9dfd5e865f0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/1000Too-Faryaad.mp3
+	dir=output/b2/audio/songs/
+	out=e6ef550d81721a198c3da0b7f494f730_128.mp3
+https://host1.rjmediamusic.com/media/mp3/1000too-Gomet-Kardam.mp3
+	dir=output/b2/audio/songs/
+	out=74fe80699f08590573f804708f3b462a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/106-Forsate-Akhar.mp3
+	dir=output/b2/audio/songs/
+	out=065b79c6c5e1514888fdd291fd851ec0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/10D-Shayad-Mishod-(Ft-Aytak-Pouya-Taghdir).mp3
+	dir=output/b2/audio/songs/
+	out=38450e7815684dd07b8db9a47e00372e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Parand-10D-Baroon.mp3
+	dir=output/b2/audio/songs/
+	out=8d3605d2ddf66e3a7e61312dd04ab4df_128.mp3
+https://host1.rjmediamusic.com/media/mp3/11-11-Pandemic.mp3
+	dir=output/b2/audio/songs/
+	out=fe52090dd161c1ca1b33d2549d2118e2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/123-Seda-Mosabegheye-Khanandegi.mp3
+	dir=output/b2/audio/songs/
+	out=952d95e077bb3f5a347ad22cd5632965_128.mp3
+https://host1.rjmediamusic.com/media/mp3/13-Band-Faze-Gol.mp3
+	dir=output/b2/audio/songs/
+	out=eb043526e2bc9d22086b21d4294efd46_128.mp3
+https://host1.rjmediamusic.com/media/mp3/142-Track-American-Life-(Ft-Madonna).mp3
+	dir=output/b2/audio/songs/
+	out=f53f86baba22872d4a8f8cc13bc40ca5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/1507-Band-To-Ro-Nemeekhaam.mp3
+	dir=output/b2/audio/songs/
+	out=10c283e729c4f021e391b4708792c870_128.mp3
+https://host1.rjmediamusic.com/media/mp3/151-Band-Sellol-(Ft-Aloneboy-Larous).mp3
+	dir=output/b2/audio/songs/
+	out=fd327183516764d1a316fc00dd8fbaf7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/151-Band-Migzare-(Ft-Ashkan-Mabhoot).mp3
+	dir=output/b2/audio/songs/
+	out=c5a48faa1d5f3b9ed42cbc1d4da094fc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/17-Band-Bi-Vafa.mp3
+	dir=output/b2/audio/songs/
+	out=2995c016ceef3ad1b2e980cc57555848_128.mp3
+https://host1.rjmediamusic.com/media/mp3/18-Band-Aroomam.mp3
+	dir=output/b2/audio/songs/
+	out=1be8aea3f3dca5e5d4fc37d38299de8a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2-Brothers-Sedato-Doos-Daram-(Ft-Saeed-Kermani).mp3
+	dir=output/b2/audio/songs/
+	out=ddc5eb9eff177694d5e16f6234636d3a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2-Brothers-Zarban-Ghalb.mp3
+	dir=output/b2/audio/songs/
+	out=5ff270740e07e42a036331b2b6df68b3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2-Lovers-Band-Aghoosh.mp3
+	dir=output/b2/audio/songs/
+	out=632bedd536f83a2432acf85120374e3b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2-Music-Band-Chera-Ba-Man.mp3
+	dir=output/b2/audio/songs/
+	out=2d056d12cebd727738a30d4f6c14c9ad_128.mp3
+https://host1.rjmediamusic.com/media/mp3/21-Band-Dooset-Dashtam.mp3
+	dir=output/b2/audio/songs/
+	out=8f29f2848e4dad7397b4feb1f79859f8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/21-Band-Deldadegi.mp3
+	dir=output/b2/audio/songs/
+	out=35b280e1087c0fe1b798dec65ab98aad_128.mp3
+https://host1.rjmediamusic.com/media/mp3/21-Band-Bado-Khakestar.mp3
+	dir=output/b2/audio/songs/
+	out=5dd5db181fbc44bb6019d03a2ae9c39e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Hamishe-Ba-Hamim.mp3
+	dir=output/b2/audio/songs/
+	out=e7f5439b635c4e17eabce149a9b1c989_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Enghad-Bekhand.mp3
+	dir=output/b2/audio/songs/
+	out=9543e93f6d89af389c0179cb0eda4d0e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Man-Shak-Nadaram.mp3
+	dir=output/b2/audio/songs/
+	out=9cb300b1f09fcf422691c838277c3ddf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Bavar.mp3
+	dir=output/b2/audio/songs/
+	out=22da32e746e885f7aa43afeb83654a06_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Baroon.mp3
+	dir=output/b2/audio/songs/
+	out=dc741de6303075eff904d2983330b0b5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Tars.mp3
+	dir=output/b2/audio/songs/
+	out=d277e8d4413eff509793bafd2469fd74_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Darde-Del-Tangi.mp3
+	dir=output/b2/audio/songs/
+	out=bb830d2b149367169ebdd411a29c932c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Dooset-Daram.mp3
+	dir=output/b2/audio/songs/
+	out=97e900dfa9ce1beecc2ea6148fb48781_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Male-Man-Shodi.mp3
+	dir=output/b2/audio/songs/
+	out=7f2a278e2986706f44d8366f154a829f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Mosafer.mp3
+	dir=output/b2/audio/songs/
+	out=288302c657bffc3397e28522397f939e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Az-Pisham-Miri.mp3
+	dir=output/b2/audio/songs/
+	out=ccb384be989d73b94e7a00559c7da0d7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Khatereha.mp3
+	dir=output/b2/audio/songs/
+	out=6ef96aaa8aece91f2d347b25ebedc0ce_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Fandak.mp3
+	dir=output/b2/audio/songs/
+	out=3bef170e2f04302b4e27ed7bb939ec65_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Tooye-Rahe-Eshghim.mp3
+	dir=output/b2/audio/songs/
+	out=723cd15972649dcd681ec3b3f8ecffef_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Gharantineh.mp3
+	dir=output/b2/audio/songs/
+	out=492089736259c6fec0b70babc8ff85f4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Az-Man-Nagzar.mp3
+	dir=output/b2/audio/songs/
+	out=a9d3688361abde701debe19cef900050_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Tariktar.mp3
+	dir=output/b2/audio/songs/
+	out=627ed79ccd7336674bca9ed20479bf29_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Tars-(Video-Version).mp3
+	dir=output/b2/audio/songs/
+	out=08df9222b29cb6d0c959416624da1b19_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Ta-Sobh-Khoone-Narim.mp3
+	dir=output/b2/audio/songs/
+	out=9a7eb0c711cff2e074bd4ffa08f15411_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Cheghad-Khoobe.mp3
+	dir=output/b2/audio/songs/
+	out=88405af24e4f85d9a544993b413de901_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Eshtebah.mp3
+	dir=output/b2/audio/songs/
+	out=53e65686890ea61ee6134a6666b83673_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Ayandeh-Tarike.mp3
+	dir=output/b2/audio/songs/
+	out=00b4a011891bd50e4a25dc7c8b78c43f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/25-Band-Estakhr.mp3
+	dir=output/b2/audio/songs/
+	out=5428fcaf8a939dc9b380640db8033b96_128.mp3
+https://host1.rjmediamusic.com/media/mp3/25-Band-Bia-Bia.mp3
+	dir=output/b2/audio/songs/
+	out=a58012009ef78ce244843377191f8afe_128.mp3
+https://host1.rjmediamusic.com/media/mp3/25-Band-Bash-Ta-Bebini.mp3
+	dir=output/b2/audio/songs/
+	out=7ea4d64849c66e537c6b76a7faa692c2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/25-Band-Gahi-Vaghta-(Ramteen-Remix).mp3
+	dir=output/b2/audio/songs/
+	out=ab119d53b85c9347b3a2974a7d190a35_128.mp3
+https://host1.rjmediamusic.com/media/mp3/25-Band-Vaghte-Parvaaze.mp3
+	dir=output/b2/audio/songs/
+	out=3a957cd1dfbd0b0b73aa6c4926be12cf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/28th-Street-Band-Royaye-Nime-Kare.mp3
+	dir=output/b2/audio/songs/
+	out=301fc5701433dd915e27c03410db0d8a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/28th-Street-Band-Maskh.mp3
+	dir=output/b2/audio/songs/
+	out=640d80f47a143e4ac16e2d80432b7d6f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/28th-Street-Band-Karoon.mp3
+	dir=output/b2/audio/songs/
+	out=ab9cd908a11bad8b4a5cf75b17614dea_128.mp3
+https://host1.rjmediamusic.com/media/mp3/28th-Street-Band-Roozaye-Bimar.mp3
+	dir=output/b2/audio/songs/
+	out=b361c53fd98435277feeddc29cb807af_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2B-Shabhaye-Taar.mp3
+	dir=output/b2/audio/songs/
+	out=549ad7112519034a33ab4a6c863c0d5b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2B-Porsidam.mp3
+	dir=output/b2/audio/songs/
+	out=7977c95142758428e4d1b83eb3a04911_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/2Band-Del-Mibari.mp3
+	dir=output/b2/audio/songs/
+	out=6dda55a96f0ff4d850b751e0c73ea61c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Javad-Arab-Abbas-Baloochi-(2band)-Del-Del-Nakon-Boro.mp3
+	dir=output/b2/audio/songs/
+	out=104da749688d08024c16841efe5a6559_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Javad-Arab-Abbas-Baloochi-(2Band)-Khoneye-Jadid.mp3
+	dir=output/b2/audio/songs/
+	out=46a49d848b68e063be8b11660f70f0c4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Javad-Arab-Abbas-Baloochi-(2Band)-Vay-Azizam.mp3
+	dir=output/b2/audio/songs/
+	out=cfca4868728977aeff41da5b52d0e116_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Javad-Arab-Abbas-Baloochi-(2Band)-Harfato-Rok-Bezan.mp3
+	dir=output/b2/audio/songs/
+	out=5739f359626946f3f6cc87e02be79a79_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Beat-Band-Aria.mp3
+	dir=output/b2/audio/songs/
+	out=56d9e21a792de55156c6a387947b3ca2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Beat-Band-Donya.mp3
+	dir=output/b2/audio/songs/
+	out=6efe7fab1b9d9a66feb8e168a7fe1557_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Beat-Band-Mano-to-Aghooshet-Begir.mp3
+	dir=output/b2/audio/songs/
+	out=3ef3eb1401015ac6a0b5ae1c9777f87b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Beat-Band-Celebrate-Woman-(Ft-Various-Artists).mp3
+	dir=output/b2/audio/songs/
+	out=038cccab0d724d1cc126000ad2f02dad_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Ctiran-Jange-Jahani.mp3
+	dir=output/b2/audio/songs/
+	out=c954677d110e5f6c4f3426355a4b4796_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/2Deshk-6789.mp3
+	dir=output/b2/audio/songs/
+	out=e854173f3559ff067533a096416d0413_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Fan-Deltangi.mp3
+	dir=output/b2/audio/songs/
+	out=b1dc0eed242b200e20f9166804eaf3de_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Fan-Name.mp3
+	dir=output/b2/audio/songs/
+	out=450fdbf8c22b03b805c0aa03b1194b55_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Friends-Sheytoono-Lajbaz-(Ft-Amir-Tarokh).mp3
+	dir=output/b2/audio/songs/
+	out=f05d9b5ebeb2b13131cec2d051bb9091_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Friends-Ashegh-Mesle-Maa.mp3
+	dir=output/b2/audio/songs/
+	out=d18e66c4dae5d161d071a8fb76867755_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Gholooha-Baroot-(Ft-Sadra).mp3
+	dir=output/b2/audio/songs/
+	out=d3b3020fd0ba2a7f3e2325e2cb284b8e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Gholooha-Shahre-Man-(Ft-Sadra).mp3
+	dir=output/b2/audio/songs/
+	out=7150e86503470b725d953f91f31d962a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Haste-Sedaye-Baad.mp3
+	dir=output/b2/audio/songs/
+	out=7e9b7bc40e5cefe65f783bd0a00905f9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Khaniat-Bia-Nazdikam-(Ft-Kasra).mp3
+	dir=output/b2/audio/songs/
+	out=5e9060f45522fc86be36cfb62f5bede5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Lovers-Band-Mahal.mp3
+	dir=output/b2/audio/songs/
+	out=1656557c9d19fd6c8cdb1cd5859b91be_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2lovers-Band-Divoonegi.mp3
+	dir=output/b2/audio/songs/
+	out=e0c7cb7e27fc1f3b708eecf1091fcb1c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2M-Band-Divoone.mp3
+	dir=output/b2/audio/songs/
+	out=2d2b5b80e33a1a04b60541233be5b00e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/2M-H2-Kisti.mp3
+	dir=output/b2/audio/songs/
+	out=470a88b6bb6bd5f1e39c109d963e0fe2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/2Maaj-Band-Bi-Rahm.mp3
+	dir=output/b2/audio/songs/
+	out=4ceea4da966c7a147eba019667937910_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/2Maaj-Band-Doroogh-Begoo.mp3
+	dir=output/b2/audio/songs/
+	out=6933a757e5accbb6d35cf0e1dd1e7e97_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/2Maaj-Band-Dari-Havamo.mp3
+	dir=output/b2/audio/songs/
+	out=30d78cc008d276fb032660dd28d878ac_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Maaj-Band-Cafe-Barfi-(Ft-Pouria-Nikpou).mp3
+	dir=output/b2/audio/songs/
+	out=459a4d312c1616b13c935b22d0cb9883_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Maaj-Band-Khosh-Be-Halet.mp3
+	dir=output/b2/audio/songs/
+	out=7df885f0d7f9f25e801c2353c7813308_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Maaj-Band-Jaddeh.mp3
+	dir=output/b2/audio/songs/
+	out=4d3580555227606a891edd33d0cb219a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Maaj-Band-Didamesh.mp3
+	dir=output/b2/audio/songs/
+	out=aa1cd46a68298b317cc1f85f621cad7f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Maaj-Band-Entekhabe-Man-Toe.mp3
+	dir=output/b2/audio/songs/
+	out=01975b6e005272f9d946007bfb6f358d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2Maaj-Band-Morteza-Pashaei-(Live-In-Paradise).mp3
+	dir=output/b2/audio/songs/
+	out=d05317e2637e485abd45c12745cf5d5c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/2rsa-All-The-Night-(Ft-Numb).mp3
+	dir=output/b2/audio/songs/
+	out=64542e0e340daff7ec73f7165ae7f35e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3-Band-Delam-Gerefteh.mp3
+	dir=output/b2/audio/songs/
+	out=ecbbf8d59975c4af116e1e620d6fbca9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3-Berar-Man-Asheghetam.mp3
+	dir=output/b2/audio/songs/
+	out=3d34b8b02005eeac2ac9e08d77435dd4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3-Berar-Memories-Album.mp3
+	dir=output/b2/audio/songs/
+	out=5426a4c1bafe70d9fad69d3f9e907bd5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3-Berar-Hojom.mp3
+	dir=output/b2/audio/songs/
+	out=944948b0d4bea9fa806f12774e2ef15b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/30Mon-Mojaz-Nist.mp3
+	dir=output/b2/audio/songs/
+	out=65df3be158e0a3b2668e77151cc803b5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/30Mon-Cheshmat.mp3
+	dir=output/b2/audio/songs/
+	out=c35a2403e41cc5e683fbb1437f9c7238_128.mp3
+https://host1.rjmediamusic.com/media/mp3/30Mon-Haji-Behesh-Nefa-Bede.mp3
+	dir=output/b2/audio/songs/
+	out=feb09285cfc346fe4c3b1cfdf8335863_128.mp3
+https://host1.rjmediamusic.com/media/mp3/30Mon-Aroom-Tar.mp3
+	dir=output/b2/audio/songs/
+	out=4efbebcc8dacb58bdc425217642a1ab0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/30Mon-Bidari.mp3
+	dir=output/b2/audio/songs/
+	out=aabb14a300a256871b726fb41c0f593a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/30Na-Be-Zoor-Mikhandam.mp3
+	dir=output/b2/audio/songs/
+	out=37a906d79b3d9c0d8ea32709a61e48d0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/30na-Ghiam-Rap-Larzeh.mp3
+	dir=output/b2/audio/songs/
+	out=069cc4f3c91a50c5c30a2685408e087c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/30na-Ghiam-Big-Show.mp3
+	dir=output/b2/audio/songs/
+	out=6f6168dafb44c6840b044d2624c8dece_128.mp3
+https://host1.rjmediamusic.com/media/mp3/30natra-Taghdir.mp3
+	dir=output/b2/audio/songs/
+	out=c4866903d1bfb5b654491fe4c4712a8b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/30natra-Sooratak.mp3
+	dir=output/b2/audio/songs/
+	out=101dec08408e58a2c2d772f99f44b4ad_128.mp3
+https://host1.rjmediamusic.com/media/mp3/33-Band-Bavar.mp3
+	dir=output/b2/audio/songs/
+	out=e239c127354875a4e21da003857bd3ab_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3ayzed-Fathe-Ghole.mp3
+	dir=output/b2/audio/songs/
+	out=bbc4ee6dd53410f1342ca2128cd284f5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3D-Band-Soute-Sammi.mp3
+	dir=output/b2/audio/songs/
+	out=767605b76296f82b7f67aa8b4ba882fd_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3D-Band-Delay.mp3
+	dir=output/b2/audio/songs/
+	out=b5913d319843108b7e49668628195f03_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3Faz-Haj-Khanoom.mp3
+	dir=output/b2/audio/songs/
+	out=2b79372ec8aca1f3307747d0f2db4820_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3K-Joker.mp3
+	dir=output/b2/audio/songs/
+	out=2102267828d4bc78d14cdabdd03be95a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3K-Chak.mp3
+	dir=output/b2/audio/songs/
+	out=18e489647d3b738339c5ffd7848cc2da_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3Kor-Team-Khaterat.mp3
+	dir=output/b2/audio/songs/
+	out=954ecc77c6c1c7c344122f6e906f5949_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3Kor-Team-Eshgho-Roya.mp3
+	dir=output/b2/audio/songs/
+	out=846c076a3c653e7fd4d7d52afe809fc9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/3M-Band-Saze-Donya.mp3
+	dir=output/b2/audio/songs/
+	out=9751ae4d987a5c1308f3f8ebec119709_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3M-Bax-Madar.mp3
+	dir=output/b2/audio/songs/
+	out=75084769713cb57cde3060876ceb345c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3N-War-Time.mp3
+	dir=output/b2/audio/songs/
+	out=2f9cfb80be6eb945f716793b4ac6b747_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3nator-Band-Khanoomi.mp3
+	dir=output/b2/audio/songs/
+	out=4e3ecc8037626b25e503aabffdd1253d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3Noghte-Adaad-(Ft-Vahid).mp3
+	dir=output/b2/audio/songs/
+	out=9a84cfb08e4ead90c7ea1c1ca4a4e189_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/3Noghte-Hale-Khoob.mp3
+	dir=output/b2/audio/songs/
+	out=981dcba6f2293292e0cc6489e61f79da_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3Noghte-Ghalam.mp3
+	dir=output/b2/audio/songs/
+	out=b98d0954dc4127dc97034809b6ecf9ca_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3Noghte-Delnevesht.mp3
+	dir=output/b2/audio/songs/
+	out=1cfa24cfc91da3e74775b8172a42584a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3Noghte-Majhool.mp3
+	dir=output/b2/audio/songs/
+	out=5e96d900381d9cd0ee33b8fdeb717eaf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3Noghte-Intro.mp3
+	dir=output/b2/audio/songs/
+	out=e1d9f2bc4f511c4f0fdf1216aefa1de7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3P-Tanhai.mp3
+	dir=output/b2/audio/songs/
+	out=0b490d3aa16219c30b73c3ee80d47797_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3P-Bavar.mp3
+	dir=output/b2/audio/songs/
+	out=6f8730efdf10a899739e43e9027f26b4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3P-Tanhayi.mp3
+	dir=output/b2/audio/songs/
+	out=f1283b2ca74df244b8e5d2777d8b48d5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3P-Tars.mp3
+	dir=output/b2/audio/songs/
+	out=abdacfff55f62d04aee70d4c401db275_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3P-Eshghe-Mano-To.mp3
+	dir=output/b2/audio/songs/
+	out=599ddd5657e3f87db8e61757efb43837_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/3Pak-Zendegi-Hip-Hopi.mp3
+	dir=output/b2/audio/songs/
+	out=917a62a4385221d20bbff9fb3f6692e2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/3Pak-Cheto-Khol.mp3
+	dir=output/b2/audio/songs/
+	out=ebdb7af519acf7c306006438b493e81d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3Panta-Dastasho-Nagir-(Ft-Amir-J).mp3
+	dir=output/b2/audio/songs/
+	out=200c5320afc2c624017f4cd5111f3690_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3Paz-Gharar.mp3
+	dir=output/b2/audio/songs/
+	out=53908a25da67393d6fd4936465ac503d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3ptamr-Snowing-Weather-(Ft-Mahbod-As-Nazanin).mp3
+	dir=output/b2/audio/songs/
+	out=3816c3ca372f645208caa1b36b22e6b2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/3sin-Ba-To-Khobe-Halam.mp3
+	dir=output/b2/audio/songs/
+	out=8442df25f93c77032d0b143a52ba5ffc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3ZGI-Band-Bemoon.mp3
+	dir=output/b2/audio/songs/
+	out=c78b75e1b9fec2bbb2d648854fbb292c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/3ZGI-Band-(T7)-Oon-Rooza.mp3
+	dir=output/b2/audio/songs/
+	out=ffec2a2e6658ea3882f55b4ef15a2b16_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4-Iranian-Woman-Lahzeye-Khodafezi.mp3
+	dir=output/b2/audio/songs/
+	out=3de3d3e84a8d95e8416b614774891732_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/41-Band-Nafare-Badi-Lotfan.mp3
+	dir=output/b2/audio/songs/
+	out=5b31c78c1af6a1ec0795acc69a49c01c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/40-Band-Ensane-Bi-Maghz.mp3
+	dir=output/b2/audio/songs/
+	out=28cc705c74a78326c69d740e80e27a8b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4Band-Lanati.mp3
+	dir=output/b2/audio/songs/
+	out=89ad183574430acadf37c9ba9c1e9818_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4Band-Didi-Raft.mp3
+	dir=output/b2/audio/songs/
+	out=5406dd4d0b4c80db38d07fd6820f4d61_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4Band-Ayande.mp3
+	dir=output/b2/audio/songs/
+	out=29d6e029b6a22e65354322a762514013_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4Band-Dor-Shid-Az-Eshgham.mp3
+	dir=output/b2/audio/songs/
+	out=8bddb72be25415397e9834fc49492342_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4Band-Luxury.mp3
+	dir=output/b2/audio/songs/
+	out=93a8a94fb491ee3ed52e13208c05d617_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4Band-Shokhi-Nist.mp3
+	dir=output/b2/audio/songs/
+	out=b7e37e24c97beadc14a7e9e454bdc5fb_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Brothers-Melegim.mp3
+	dir=output/b2/audio/songs/
+	out=37e3c7a978182eecdeaed21edddb1dbc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Brothers-Eyvallah.mp3
+	dir=output/b2/audio/songs/
+	out=4e5e7850fd2b02b8bd5c6769e06cd335_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Brothers-Muhammed-Resulullah.mp3
+	dir=output/b2/audio/songs/
+	out=a97da33de4313b3bbb9f535507ec7151_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Choob-Band-To-Eshghe-Mani.mp3
+	dir=output/b2/audio/songs/
+	out=57c2cb91df309d844e7a7958cb9c3532_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Ever-Fargh-Darim.mp3
+	dir=output/b2/audio/songs/
+	out=d4ad8d6ed2c72f17c75ecb1f8c9d7d24_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Ever-Dast-Derazi.mp3
+	dir=output/b2/audio/songs/
+	out=356c64335f645daaa1f66e1e18d460b3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Ever-Dargiretam.mp3
+	dir=output/b2/audio/songs/
+	out=3020468469c0b3a1aa7c7dcacb52688c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4ever-Akharesh.mp3
+	dir=output/b2/audio/songs/
+	out=8c7af5646fed8eec68f33d5d7abb3ba7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Ever-Beppa-(Ft-Backtash).mp3
+	dir=output/b2/audio/songs/
+	out=f23ad7f340a96b783207000478b39b51_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4ever-Bargard.mp3
+	dir=output/b2/audio/songs/
+	out=4c91a209236b514bbb40148d88ab2694_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4ever-Sang.mp3
+	dir=output/b2/audio/songs/
+	out=2edbc5c92a32c98e6daab8b12fa40e8c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4Ever-Shabe-Jome.mp3
+	dir=output/b2/audio/songs/
+	out=8e38be66047931ba82879b0eb6812a76_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4ever-Javab.mp3
+	dir=output/b2/audio/songs/
+	out=91fc316658cb5aefcb71c949cb606718_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4Ever-Tabloo.mp3
+	dir=output/b2/audio/songs/
+	out=21233603bb409b3ade24f0de95d38e42_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4ever-Majhool.mp3
+	dir=output/b2/audio/songs/
+	out=afcfd1c85b99cdf41576b4f6a177a34a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4n-Hasan-Chand-Khat-Rap.mp3
+	dir=output/b2/audio/songs/
+	out=f1bd7f2677f8cc4181a373b866d4f286_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4P-Band-Dard-Mardom.mp3
+	dir=output/b2/audio/songs/
+	out=c3dc8869275f93377d30f73f41a4e7ad_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/4P-Band-Paradox.mp3
+	dir=output/b2/audio/songs/
+	out=b83fd649cfe912c2a985e4e676be9f7d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Rah-Shayad.mp3
+	dir=output/b2/audio/songs/
+	out=f485e4549b4fad19f4cc1288eb5da60d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Rah-Band-Dari-Miri.mp3
+	dir=output/b2/audio/songs/
+	out=0610ab1ad611bd910d9c0925a2d4a531_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Rah-Band-Hesse-Khoob-(Ft-Sina-Shahidi-Ariana).mp3
+	dir=output/b2/audio/songs/
+	out=e5fc3abfd5f665d36df8c6c706caf5de_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Shadow-Izad.mp3
+	dir=output/b2/audio/songs/
+	out=e997dacc2f72481a96e6f5f10dc831b5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Soooo-Fly.mp3
+	dir=output/b2/audio/songs/
+	out=39d98b9f4ef4e3deed7051881aeefeb6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Soooo-Faghat-Ba-To.mp3
+	dir=output/b2/audio/songs/
+	out=76bd4d2162178bbe60d9db8f098303f5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4soooo-Soorati.mp3
+	dir=output/b2/audio/songs/
+	out=75d78b1f97108da945092a8732bcc927_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Stars-Royaye-Sahel.mp3
+	dir=output/b2/audio/songs/
+	out=eef7bdf8736d3239a03536fc6bc840b3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/4Stars-Band-Barooneh.mp3
+	dir=output/b2/audio/songs/
+	out=8a0a54af2951d1caca587c8201b8deb6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/5pookband-Dige-Dire.mp3
+	dir=output/b2/audio/songs/
+	out=cc92bc35662083ed18f3c07a3ffa44bf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Mehrshaad-Harfi-Nadaram-(Ft-5pookband).mp3
+	dir=output/b2/audio/songs/
+	out=5a44ba14ac1fd0232d3904825aee44da_128.mp3
+https://host1.rjmediamusic.com/media/mp3/5ThBoys-Love-Story.mp3
+	dir=output/b2/audio/songs/
+	out=9c5ca822a07c8d0b1b7731786f99b317_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/60-Band-Matarsak.mp3
+	dir=output/b2/audio/songs/
+	out=ccc25a4ff27c38adb31aecac31de515b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/60-Band-Baziche.mp3
+	dir=output/b2/audio/songs/
+	out=516f97f6b81c26b78daa1a490e7d9a9c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/60-Band-Jadoo.mp3
+	dir=output/b2/audio/songs/
+	out=1a457cc8531b825b59225a5761ef577d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/60-Band-Ketabe-Farsi.mp3
+	dir=output/b2/audio/songs/
+	out=2160f89d954abaa87f004565e69e43aa_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/60-Band-Roya.mp3
+	dir=output/b2/audio/songs/
+	out=01c88be37911fb2b2c6ce5be911a6025_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/60-Band-Gerye-Nakon.mp3
+	dir=output/b2/audio/songs/
+	out=ba4ce0582b3fa5525c5106f0865d09b4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/60-Band-Saye-Roshan.mp3
+	dir=output/b2/audio/songs/
+	out=597b50c3c9f073a8c891c9e5e0eaa328_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/60-Band-Yadegari.mp3
+	dir=output/b2/audio/songs/
+	out=aa66fc9f1f2e597423e8363975b32f79_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/60-Band-Shabgard.mp3
+	dir=output/b2/audio/songs/
+	out=e941a362c8d7255fd975fb8e280c764d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/60-Band-Sakhreh.mp3
+	dir=output/b2/audio/songs/
+	out=969bc4dd0ca42ac115a761b3915819d0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/64--Velgard.mp3
+	dir=output/b2/audio/songs/
+	out=a1d09e25ed4b04894830b40f13f7b155_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Dooset-Daram.mp3
+	dir=output/b2/audio/songs/
+	out=2dc88269b80f52760e648bb170da176c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Eddea.mp3
+	dir=output/b2/audio/songs/
+	out=a6e0ae6ea46a47f0d2b01c1e7e6ea30e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Avalin-Eshgh.mp3
+	dir=output/b2/audio/songs/
+	out=12ee71a592b82385adb51cc0e8b720da_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Donyaye-Bade-To.mp3
+	dir=output/b2/audio/songs/
+	out=4bd704496f3837177e2e0183e9ecd3c2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Dire.mp3
+	dir=output/b2/audio/songs/
+	out=3cc87ac0565afcb556356ebb380b895c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Nafas.mp3
+	dir=output/b2/audio/songs/
+	out=242f6440a9c5e023f2444dd926df8d09_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Ye-Rahi-Pishe-Room-Bezar.mp3
+	dir=output/b2/audio/songs/
+	out=1b5a2bde77fec7cf9385a8c701d60c29_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Vasat-Mimiram.mp3
+	dir=output/b2/audio/songs/
+	out=c028078146b299ae0273e94651309953_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Zamaneh.mp3
+	dir=output/b2/audio/songs/
+	out=becfdd0ca598748eed93f18cc0e56dd4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Khahesh.mp3
+	dir=output/b2/audio/songs/
+	out=4d7307d198a38f3dbbb086c1fe1fdf26_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Naro-Khahesh-Mikonam.mp3
+	dir=output/b2/audio/songs/
+	out=b377d923842bd2610392a19a4a01c3c1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Booye-Eyd.mp3
+	dir=output/b2/audio/songs/
+	out=cc38c87d8af7485738d5f00b02e73ab4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Man-Bi-To-Mimiram.mp3
+	dir=output/b2/audio/songs/
+	out=9cbf05b0fb1f346d73b6f62f0171dbda_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Ehsase-Shak.mp3
+	dir=output/b2/audio/songs/
+	out=a78bd61119b68e3dde56d5e8607b4af5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Bavar.mp3
+	dir=output/b2/audio/songs/
+	out=4e3f154ce9e1baf307c5e4f0361e6d3f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Setareh.mp3
+	dir=output/b2/audio/songs/
+	out=b5d5d43615cfc397790a092bb1ef9502_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Eteraf.mp3
+	dir=output/b2/audio/songs/
+	out=7a5f4bd1bd8844b4b2ad2de6888fec9b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Har-Chi-Migam-Dooset-Daram.mp3
+	dir=output/b2/audio/songs/
+	out=5a80e64d2743b2d34f8ed50d37da4c96_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Ye-Lahzeh-Cheshmato-Beband.mp3
+	dir=output/b2/audio/songs/
+	out=ad6bb866fdd9d87838b079838b2240f8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Hamash-Be-To-Fekr-Mikonam.mp3
+	dir=output/b2/audio/songs/
+	out=3c88e307aee38d3a710e1b7e9f03dd68_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Eshghe-Man.mp3
+	dir=output/b2/audio/songs/
+	out=112ccf2c3e52047d7ae8b84609a617af_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Asemooni.mp3
+	dir=output/b2/audio/songs/
+	out=7b746c0decd3c86d84b247c8faceaaf7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Hamdast.mp3
+	dir=output/b2/audio/songs/
+	out=768016c4435e4235dbeefc661d05215f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Toro-Mikham.mp3
+	dir=output/b2/audio/songs/
+	out=eafb331564d70ca9e417fc505f27b90e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Bezar-Dastato-Begiram.mp3
+	dir=output/b2/audio/songs/
+	out=cf446c6b444c56de10d782f84702e7cc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Vasat-Mimiram-(New-Version).mp3
+	dir=output/b2/audio/songs/
+	out=263eb51e22b82213421ac75b2e985d52_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Paria.mp3
+	dir=output/b2/audio/songs/
+	out=6eef60f23563b4ea9538a37a1180e8ce_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-The-Voice.mp3
+	dir=output/b2/audio/songs/
+	out=083d05027e52b3b8cab8737977167ea9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7-Band-Dorogh-Goo.mp3
+	dir=output/b2/audio/songs/
+	out=fe851b9572e51e80049fd270a598757c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/7-Band-Kocheh.mp3
+	dir=output/b2/audio/songs/
+	out=b4132d65ab93fe0c7063c013dc2b8365_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/72-Mim-Raha.mp3
+	dir=output/b2/audio/songs/
+	out=5e0cf8914970f02ffee4f143fe9d8498_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/72-Mim-Shahre-Ashoob.mp3
+	dir=output/b2/audio/songs/
+	out=d5cf0a1a59c2a3e8e297c9e902097003_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/72-Mim-Panah.mp3
+	dir=output/b2/audio/songs/
+	out=085c58e0b4819518249895cfc1d2e24a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/72-Mim-Khak.mp3
+	dir=output/b2/audio/songs/
+	out=2559f15ff4537dfb6f89aeddfaaf5db5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/72-Mim-Tanasokh.mp3
+	dir=output/b2/audio/songs/
+	out=6850934c7adc51b56a352c624f580119_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/72-Mim-Khoon.mp3
+	dir=output/b2/audio/songs/
+	out=b1f0b6ec1ecafeeec7c696bf777d2326_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/72-Mim-Takamol.mp3
+	dir=output/b2/audio/songs/
+	out=09021b1ea5c0c50ed25d57537acbb1ec_128.mp3
+https://host1.rjmediamusic.com/media/mp3/72MIM-Curse-Of-Minor.mp3
+	dir=output/b2/audio/songs/
+	out=313a3124c5fda7e376f6013b864d146f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/72MiM-Heyvan-Kamel.mp3
+	dir=output/b2/audio/songs/
+	out=454df6cb41b76c13c75d3b2696cc5b68_128.mp3
+https://host1.rjmediamusic.com/media/mp3/72MiM-Nime-Tarik.mp3
+	dir=output/b2/audio/songs/
+	out=d239f8092c3c0f6856cf53c339fb8005_128.mp3
+https://host1.rjmediamusic.com/media/mp3/72MiM-Mabud-2.mp3
+	dir=output/b2/audio/songs/
+	out=c528b7b9a5d032de0bbc50878396cccc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/72MiM-Sobhe-Jangall.mp3
+	dir=output/b2/audio/songs/
+	out=b8552f84cfebd9d7f60634c6b4329323_128.mp3
+https://host1.rjmediamusic.com/media/mp3/72MiM-Khiyabane-Ajayeb.mp3
+	dir=output/b2/audio/songs/
+	out=5fc011cc01f2a73141503c667c9256d1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/72MiM-Intro.mp3
+	dir=output/b2/audio/songs/
+	out=8256e653619348fc3d65b765f4a89ce5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/72MiM-Ashke-Ghughnus.mp3
+	dir=output/b2/audio/songs/
+	out=492b4b12abcfeca73092176752643386_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/72Mim-Faryade-Sokoot.mp3
+	dir=output/b2/audio/songs/
+	out=02c2ddebd768d20c44aaacdf62880610_128.mp3
+https://host1.rjmediamusic.com/media/mp3/72mim-Zakhme-Rooh.mp3
+	dir=output/b2/audio/songs/
+	out=3f351122d06056d0786640fe6be47d20_128.mp3
+https://host1.rjmediamusic.com/media/mp3/72MIM-Mojrem.mp3
+	dir=output/b2/audio/songs/
+	out=053a09f114871a872e21b6c696df2025_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/72mim-Khakestar.mp3
+	dir=output/b2/audio/songs/
+	out=a9f827c0c1dac97ce418e0317b770143_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/78-Band-Lakar.mp3
+	dir=output/b2/audio/songs/
+	out=c58dc6e4097463e274397b167b0354d2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/7Sin-Band-Baroon.mp3
+	dir=output/b2/audio/songs/
+	out=29ceb41cf28688fcfda1a86cff6488cc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/7sin-Band-Dream.mp3
+	dir=output/b2/audio/songs/
+	out=518c3b713593e8a255bdd048864a215c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/7th-Arena-Band-Delet-Koja-Gireh-(Ft-Mohamad-Reza-Moshiri-Elham).mp3
+	dir=output/b2/audio/songs/
+	out=7646203621835183b95491b03c94e86d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/7th-Arena-Band-68-(DJ-Farshid-Remix-Ft-Masoud-Sadegh).mp3
+	dir=output/b2/audio/songs/
+	out=7a2fa9b7f17673f1a9e826e9028e4d47_128.mp3
+https://host1.rjmediamusic.com/media/mp3/7th-Arena-Band-Oon-Rooza-(Ft-Masoud-Sedaghati).mp3
+	dir=output/b2/audio/songs/
+	out=b0cbcd67b8fa4f69646ae67edf98c879_128.mp3
+https://host1.rjmediamusic.com/media/mp3/7th-Arena-Band-Chera-Ke-Na-(Ft-Masoud-Sedaghati).mp3
+	dir=output/b2/audio/songs/
+	out=a67927eb06a918bbf0ea818abd49f3a8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/7th-Arena-Band-Bia-Hale-Maro-Mizoon-Kon-(Ft-Masoud-Sedaghati).mp3
+	dir=output/b2/audio/songs/
+	out=00c5479891bf394a5a06cf96fdb24820_128.mp3
+https://host1.rjmediamusic.com/media/mp3/7th-Arena-Band-Soojeh.mp3
+	dir=output/b2/audio/songs/
+	out=bda657ff274df63217f02fc51caf1004_128.mp3
+https://host1.rjmediamusic.com/media/mp3/7th-Arena-Band-Pesar-Khaleh-(Ft-Sadegh-Khosravi).mp3
+	dir=output/b2/audio/songs/
+	out=c577f52e3b521f79cb7a686524a98de3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/7th-Arena-Band-FaFa.mp3
+	dir=output/b2/audio/songs/
+	out=fb034a8d6bd8505b71ab348d13974b36_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Bahram-Zakhmi-(Ft-7th-Arena-Band).mp3
+	dir=output/b2/audio/songs/
+	out=333abe780f993405354f9c04fc9e9b8d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Bahram-Bemir-Ya-Bemon-(Ft-7th-Arena-Band).mp3
+	dir=output/b2/audio/songs/
+	out=bd43609fd685aa546091065e9fa2875e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Bahram-Pasho-Bia-Hamram-(7th-Arena-Band-Am).mp3
+	dir=output/b2/audio/songs/
+	out=7c0ff2a7a53ada0143ec3388f0676308_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Shahin-Jamshid-Pour-Mano-Bebakhsh-(Ft-7th-Arena-Band).mp3
+	dir=output/b2/audio/songs/
+	out=fc4bf3b38cb3302e462bf07b5cd456e6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Masoud-Sedaghati-Khoda-Midooneh-(Ft-7th-Arena-Band).mp3
+	dir=output/b2/audio/songs/
+	out=36a6a4d5d5e025968bc02e1be0114e8c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Montaghedin-(7th-Arena-Band)-Khalije-Hamishe-Pars.mp3
+	dir=output/b2/audio/songs/
+	out=2773be9e81990a7ef6f376ce580ec5bf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Montaghedin-Ghadima.mp3
+	dir=output/b2/audio/songs/
+	out=09b015302418f5649b4f81a9ff752955_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/7th-Sky-Band-Mehmoon.mp3
+	dir=output/b2/audio/songs/
+	out=656fb9163701207c52e5afe4323e420f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/7th-Sky-Band-Hey-Azizam.mp3
+	dir=output/b2/audio/songs/
+	out=e8c5bbc519375b52dd25f6e43c332e5b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/8-Band-Khial.mp3
+	dir=output/b2/audio/songs/
+	out=1e2ff6cadea5cb61bd56ce48b6ab2aca_128.mp3
+https://host1.rjmediamusic.com/media/mp3/8-mm-Khodamam.mp3
+	dir=output/b2/audio/songs/
+	out=f9fa52bbfeb3e7388a56cbb83ec3578c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/8Band-Eshghami.mp3
+	dir=output/b2/audio/songs/
+	out=2283b5b152d9050b5a15584ba40fb5cf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/8Band-Khatoon.mp3
+	dir=output/b2/audio/songs/
+	out=12c6ac90c56a0b211981cee6648bfbd3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/8Paa-Line.mp3
+	dir=output/b2/audio/songs/
+	out=4a0c60f4946d7e4ff4a3de144d846497_128.mp3
+https://host1.rjmediamusic.com/media/mp3/8Paa-Group-Sleep.mp3
+	dir=output/b2/audio/songs/
+	out=985e5ee8c4828d8eb07362499db73f48_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/A-Moon-Delam-Nayoomad.mp3
+	dir=output/b2/audio/songs/
+	out=21e28473c62fb3ae10f272d839ab1bd5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/A-Moon-Dobare-Asheqet-Misham.mp3
+	dir=output/b2/audio/songs/
+	out=3957f1cda321d8dceaa400b9ee0b3d8c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/A-Min-Salam-(Ft-Masoud-Sadeghloo).mp3
+	dir=output/b2/audio/songs/
+	out=3333a2bd3ba347f6e00075baf88b31c8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/A-min-Dari-Miri-(Ft-Parastoo).mp3
+	dir=output/b2/audio/songs/
+	out=99bc29f8a227629277d3773a957fcbf3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/A-min-Jaye-Khali-(Ft-Masoud-Sadeghloo).mp3
+	dir=output/b2/audio/songs/
+	out=ad107fda77b734237942f0d965f080e4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/A-min-Barmigardi-(Ft-Parastoo).mp3
+	dir=output/b2/audio/songs/
+	out=60bb9fa8605f9585287ecc81ce45ee98_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/A-min-Aghoosh-(Ft-Hamed-Behdad)-(Vahid-Zakeri-Remix).mp3
+	dir=output/b2/audio/songs/
+	out=a9a245dea60c6ff57b3f85ca3432135f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/A-min-Kodoom-Eshgh-(Ft-Afra).mp3
+	dir=output/b2/audio/songs/
+	out=02359251e976f8ecca4442024ff1ad3f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/A-min-Navare-Ghalb.mp3
+	dir=output/b2/audio/songs/
+	out=54ba6a667dfa09b05d8dc63fa5d1903a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/A-min-The-Pills.mp3
+	dir=output/b2/audio/songs/
+	out=a207dc39c6a104190aca6f41cddfb830_128.mp3
+https://host1.rjmediamusic.com/media/mp3/A-min-Eshtebah.mp3
+	dir=output/b2/audio/songs/
+	out=2ca88bed2428547c3e701b5bcfd0dbf0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Raysa-A-min-Tahe-Ghesse.mp3
+	dir=output/b2/audio/songs/
+	out=c73487ba8c91dc49a173c54554534bf6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Barbod-Yarmohammadi-Bala-Beri-Paein-Biay-(Ft-Raysa-A-min).mp3
+	dir=output/b2/audio/songs/
+	out=e8a29f6bcba9a836a3ae62ef753ee1f2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Masoud-Sadeghloo-A-min-Sobh-Shod.mp3
+	dir=output/b2/audio/songs/
+	out=22d585e5823d8e2f9b0994f5cbeb9958_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/A-Pack-Overdose.mp3
+	dir=output/b2/audio/songs/
+	out=3bb5248fd4e1104c0e7d51ac6e5fe67c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/A-Team-Dastane-Talkh.mp3
+	dir=output/b2/audio/songs/
+	out=17933256267fb79843721911151933e7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/A-Tin-Ounam-Raft-(Ft-Ramin-Milad-Big-Foolish).mp3
+	dir=output/b2/audio/songs/
+	out=56b1de670ecd035f00cd95a4a5cc5425_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AGoli-Mojassame.mp3
+	dir=output/b2/audio/songs/
+	out=ddc4f51da6b8e0efc53f4e21668876f2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AK-Band-Az-Vaghti-To-Rafti.mp3
+	dir=output/b2/audio/songs/
+	out=31c640134afe1825569b6716cf7146a2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AK-Band-Divoone-Nistim.mp3
+	dir=output/b2/audio/songs/
+	out=2b1e6761004ba66a687d16929fe4cd7e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AK-Band-Cigar.mp3
+	dir=output/b2/audio/songs/
+	out=0c446729d3a32a9116866059e859d081_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AM-Band-Shodi-To-Hameye-Donyam-.mp3
+	dir=output/b2/audio/songs/
+	out=5dcfafa0d5f879703844b66fdfbd44e4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/ARock-Hossein-Ramzannia-Ghasedak.mp3
+	dir=output/b2/audio/songs/
+	out=83b41d1ad32d61923153333437d7df90_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AS-Bikhabi.mp3
+	dir=output/b2/audio/songs/
+	out=5a95f605abff57a79a0a901e232f09ee_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AT-Band-Geryehaye-Bi-Seda.mp3
+	dir=output/b2/audio/songs/
+	out=978c94b695ad7dbca0aa29f1ae90bfcc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AZ-Charkhe-Falak-(Ft-Mohammad-Aerial).mp3
+	dir=output/b2/audio/songs/
+	out=03886a2f0656b688af65819e16a8b68e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Az-Hemase.mp3
+	dir=output/b2/audio/songs/
+	out=0ca4c23b7c97101a20c3d6c4e3a5cace_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/A1-Sefr-(Ft-Makhfi).mp3
+	dir=output/b2/audio/songs/
+	out=d7eb5d939746fbb999703fedf3471320_128.mp3
+https://host1.rjmediamusic.com/media/mp3/A13-CCU.mp3
+	dir=output/b2/audio/songs/
+	out=8ea953329553adab273ee17c975789b4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/A13-Inpool.mp3
+	dir=output/b2/audio/songs/
+	out=22e7bb711feb3db4e16d00215de7e60f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/A2-Band-Ye-Eshghe-Nab.mp3
+	dir=output/b2/audio/songs/
+	out=dc22f5bbe447ef25a3e1a5f2118103cb_128.mp3
+https://host1.rjmediamusic.com/media/mp3/A30-Halle-lu-Jah.mp3
+	dir=output/b2/audio/songs/
+	out=60fd80fdd8fd93537e2f1e44ec6f76f8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/A30-Sigar.mp3
+	dir=output/b2/audio/songs/
+	out=7da9472e948a37b29fea25cdd7d27d89_128.mp3
+https://host1.rjmediamusic.com/media/mp3/A3N-Hallazoon.mp3
+	dir=output/b2/audio/songs/
+	out=3e793bb615c82a1668c5222b23fc42bc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Aaber-To-(Ft-Shekali).mp3
+	dir=output/b2/audio/songs/
+	out=3f8b1718eed980a1c54c53da42598d00_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aadzzy-Begoo-Mano-Bavaram-Dari.mp3
+	dir=output/b2/audio/songs/
+	out=3b8c5163a81a1eef34e3483536fad037_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aadzzy-Bemoon-Bazam.mp3
+	dir=output/b2/audio/songs/
+	out=f4734cc53f89f472955df0871bacfd46_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aadzzy-Begoo-Mano-Bavaram-Dari-(ARTeen-Music-Remix).mp3
+	dir=output/b2/audio/songs/
+	out=e237529a0bb5c652b4eae61d8802e258_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aadzzy-Baz-Dobareh.mp3
+	dir=output/b2/audio/songs/
+	out=31000f967dd7ee16def3f57302fa4497_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Aadzzy-Hamoon-Lahzeh.mp3
+	dir=output/b2/audio/songs/
+	out=6c71cf084bb36ca78a3a333dc3a506bb_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aaj-Soghoot-(Intro).mp3
+	dir=output/b2/audio/songs/
+	out=337972b3b4f41d3d1e613b99f8ebd17d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aaly-Gelayeh-(Ft-Iman-Zahedi-Behyam).mp3
+	dir=output/b2/audio/songs/
+	out=6ca8f0ab6a1bf385c4ef4f1a2f771580_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aamel-Daskhali-(Ft-Ali-Sazesh-Bahador).mp3
+	dir=output/b2/audio/songs/
+	out=38b97c8b1b248cae212e7ad4656ece2c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aamel-Mezah-(Ft-Aaj).mp3
+	dir=output/b2/audio/songs/
+	out=14f08b667d3c00580e6acc56d1f3c993_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aamel-Siyahchal-(Ft-Aaj).mp3
+	dir=output/b2/audio/songs/
+	out=da6af7ea681b2461032732f723bd5cbd_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aamel-Rozaneh-(Ft-Aaj).mp3
+	dir=output/b2/audio/songs/
+	out=248ed95769df201a82882df68bed200f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aamel-Laashe-(Outro).mp3
+	dir=output/b2/audio/songs/
+	out=82120f1c637a6b2cfacd219f293c9f8f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Aamid-Abedian-Aramesh.mp3
+	dir=output/b2/audio/songs/
+	out=af8b14d0060959c90c7c9556209ef96f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AaMin-Amen-(Ft-Yas).mp3
+	dir=output/b2/audio/songs/
+	out=db778ff8b4cea485ac595c4d28a651be_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AaMin-Delam-Gerefteh.mp3
+	dir=output/b2/audio/songs/
+	out=6abefbaaa86596eec07a8f4c7f79a36f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AaMin-Man-Asheghesh-Boodam.mp3
+	dir=output/b2/audio/songs/
+	out=61d8a12474774cef5e1ffa054b6541e1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AaMin-Ba-To-Aliye.mp3
+	dir=output/b2/audio/songs/
+	out=7c1f244797c6c173e200a1c3616222bf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AaMin-Baz-Asheghetam.mp3
+	dir=output/b2/audio/songs/
+	out=c78c937d0fa675c7cbb891b6a0ce72e8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AaMin-Nisti-(New-Version).mp3
+	dir=output/b2/audio/songs/
+	out=b3b125bd4f676009caa3e49702115096_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AaMin-Halam-Bade.mp3
+	dir=output/b2/audio/songs/
+	out=a8457532d34ba929d038ebd6c76d74ca_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AaMin-Ye-Joore-Dige.mp3
+	dir=output/b2/audio/songs/
+	out=b2d3b7fba1ada9ee902a1ee2b22425ce_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AaMin-Delet-Inja-Nist.mp3
+	dir=output/b2/audio/songs/
+	out=61db11a464e7cc100ab4d15711531f89_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AaMin-Dige-Bargard.mp3
+	dir=output/b2/audio/songs/
+	out=5cf821e3ed15c5bdd8124875fea1cfc1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AaMin-Mesle-Bachegi.mp3
+	dir=output/b2/audio/songs/
+	out=85c6c8b3fea8a44515aa5078ff51b4ca_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AaMin-Narenji.mp3
+	dir=output/b2/audio/songs/
+	out=950eb9baabcb16e7cffa0f75ff08b1d4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AaMin-Puzzle.mp3
+	dir=output/b2/audio/songs/
+	out=736d654b4aee5cbcefc444f6a763f7ca_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AaMin-Sarbaz.mp3
+	dir=output/b2/audio/songs/
+	out=0b82fc2f579f125e4cdcf6d43672141e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AaMin-Be-Yade-Farhad-(Remix).mp3
+	dir=output/b2/audio/songs/
+	out=b4329b840ea073ac227c4ae6c943ea37_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AaMin-Fenjoon.mp3
+	dir=output/b2/audio/songs/
+	out=b28527dc4823041502141ec6933073b2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AaMin-Key.mp3
+	dir=output/b2/audio/songs/
+	out=0462adb3e2b4ba5992807871bb2e34e7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AaMin-Aramesh.mp3
+	dir=output/b2/audio/songs/
+	out=ad4775b2184cb18bb7501a9abb0f9281_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Yas-Boghz-Yani-(Ft-AaMin).mp3
+	dir=output/b2/audio/songs/
+	out=b40aef61a908b6ac472f5bc9774736b6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Yas-Vaghte-Raftan-(Ft-AaMin).mp3
+	dir=output/b2/audio/songs/
+	out=e8ad8f0292ca5cefc6446972e7095b2c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Yas-Nisti-(Ft-AaMin).mp3
+	dir=output/b2/audio/songs/
+	out=79e4efb3a1422616317babfb1e1f7bb6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Yas-Honey-(Feat-Aamin).mp3
+	dir=output/b2/audio/songs/
+	out=168dfee576774c7e4401e41512861a96_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Yas-CD-Ro-Beshkan-(Feat-Aamin).mp3
+	dir=output/b2/audio/songs/
+	out=f2cdf1fe43c11aebaca27a9b173cdfaf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Shahab-Mozaffari-Azabam-Nadeh-(Ft-Aamin).mp3
+	dir=output/b2/audio/songs/
+	out=2d90365e1e8f97f0c50155b9dd4f31d7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Yasin-Kenaram-Bash.mp3
+	dir=output/b2/audio/songs/
+	out=e111d3b586e3cf5943731ca866731559_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Aana-Balmasque.mp3
+	dir=output/b2/audio/songs/
+	out=66b8497fe633df99a14942e3ec840679_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AARaad-Mikhay-Beri-Boro.mp3
+	dir=output/b2/audio/songs/
+	out=37b78e2272ff79529e60eb0dea8c819f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AaRaad-Kilishe.mp3
+	dir=output/b2/audio/songs/
+	out=d16dd362f4b3ef7ecaaa91032849846a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AARaad-Nega-Mikonam.mp3
+	dir=output/b2/audio/songs/
+	out=c96fcd645952ded30206ec9fea0d711b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Aaraash-Tanhaei.mp3
+	dir=output/b2/audio/songs/
+	out=110c0589e6d80372c6bae86726c9ef18_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aaref-Panjereh.mp3
+	dir=output/b2/audio/songs/
+	out=dd761ad428a7ce737b19814b35c5b315_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aata-Banoo-Bavaram-Shod.mp3
+	dir=output/b2/audio/songs/
+	out=691077adadaf553ebe7823fa8159981a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Erfan-Adili-Mojeze-(Ft-Aata-Banoo).mp3
+	dir=output/b2/audio/songs/
+	out=4ffd2a73ac3eff236ff6f36ea4c115fa_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aba-Abedin-Mojeze.mp3
+	dir=output/b2/audio/songs/
+	out=75ceac597970363227921e563cdf680a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aban-Azat-Mikham-Bargardi.mp3
+	dir=output/b2/audio/songs/
+	out=bff2808edfcb12ab46ec74a81a257ef2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aban-Khodanegahdar.mp3
+	dir=output/b2/audio/songs/
+	out=2e4daf7fb1a1cdb9cd894ff32a2ffc5c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aban-Saffar.mp3
+	dir=output/b2/audio/songs/
+	out=3c71d1c3d033111d80a8eb6225f57046_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aban-Ghabr.mp3
+	dir=output/b2/audio/songs/
+	out=fe6b0a4bdc9199bf0d280c5d0fbec290_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Rastaak-Yalda-(Ft-Aban).mp3
+	dir=output/b2/audio/songs/
+	out=589d31eadffad5dbf02ca60d5c5684de_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Rastaak-Aban-Shomal.mp3
+	dir=output/b2/audio/songs/
+	out=fb7b58e8d3dcb1d59c2313e63cc92cc8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aban-Band-Hich.mp3
+	dir=output/b2/audio/songs/
+	out=b403c3908d05d3152e0d425bd94d9da4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abar-Hesse-Khas-(Ft-Farzad-Hosseini).mp3
+	dir=output/b2/audio/songs/
+	out=9d77b6806607ebdf3c893f84c6bceb23_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abar-Roozegare-Siah.mp3
+	dir=output/b2/audio/songs/
+	out=1af3b34640b1aa29c3bb85b41d95d8f4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abar-Shabe-Royayi.mp3
+	dir=output/b2/audio/songs/
+	out=a39b10b0c13be96cdff4607921a0eca1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abar-Madaram-Raft-(Ft-Heras).mp3
+	dir=output/b2/audio/songs/
+	out=0aa191b230c09bc9c1eb3450960ad7d3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abar-Heras-Dokhtare-Khoob.mp3
+	dir=output/b2/audio/songs/
+	out=aa3d8bc7c746bfb1d037083921643d15_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abar-Heras-To-Khode-Mani.mp3
+	dir=output/b2/audio/songs/
+	out=3e98d6e2e1a154b71c51a45998774bf6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abas-Fazeli-Khanoomi.mp3
+	dir=output/b2/audio/songs/
+	out=cd4a405ae59659aa8787f30c36b9aaca_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abazar-Noorizad-Eshgh.mp3
+	dir=output/b2/audio/songs/
+	out=16d0ce93272459fec1d96708997b40d5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abazar-Nourizad-Sarat-Salaamat.mp3
+	dir=output/b2/audio/songs/
+	out=09d824b41731fb995a390ed9c2209039_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Ale-Habib-Forsate-Akhar.mp3
+	dir=output/b2/audio/songs/
+	out=5b0692fdc6b9218a1d4376c24371202e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Ale-Habib-Cheshm-Entezar.mp3
+	dir=output/b2/audio/songs/
+	out=358c18d38b8a1b61b4a633d1ff362637_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Ale-Habib-Eshghe-Man.mp3
+	dir=output/b2/audio/songs/
+	out=1d68cd603af65964003c348c0488b82d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Alehabib-Akharin-Didar.mp3
+	dir=output/b2/audio/songs/
+	out=340b130a15b2f9a5c97ee326d350e990_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Alinezhad-Tab.mp3
+	dir=output/b2/audio/songs/
+	out=ae016f6fbd424192f2eea314be7c2d9f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Ap-Cheshaye-Man.mp3
+	dir=output/b2/audio/songs/
+	out=d6b4e2bbb7da79a02c4b07f539bffe78_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Asadi-Man-Ba-To.mp3
+	dir=output/b2/audio/songs/
+	out=4e7de703f87117fc3e84e2c86decce5a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Asadi-Aramesh-(Ft-Saeed-Ghorbani).mp3
+	dir=output/b2/audio/songs/
+	out=1e3c4ccea02a8404591089d95a23691d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Asadi-Donyaye-Man.mp3
+	dir=output/b2/audio/songs/
+	out=3b04e8eb8e71fdef33f75e0b47e0cee7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Asadi-Irani-Salam.mp3
+	dir=output/b2/audio/songs/
+	out=bd26c73652c480a9537dbda8a3a3a149_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Asadi-Halam-Khoobe.mp3
+	dir=output/b2/audio/songs/
+	out=c55f98e3461dc91c4b9f1acfa4573dab_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Asadi-Fereshteye-Zamini.mp3
+	dir=output/b2/audio/songs/
+	out=55cb67fbc46db71d377563d7fb5c35b6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Asadi-Naro.mp3
+	dir=output/b2/audio/songs/
+	out=2029d9a4c794b8a8f259d71890a53284_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Asadi-Hese-Residan.mp3
+	dir=output/b2/audio/songs/
+	out=d52c0ed68cbab58af7db8cf981604475_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Asadi-Mojezeye-Eshgh.mp3
+	dir=output/b2/audio/songs/
+	out=c2f51d7a794821debadf8c6a5ce8fa47_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Asadi-Labbayk.mp3
+	dir=output/b2/audio/songs/
+	out=45436c2cd041d5071659010a4cbb6f7c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Baloochi-Bi-To-Nemitoonam.mp3
+	dir=output/b2/audio/songs/
+	out=8b8156336266106080325cf18ea3c6fc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Baloochi-Khalkoobi-(Ft-Javad-Arab).mp3
+	dir=output/b2/audio/songs/
+	out=b0dce64fc2abfd5346d9fd38ff93ec9e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Baloochi-Nazi-(Ft-Javad-Arab).mp3
+	dir=output/b2/audio/songs/
+	out=4da619190863d2e722128dfa07f79baa_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Baloochi-Azat-Nemigzaram.mp3
+	dir=output/b2/audio/songs/
+	out=43ef96605336b769757d6b10a285b176_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Javad-Arab-Abbas-Baloochi-(2band)-Del-Del-Nakon-Boro.mp3
+	dir=output/b2/audio/songs/
+	out=104da749688d08024c16841efe5a6559_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Baloochi-Javad-Arab-(2band)-Dige-Behem-Zang-Nemizani.mp3
+	dir=output/b2/audio/songs/
+	out=312d23293c8ad7260d32387fed849189_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Javad-Arab-Abbas-Baloochi-(2Band)-Khoneye-Jadid.mp3
+	dir=output/b2/audio/songs/
+	out=46a49d848b68e063be8b11660f70f0c4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Javad-Arab-Abbas-Baloochi-(2Band)-Vay-Azizam.mp3
+	dir=output/b2/audio/songs/
+	out=cfca4868728977aeff41da5b52d0e116_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Javad-Arab-Abbas-Baloochi-Mikham-Gereftaret-Besham.mp3
+	dir=output/b2/audio/songs/
+	out=8d3ef5f279d86eb09e2927cd9bdb0f69_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Javad-Arab-Abbas-Baloochi-(2Band)-Harfato-Rok-Bezan.mp3
+	dir=output/b2/audio/songs/
+	out=5739f359626946f3f6cc87e02be79a79_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Emadi-Roozaye-Bade-Tow.mp3
+	dir=output/b2/audio/songs/
+	out=71b2d6b35274d8fd97a3e20ca0de8b3c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Emadi-Hesse-In-Roozam.mp3
+	dir=output/b2/audio/songs/
+	out=b072f4a1220a3ef4b65577d43acd9cc4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Emadi-Booye-Bahar.mp3
+	dir=output/b2/audio/songs/
+	out=7de92678ee44a96aafe890edefcfbc44_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Emadi-Chera-Rafti.mp3
+	dir=output/b2/audio/songs/
+	out=bcc36e8ff4932c978dac246a4d16e563_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Emadi-Khaterate-Eyd.mp3
+	dir=output/b2/audio/songs/
+	out=10f15e6d3b91dff5d02e5c8d01c57e77_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Ghadamzadeh-Tabe-Doori-.mp3
+	dir=output/b2/audio/songs/
+	out=895a31cf2f0640ee71468e5c77cab40f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Ghadamzadeh-Tabe-Vabastegi.mp3
+	dir=output/b2/audio/songs/
+	out=b42a7f577a17704a22023a3b0d8bafb5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Ghadamzadeh-Shekayat.mp3
+	dir=output/b2/audio/songs/
+	out=917b4f1c6c3646832ad42d6328797775_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Ghaderi-Sobhe-Roshan.mp3
+	dir=output/b2/audio/songs/
+	out=0cfaf5b032e989ef4dbcc65ec5dfde60_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Ghaderi-Tobeh.mp3
+	dir=output/b2/audio/songs/
+	out=bbc95f20a42d941c4fa54673a8ded0ba_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Ghaderi-Nagoo-Nemisheh.mp3
+	dir=output/b2/audio/songs/
+	out=86791feff4cb617c7fa4aa74e49d2f5a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Ghaderi-Saat.mp3
+	dir=output/b2/audio/songs/
+	out=02d66df76cdc555e3b119100ae126609_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Ghaderi-Gahvareh.mp3
+	dir=output/b2/audio/songs/
+	out=1bb3b1dbca35ea4cc6106d8c22f993d1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Ghaderi-Naz-Golakam.mp3
+	dir=output/b2/audio/songs/
+	out=80f543b2f677103715ef43342f7bb326_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Ghaderi-Shabe-Mahtab.mp3
+	dir=output/b2/audio/songs/
+	out=c0a3926ea6e32df4067f4634a62aaf9f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Ghaderi-Vasvaseh.mp3
+	dir=output/b2/audio/songs/
+	out=8b1c6e6c4a9b8ad83f207213276ab194_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Ghaderi-Bi-Nasib.mp3
+	dir=output/b2/audio/songs/
+	out=4ac3f3a090b60cc7e8bb7b7ef9437282_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Ghaemi-Bezanim-Zire-Baroon.mp3
+	dir=output/b2/audio/songs/
+	out=7cc0e4cd5c4c82910345cb7666c4b7d6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Ghaemi-Khoshbakhti-(Ft-Roza).mp3
+	dir=output/b2/audio/songs/
+	out=a2cabe0ff6b2ff44ac5d1d5522573726_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Ghaemi-Doosesh-Daram.mp3
+	dir=output/b2/audio/songs/
+	out=ffb97eed0840a03b423ef2d3c90ab08b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Ghamari-Gheymate-Asheghi.mp3
+	dir=output/b2/audio/songs/
+	out=8c74d8b15f2a37917956ba9044957d54_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Ghamari-Chand-Sale.mp3
+	dir=output/b2/audio/songs/
+	out=bfd095c726c9ca8e9321ec726bfafee2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Ghamari-Bazam-Sedam-Kon.mp3
+	dir=output/b2/audio/songs/
+	out=12cfe42e6d01829432e8f9b8caf5edd0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Ghasemi-Ghasre-Khiali.mp3
+	dir=output/b2/audio/songs/
+	out=753fc245466aedfcfd85d5c84fb6d7fd_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Ghassemi-Deltangi.mp3
+	dir=output/b2/audio/songs/
+	out=64ad109021dbe1168cfc16ace2781690_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Gholitabar-Haft-Sin.mp3
+	dir=output/b2/audio/songs/
+	out=9eefbcfe91159895631d158a9e31906f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Gholitabar-Chatr.mp3
+	dir=output/b2/audio/songs/
+	out=17eb27ff7b5923169a8e513596a0b951_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Golpayegani-Delgir.mp3
+	dir=output/b2/audio/songs/
+	out=cde6ccfb1d303fdecb43f5cc7aa3b4cc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Golshani-Deltange-Asemoon.mp3
+	dir=output/b2/audio/songs/
+	out=c6f6d55ca2e804642391f834e3e45784_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Haghi-Too-In-Rooza.mp3
+	dir=output/b2/audio/songs/
+	out=8bf74df110477cdac86e5335ed63db29_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Haghi-Dari-Miri.mp3
+	dir=output/b2/audio/songs/
+	out=72098fa2b07c369a80aa0f46f94b5a32_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Hashemi-Bejaye-Man.mp3
+	dir=output/b2/audio/songs/
+	out=1c8445a53d7d47892d4d18576c735411_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Hashemi-Cheshm-Be-Rah.mp3
+	dir=output/b2/audio/songs/
+	out=c987e43a9a35595d6b797fdf0369af58_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Hashemi-Hormate-Eshgh.mp3
+	dir=output/b2/audio/songs/
+	out=c3fe18d7dc46672d5c73c1e5f80005b5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Hashemi-Sahme-Man.mp3
+	dir=output/b2/audio/songs/
+	out=b36e3a65a2251980b1d9004815001c1a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Hashemi-Hesse-Nab.mp3
+	dir=output/b2/audio/songs/
+	out=74b8f7db3b4ab2976bff5d9ba02a663d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Hashemi-Ba-To.mp3
+	dir=output/b2/audio/songs/
+	out=a4c323479d60d8995288debad4f52407_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Hashemi-Yek-Sal.mp3
+	dir=output/b2/audio/songs/
+	out=388dccce7e7f051d4fe0fda0cb071eeb_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Heydari-Bargard.mp3
+	dir=output/b2/audio/songs/
+	out=4266ff272e14bb358fe4988cae585fde_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Iran-Nejad-Madar.mp3
+	dir=output/b2/audio/songs/
+	out=4db2cdf739515901af6501e166ee542f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Karimzadeh-Yalda.mp3
+	dir=output/b2/audio/songs/
+	out=f67b723d0dd40b196d8c48d24db8edb8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Keyhani-Bi-Marz.mp3
+	dir=output/b2/audio/songs/
+	out=935c886fed739c99a79ad17f2a3566c4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Koohi-Harfe-Delam.mp3
+	dir=output/b2/audio/songs/
+	out=381387b87db5a67581a9623d1af38001_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Latifi-Miram-Az-Zendegiye-To.mp3
+	dir=output/b2/audio/songs/
+	out=d8f83200ca84f243ccbc124a2b45c474_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Malek-Bia-ye-Kari-Bokon.mp3
+	dir=output/b2/audio/songs/
+	out=a17753dc4f0a73e87aaed957adbf9ef6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Mirzaei-Baavar-Nakon-(Ft-Sajad-Farjam).mp3
+	dir=output/b2/audio/songs/
+	out=eebdd8320f0ef8afe6ac49391b8ea202_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Naser-Sadr-Abbas-Mirzaei-Marge-Lahzeha.mp3
+	dir=output/b2/audio/songs/
+	out=c70a811c66708607c9e0e3f46a601cd4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Mostafavi-Nazanin-Maryam.mp3
+	dir=output/b2/audio/songs/
+	out=e32f837723f8570056e49479f7aa0734_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Mostafavi-Beshkan.mp3
+	dir=output/b2/audio/songs/
+	out=0547363a3aeb82be26363ad11ef42d58_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Mostafavi-Soltan-Gham.mp3
+	dir=output/b2/audio/songs/
+	out=cfcde5eb92a7f0334bb8a4c52285eed6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Motamed-Hesse-Tardid-(Ft-Mehrdad-Alihoseini).mp3
+	dir=output/b2/audio/songs/
+	out=18f2b765662384e3ed94590a55688208_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Namazi-Vasiat.mp3
+	dir=output/b2/audio/songs/
+	out=54bb4c6f55d87810187c6bb3a08c5fa8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Namazi-Eshghe-Mahal.mp3
+	dir=output/b2/audio/songs/
+	out=d72cd478215c74070f26a907ebce7398_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Namazi-Ghahve-o-Shumineh.mp3
+	dir=output/b2/audio/songs/
+	out=653440eaa55418eabb89a5ee5ea4c047_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Namazi-Cheghadr-Khobe.mp3
+	dir=output/b2/audio/songs/
+	out=86603a11a3a8fd4ecc57bf72bacf816e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Namazi-Deltangi-(New-Version).mp3
+	dir=output/b2/audio/songs/
+	out=8b5ecca87b4eb2e9aaacd60a11b3aec8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Namazi-Deltangi.mp3
+	dir=output/b2/audio/songs/
+	out=b7442a67d2e88f3c2dcbaa7ddf1d6da7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Nasiri-Daste-Tanhaei.mp3
+	dir=output/b2/audio/songs/
+	out=5a1bc5444dd0a5189fe6584f0fc79fe6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Nasiri-Ensaf.mp3
+	dir=output/b2/audio/songs/
+	out=257aeeb84ec8d6a7855d55355e2d0759_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Nasiri-Mesle-Roya.mp3
+	dir=output/b2/audio/songs/
+	out=3134a1ce336df58f2be134e9c7dd5ee6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Nasiri-Eshghe-Man.mp3
+	dir=output/b2/audio/songs/
+	out=03278385ded18bceb36acbdff699c42e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Nasiri-Dari-Namehraboon-Mishi.mp3
+	dir=output/b2/audio/songs/
+	out=a027657e72c73be771c65f90434da8ae_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Nasiri-Havaye-Ghorbat.mp3
+	dir=output/b2/audio/songs/
+	out=46f108383db11b5f76bb04017b0a4b7d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Noori-Aftabe--Zendegi.mp3
+	dir=output/b2/audio/songs/
+	out=a495dea798f92b0ccb6a8809e69c3865_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Parnia-Mojezah.mp3
+	dir=output/b2/audio/songs/
+	out=7e7130a5be16619ac25af20999c643dd_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Pourmohammadian-Hale-Delam-Khoobe.mp3
+	dir=output/b2/audio/songs/
+	out=24507428c9fa347e6d4a071714869fa8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Pourmohammadian-Parte-Havasam.mp3
+	dir=output/b2/audio/songs/
+	out=e579a6c30af62bb0373e15e54f46f26c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Pourmohammadian-To-Kenaram-Hasti.mp3
+	dir=output/b2/audio/songs/
+	out=48bb5ece84782de9ea43a994419e5a0c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Razmi-Bargard.mp3
+	dir=output/b2/audio/songs/
+	out=bb18f30ccbbcc0f7424ae9775f8c1ae4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Razmi-Hamin-Emshab.mp3
+	dir=output/b2/audio/songs/
+	out=07f55e3056fcd8970c75a845e12d637c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Reisi-Delvapasi.mp3
+	dir=output/b2/audio/songs/
+	out=79927b1a1192d147dc78d0feb128bc53_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Reisi-Darde-Del.mp3
+	dir=output/b2/audio/songs/
+	out=e492e2cd5133eaad8b1454a6ed658b0d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Reisi-Baroon.mp3
+	dir=output/b2/audio/songs/
+	out=b651f885a0df611d7efe2afe502f81fb_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Reisi-Akharinbarg.mp3
+	dir=output/b2/audio/songs/
+	out=1cc582f5deb819b76f993b4c5d728752_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Reisi-Eshtebah.mp3
+	dir=output/b2/audio/songs/
+	out=af023822c6a3c16ec272016f654382f0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Reisi-Sedat-Mizanam.mp3
+	dir=output/b2/audio/songs/
+	out=cfb90adaf0880142734e0dd1ea806031_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Reisi-Kashki.mp3
+	dir=output/b2/audio/songs/
+	out=0205113b1d900a4bba3896c1b258c1f7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Reisi-Adat.mp3
+	dir=output/b2/audio/songs/
+	out=eeab3c0731fdc2b3892a79a288b67a48_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Reisi-Ba-To-Aroomam.mp3
+	dir=output/b2/audio/songs/
+	out=f39f1438bc5586569c2977f1808c3ba5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Reisi-Delvapasii.mp3
+	dir=output/b2/audio/songs/
+	out=f4cb5b54bdd43691cbf264a853a3a01e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Rezagholi-Vazyate-Ghermez.mp3
+	dir=output/b2/audio/songs/
+	out=be2b8eda302a6b02f9f9a6fc2a927320_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Rezagholi-Tekrar.mp3
+	dir=output/b2/audio/songs/
+	out=e316ab6f9696fab87ff604717aea29bc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-RezaGholi-Hobab.mp3
+	dir=output/b2/audio/songs/
+	out=7d424acabc3869e934eb204c0a1d2299_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Rezagholi-Tasvir.mp3
+	dir=output/b2/audio/songs/
+	out=27333c1e77898b3c6f9687f0da096bc0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Rezagholi-Enekas.mp3
+	dir=output/b2/audio/songs/
+	out=34e42b0e32c00d756c390e808a3614dc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Rezagholi-Tavahom.mp3
+	dir=output/b2/audio/songs/
+	out=ca32270d7803ce0d7dce5e0096650d11_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Rezvani-Eyalate-Motahedeye-Banoo-(Fasle-2).mp3
+	dir=output/b2/audio/songs/
+	out=aa68c96d1fdb5e2e75b104a52444b721_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Rosanzadeh-Darde-Penhoon.mp3
+	dir=output/b2/audio/songs/
+	out=4d8554a3d08340da74ea14ba64c5ef7e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Roshanzadeh-Nefrin.mp3
+	dir=output/b2/audio/songs/
+	out=fb47b26c707803b946fbd2eea00f4601_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Roshanzadeh-Taeme-Dard.mp3
+	dir=output/b2/audio/songs/
+	out=6d283d981634bde249bf6c3e58ef1a9e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Roshanzadeh-Eyde-Emsal.mp3
+	dir=output/b2/audio/songs/
+	out=a7d053a6a3e6c078a1c0fab1fc32d66a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Roshanzadeh-Paeez.mp3
+	dir=output/b2/audio/songs/
+	out=4594d8434ce0d1a9cfe39c29bf0bf908_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Roshanzadeh-Setareh.mp3
+	dir=output/b2/audio/songs/
+	out=4bffadec27449bded66f22700db14ca7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Rostamikia-Jodaee.mp3
+	dir=output/b2/audio/songs/
+	out=0a5cc7166e23d29919f4055144e09bbf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Shams-Male-Mani.mp3
+	dir=output/b2/audio/songs/
+	out=5df2be936044d392d87cac594fc1118c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Shams-Atre-Tanet.mp3
+	dir=output/b2/audio/songs/
+	out=bbb9cc18cc83b240667867c5230fa9e3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Shams-Beyne-Khodemon-Bashe.mp3
+	dir=output/b2/audio/songs/
+	out=50123f68b7557c355f6f61000ee7a53d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Shams-Hale-Man-Khoobe.mp3
+	dir=output/b2/audio/songs/
+	out=ea71f1d8539efff46e5dd34c765bcdee_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Shams-BonBast.mp3
+	dir=output/b2/audio/songs/
+	out=8f9f79facb9a5111e4bcfd68e665e407_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Shams-Zakhme.mp3
+	dir=output/b2/audio/songs/
+	out=5caed8d4af6e13dce17fdf61b5d8fca4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Shams-Naro.mp3
+	dir=output/b2/audio/songs/
+	out=12ef4fe6f82c0555c3dedfa9188aff6e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Shams-Jarfa.mp3
+	dir=output/b2/audio/songs/
+	out=d03679e064c9bcfe69d131c54fbd0876_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Shams-Kenare-To.mp3
+	dir=output/b2/audio/songs/
+	out=8eb42a268189b2f374274a54e4fe8aeb_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abbas-Soleimani-To-Ashegh-Naboodi.mp3
+	dir=output/b2/audio/songs/
+	out=cf457bb032b09e07232176814bcac314_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Torabi-Saate-Tanhayee.mp3
+	dir=output/b2/audio/songs/
+	out=32bb9553d1431062fa198b9b7b13cc37_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Torabi-Lahze.mp3
+	dir=output/b2/audio/songs/
+	out=89ab01d1bf6fa61d41eb6ccb928da034_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Yahyapoor-Roya.mp3
+	dir=output/b2/audio/songs/
+	out=54551d3bf9d511fd4622d74a15e7581e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Yousefi-Marge-Tadriji.mp3
+	dir=output/b2/audio/songs/
+	out=512704dcb66e493504abc66343072fce_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Yousefi-Soghoot.mp3
+	dir=output/b2/audio/songs/
+	out=39d85cca975efdc6dbcfc67d94843eb4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Yousefi-Daste-Khali.mp3
+	dir=output/b2/audio/songs/
+	out=c44efe4e3ca5572c3a559dd8103e3e16_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Yousefi-Atere-To.mp3
+	dir=output/b2/audio/songs/
+	out=e91fe016429914488fb9fc453af2ed5b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abbas-Zare-Farnaz.mp3
+	dir=output/b2/audio/songs/
+	out=2341e996f3a9268b2f825ceee482887d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdi-Yousefi-Heyf-Shod.mp3
+	dir=output/b2/audio/songs/
+	out=7f80e946971205fc75aa254d4d0baf48_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdi-Yousefi-Ye-Haftast.mp3
+	dir=output/b2/audio/songs/
+	out=00e3f40ab961015f356cc47e54f16c02_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdi-Yousefi-Roozaye-Bi-To.mp3
+	dir=output/b2/audio/songs/
+	out=373923f7bae8f1507b84d8d24d3a356c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdi-Yusefian-Taghsire-Mane.mp3
+	dir=output/b2/audio/songs/
+	out=847c278324de5c8336762d8866f9acc1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdolah-Yavari-Taghdir.mp3
+	dir=output/b2/audio/songs/
+	out=efe1414acea90450bf8d04d06eeea836_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdolah-Yavari-To-Rafti.mp3
+	dir=output/b2/audio/songs/
+	out=a6ce79e9333d82954c8817b3073a0720_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Behdar-Vali-Mohammad-Tahmasbi-Eyd-(Ft-Behrooz-Salehvand-Mostafa-Hezbavi).mp3
+	dir=output/b2/audio/songs/
+	out=b935cdbf0b8f37d0b43ff4bbcc971c8d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Ghorbani-Garyan.mp3
+	dir=output/b2/audio/songs/
+	out=8681629c9c9f661b08d6337978786527_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Ghorbani-Zangi.mp3
+	dir=output/b2/audio/songs/
+	out=18d7d0bdbf7d6a97c35faaaecbd6fc2b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Ghorbani-Saqqezi.mp3
+	dir=output/b2/audio/songs/
+	out=637cd71ed7abb4f6b3c1161ebd215e4d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Ghorbani-Lablan.mp3
+	dir=output/b2/audio/songs/
+	out=aee9e62f5f39d048aaac97ef9ddc4634_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Ghorbani-Marivani.mp3
+	dir=output/b2/audio/songs/
+	out=cb413c4e187d008f4702919fb270af6d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Ghorbani-Chapi.mp3
+	dir=output/b2/audio/songs/
+	out=27b88a0cc6ae528df1c5ea2ab4a81f0b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Ghorbani-Mukri.mp3
+	dir=output/b2/audio/songs/
+	out=917eb7ff196cead66ce2b6f467b451a3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Ghorbani-Khan-Amiri.mp3
+	dir=output/b2/audio/songs/
+	out=64aa50861e89c01d21cc75424989d6bc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Ghorbani-Shakaki.mp3
+	dir=output/b2/audio/songs/
+	out=4018beb3a737405809bedfaaf391e093_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abdollah-Molavi-Khak.mp3
+	dir=output/b2/audio/songs/
+	out=7d7ce44e1f64b9440813b125548ecca4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Sadeghi-Jodaei.mp3
+	dir=output/b2/audio/songs/
+	out=0143ce89b9c65e34b2366d9701269340_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Sadeghi-Koohe-Gham.mp3
+	dir=output/b2/audio/songs/
+	out=7d437fd0a39194d8e44e1437281b22aa_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Sadeghi-Sedam-Kon.mp3
+	dir=output/b2/audio/songs/
+	out=190240841004cb42bda402cfdfa03841_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Sadeghi-Bi-Vafa.mp3
+	dir=output/b2/audio/songs/
+	out=0611d8f837326aeab25299cb0d4fd31a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Sadeghi-Hadise-Del.mp3
+	dir=output/b2/audio/songs/
+	out=6c6c547dae0fecbfce1d5c2a6d0ae9de_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Sadeghi-Deltangi.mp3
+	dir=output/b2/audio/songs/
+	out=fb8dfd16e4e37a093dc6df6ef112bab4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Sadeghi-Remix.mp3
+	dir=output/b2/audio/songs/
+	out=f67ea9b3883295a3b4f2b9a953057252_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Sadeghi-Chegoone.mp3
+	dir=output/b2/audio/songs/
+	out=d1e14d70ce1939870186b937e49058fb_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Yousefi-Sokot-Noghrehie.mp3
+	dir=output/b2/audio/songs/
+	out=55bb51a607242ce55c233d15614875fa_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdollah-Yousefi-Saat-Dori.mp3
+	dir=output/b2/audio/songs/
+	out=a76cc7177c82f17d770f85582e92c95c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdolreza-Basiri-Khalij-Fars.mp3
+	dir=output/b2/audio/songs/
+	out=38d26594c613ef802efb8904017ad7f9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AbdolReza-Ghavidel-Ebadat.mp3
+	dir=output/b2/audio/songs/
+	out=f3aab267e31c0d0d4bb4e27763e24b25_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AbdolReza-Ghavidel-Baghalam-Kon.mp3
+	dir=output/b2/audio/songs/
+	out=6401c16b39629cf50fdad4cf0bdd5526_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AbdolReza-Ghavidel-Khodanegahdar.mp3
+	dir=output/b2/audio/songs/
+	out=2b6801ef35ebaf77a99e707ad20553b2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AbdolReza-Ghavidel-Roya.mp3
+	dir=output/b2/audio/songs/
+	out=9008a77d0d9aa6719eda98079f7954d9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AbdolReza-Ghavidel-Naghashi.mp3
+	dir=output/b2/audio/songs/
+	out=8bd90670cd57e7b638499f17b512b3ff_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abdolreza-Ghavidel-Royaye-Mahal.mp3
+	dir=output/b2/audio/songs/
+	out=b1b36fa630b31957d34767bfee1cc2c6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abed-Nemikham-Dige-Bargardi.mp3
+	dir=output/b2/audio/songs/
+	out=8a99a35e08907a1aa6fe9d3c04d31874_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abed-Delshureh.mp3
+	dir=output/b2/audio/songs/
+	out=28f399b045f330de59cc557b82ee4e5d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abed-Aroom-Aroom-(Ft-100ler).mp3
+	dir=output/b2/audio/songs/
+	out=be7c7224ce15f58a89e2dd0d51e2e482_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abed-Cheshmaro-Nemishe-Bast-(Acid-Pashi).mp3
+	dir=output/b2/audio/songs/
+	out=26adfcf9c18e8af1e54cd075b57ba6ae_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abed-Bagheri-Omid-Edame-Dare.mp3
+	dir=output/b2/audio/songs/
+	out=fed0e0b2b0b09448d2ed7477ce6086ff_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abed-Bagheri-Chie-Haji.mp3
+	dir=output/b2/audio/songs/
+	out=70734e423e9f9482882a3dea348600f1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abed-Derakhshan-Cheshmaye-To.mp3
+	dir=output/b2/audio/songs/
+	out=f5ae931042321bb8a688cb5614b8b992_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abed-Derakhshan-Roohe-Sabz.mp3
+	dir=output/b2/audio/songs/
+	out=a33e8bcb55f3d811b0d54f0addd6652a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abed-Derakhshan-Mano-Yadet-Hast.mp3
+	dir=output/b2/audio/songs/
+	out=279a0d994b2a428eda98557b58c177e7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abed-Derakhshan-Khial.mp3
+	dir=output/b2/audio/songs/
+	out=0e8a4daac201060b821c9fd74810266e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abed-Derakhshan-Khabe-Zemastooni.mp3
+	dir=output/b2/audio/songs/
+	out=0773ba417aadb91b3ba8c382616db232_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abed-Derakhshan-In-Rooza.mp3
+	dir=output/b2/audio/songs/
+	out=35fe016b5928f57e53ee4299a4959eaf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abed-Derakhshan-Asemooniha.mp3
+	dir=output/b2/audio/songs/
+	out=6b9ff0cbe18640a742f3ee5e45494dbf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abed-Derakhshan-Bargard.mp3
+	dir=output/b2/audio/songs/
+	out=6021112449fca8b361b7ba3c77b2f2f1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abed-Derakhshan-Mitarsam.mp3
+	dir=output/b2/audio/songs/
+	out=4a3cbb77565c60c71e3c1356bd23d16a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abed-Goodarzi-Daram-Miram.mp3
+	dir=output/b2/audio/songs/
+	out=ede05f2c08362d535387d6a1d2578e6c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abed-Nik-Madar.mp3
+	dir=output/b2/audio/songs/
+	out=79a091d6205174f425323b434e7b8fa0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abed-Nik-Faryade-Sokoot.mp3
+	dir=output/b2/audio/songs/
+	out=aea562fd8c4a84cf881f8afbbe249054_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abed-Nik-Mahe-Cheshmat.mp3
+	dir=output/b2/audio/songs/
+	out=7c3fd4be20cf1e27fed81ba1b8e746fa_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abed-Norouzi-Gole-Shab-Boo.mp3
+	dir=output/b2/audio/songs/
+	out=290dd37fe3090d6c2a7abb1093166504_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abi-Aran-Armaghan-Boose.mp3
+	dir=output/b2/audio/songs/
+	out=baf86664f782a1d0173b0bc08428dccb_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abi-Aran-Garashin-Yar.mp3
+	dir=output/b2/audio/songs/
+	out=c5ed719422896b88b1d7452f1bcaac91_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abi-Aran-Gisgora-Goydolar.mp3
+	dir=output/b2/audio/songs/
+	out=86b50faa3619da0f6ca9bc4e623d4761_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abi-Aran-Akhsham-Lar.mp3
+	dir=output/b2/audio/songs/
+	out=e024238eadb7ab08fb8459e660e54fe4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abi-Aran-Dayma-Mana.mp3
+	dir=output/b2/audio/songs/
+	out=b5a07ea1f1dc5cdd8cde99797f7ca2b4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abjad-Ba-Man-Beraghs-(Ft-Mijo).mp3
+	dir=output/b2/audio/songs/
+	out=ad33e44d7fc1476e4d7accce91d15e64_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abjad-Minimal-(Ft-Mijo).mp3
+	dir=output/b2/audio/songs/
+	out=68824e6d4a6c06cf06bb576570112cfe_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abjad-Roozaye-Barooni.mp3
+	dir=output/b2/audio/songs/
+	out=24022bc540093ee5d098ba0743b6e515_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abjad-Ye-Atmosphere-Gharg-(Ft-Mijo).mp3
+	dir=output/b2/audio/songs/
+	out=a2424e6d70e23ada1606dcb2226ea5ca_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abjad-Hess-Mikonam-(Ft-Mania).mp3
+	dir=output/b2/audio/songs/
+	out=8469ebdb8d2da62cbe781cdae9ab4e12_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abjad-Noure-Tarik-(Ft-Mijo).mp3
+	dir=output/b2/audio/songs/
+	out=9207fa7cc72f9a30371963bcbdd6564d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abjad-Kash-Budi-Mididi-(Ft-Zolfa).mp3
+	dir=output/b2/audio/songs/
+	out=d658ece6cb1887474481f73b9e1879ec_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abjad-Naghshe-Man-(Ft-Zolfa).mp3
+	dir=output/b2/audio/songs/
+	out=1fe1738cf882b5b94fd720efb9a637dd_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abjeez-Biyaa.mp3
+	dir=output/b2/audio/songs/
+	out=73472643ca76e3be64fdd5ad3f26aff4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abjeez-Rakht.mp3
+	dir=output/b2/audio/songs/
+	out=36e1a2b5223a17d67009b725f5885d85_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abjeez-Parcham.mp3
+	dir=output/b2/audio/songs/
+	out=db62f9ba29fda573f07bcb6a04386ae9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abjeez-Hameh-Baayad-Bedoonan.mp3
+	dir=output/b2/audio/songs/
+	out=5048d8cfa6e34d0df4f28e969d4141de_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Ablofazl-YazdanPanah-Nabz.mp3
+	dir=output/b2/audio/songs/
+	out=925e7d7f1ddd48c38494bc5da702acd5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazel-Alem-Hese-Ghashang.mp3
+	dir=output/b2/audio/songs/
+	out=e6109b074a4ca43adf3aa683b3cd245e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Ampooli.mp3
+	dir=output/b2/audio/songs/
+	out=275d8ca1a49c4970e7ddd1a712ed2c4e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-20-Hours.mp3
+	dir=output/b2/audio/songs/
+	out=47f26c438380e39d7176f1146f464274_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Ali-Moghadam-Mano-Ayen.mp3
+	dir=output/b2/audio/songs/
+	out=3edb5d0c8dc3909d6b4146747217996a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Ebrahim-Be-To-Madyounam.mp3
+	dir=output/b2/audio/songs/
+	out=aabfade8415e3d56bb2583a859fa493e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-AR-Afsordeh.mp3
+	dir=output/b2/audio/songs/
+	out=c90ba33925ca7553f0f461035ce2b117_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-A3ed-Cheshmaye-Khis.mp3
+	dir=output/b2/audio/songs/
+	out=f1b8071c96f62f12dd7179886604b725_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Abbasi-Sarma.mp3
+	dir=output/b2/audio/songs/
+	out=08b68bac4ba122bbaf72f7a577ca73b6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Abdollahi-Rasme-Ashegh.mp3
+	dir=output/b2/audio/songs/
+	out=e1bef3a53e4784a20a66f588916e404b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Akherat-Single-(Ft-Bahman).mp3
+	dir=output/b2/audio/songs/
+	out=6e69237dbb2bba1354ea10f7df852c9a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alem-Kare-Ghalat.mp3
+	dir=output/b2/audio/songs/
+	out=ac10f1178d00411372c7c6533b790c3d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alem-Doret-Begardam.mp3
+	dir=output/b2/audio/songs/
+	out=547d236adc0ce9c9df0649292af203ed_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alem-Faramooshi.mp3
+	dir=output/b2/audio/songs/
+	out=b192121a3d4fccf8083630215c783906_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alem-Khoshhalam.mp3
+	dir=output/b2/audio/songs/
+	out=340c552950b03f4ddee04878d5ac1f83_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alem-Bazei-Ehsas.mp3
+	dir=output/b2/audio/songs/
+	out=461413467a25a3d9e12f1803d7102ebc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Alem-Merci-Ke-Hasti.mp3
+	dir=output/b2/audio/songs/
+	out=51103e6bb04f861465a8bd313965b7b9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alem-Ghalamro.mp3
+	dir=output/b2/audio/songs/
+	out=c7583d285ebbfc8bc790fbf442663056_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alem-Ye-Negah.mp3
+	dir=output/b2/audio/songs/
+	out=4ea3c82d21b9d6d54e232c10cef3d151_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alem-Tasob.mp3
+	dir=output/b2/audio/songs/
+	out=a5c01a79d7474a678b82e35ab41da2bb_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alem-Name.mp3
+	dir=output/b2/audio/songs/
+	out=ed7f4c956feebf4aebc1babbd0a3cdee_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alem-Delamo-Zadi.mp3
+	dir=output/b2/audio/songs/
+	out=837d7081757100676720e45fe5263fd2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alem-Ye-Rooz-Didamesh.mp3
+	dir=output/b2/audio/songs/
+	out=0aa13c6f11e2836cc5e0f76bae461ff2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Alem-Etefagh.mp3
+	dir=output/b2/audio/songs/
+	out=63de19423a6dabba3faa83663ebef5b1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Alem-Parte-Havasam.mp3
+	dir=output/b2/audio/songs/
+	out=8c25bd66c90a7ba0e387423628b1b36b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Barmigardam.mp3
+	dir=output/b2/audio/songs/
+	out=7076883b17380b1e047eb41a1b98080f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Dastam-BiTabe.mp3
+	dir=output/b2/audio/songs/
+	out=4a78480a04a9ddb437a3ca068ba3f463_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Hesse-Pak.mp3
+	dir=output/b2/audio/songs/
+	out=fb4ddd0d268204c6c499195f32d991c9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Kaboos.mp3
+	dir=output/b2/audio/songs/
+	out=ec8cdf64ead746c73ff74e0c9e3cfdb5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Laleh.mp3
+	dir=output/b2/audio/songs/
+	out=086013088598a0acbc4739aaff7bceca_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Ejazeh.mp3
+	dir=output/b2/audio/songs/
+	out=1879440672270c0696845ae3ba5d6e70_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Daaram-Miram.mp3
+	dir=output/b2/audio/songs/
+	out=79fa2f03ced8913ff4b413b3bfd62eb3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Dire-(Ft-Siamak-Master).mp3
+	dir=output/b2/audio/songs/
+	out=c565b1d4892d04dd0bdc18f0146e466b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Bargard-(Ft-Majid-Farahani).mp3
+	dir=output/b2/audio/songs/
+	out=68439169fef380992c70e7fdcef955cc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Hesse-Khoob-(Ft-Mohammad-Zare).mp3
+	dir=output/b2/audio/songs/
+	out=5204a2a8bd50550796893d9fb2d6eb5e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Alizadeh-Kiye-Kiye-(Ft-Roxana).mp3
+	dir=output/b2/audio/songs/
+	out=0281b1263c567186a5585bd50c6e1a4b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Tabe-Geryeh-(Ft-behnam-Noroozi).mp3
+	dir=output/b2/audio/songs/
+	out=d11e36e5b2a3fedbb5b7c2dca488617b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Asheghet-Shodam.mp3
+	dir=output/b2/audio/songs/
+	out=4ac48f6049762c630853cce2c90d4df9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Rouze-Eshgh-(Ft-Behnam-Noroozi).mp3
+	dir=output/b2/audio/songs/
+	out=1849a873c6a0223382cb0b2c35491579_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Yadet.mp3
+	dir=output/b2/audio/songs/
+	out=51f8e2324f32ae1ee2a0680707a7c70f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Vange-Vange.mp3
+	dir=output/b2/audio/songs/
+	out=3996a0257383112c4b8bb642ba5084ec_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Bedoone-To-Nemishe.mp3
+	dir=output/b2/audio/songs/
+	out=d80ce9c123096b363f68fe9de22d0faf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Aroom-Aroom.mp3
+	dir=output/b2/audio/songs/
+	out=d89acfe529e00f4e01641d42bb4cb0a1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Bivafa.mp3
+	dir=output/b2/audio/songs/
+	out=ab8cab60cb7a8a145ba3cae2b6426f8b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Alizadeh-Mohreye-Mar.mp3
+	dir=output/b2/audio/songs/
+	out=22d699a8b60d82f6d2b0b31768feae36_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Ebi-Ebrahimi-Ameli-Kija.mp3
+	dir=output/b2/audio/songs/
+	out=7f9f76b1ecef3fef19695f138761f969_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Alizadeh-Majid-Farahani-Aroom-Aroom.mp3
+	dir=output/b2/audio/songs/
+	out=db2a5938617e01588916e359a26bdc06_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Barmaki-Bi-To-Nemitoonam.mp3
+	dir=output/b2/audio/songs/
+	out=5945077bb843b40e7673b47d18236204_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Barmaki-Tars.mp3
+	dir=output/b2/audio/songs/
+	out=2dfc276b0ee694572a937ba0830d870e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Bonakdaran-Ghadir.mp3
+	dir=output/b2/audio/songs/
+	out=89ad19ab9a34d0f045ae6a1769b1044a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Dadashi-Ahay-Khoda.mp3
+	dir=output/b2/audio/songs/
+	out=a05eaaada34c0dbd1a893f764f0c0265_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Dadashi-Sokoute-Sedam.mp3
+	dir=output/b2/audio/songs/
+	out=6aa3209dc4383ea8be336e00c2a6986e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Dadashi-Farib.mp3
+	dir=output/b2/audio/songs/
+	out=06039296e487bd1feab6e103d3a6913f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Dadashi-Delshoureh.mp3
+	dir=output/b2/audio/songs/
+	out=6a7cc194dc60aebac394290724273ab6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Dehghan-Aroome-Aroom.mp3
+	dir=output/b2/audio/songs/
+	out=19cc3a7019a895e17bbba07622f7ec43_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Dehghan-In-Roozha.mp3
+	dir=output/b2/audio/songs/
+	out=97c97c13023e37249728d1295f4c7c72_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Dehghan-Leilaye-Leilaha.mp3
+	dir=output/b2/audio/songs/
+	out=6f7e575279179f4760e20f49ccb4f550_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Dehghan--Ashke-Setareh.mp3
+	dir=output/b2/audio/songs/
+	out=4f0026142432492049f1d894095911a2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Entezari-Ma-Do-Ta.mp3
+	dir=output/b2/audio/songs/
+	out=b91a11327cbb70808eea00b1fb3b81cd_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Entezari-Janjal.mp3
+	dir=output/b2/audio/songs/
+	out=1d8ed8b6e85ff4de35fe53fa6648086f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Entezari-Begoo-Bashe.mp3
+	dir=output/b2/audio/songs/
+	out=fe3b496e82a9939c979bb05b36b6bd37_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Entezari-Emshab.mp3
+	dir=output/b2/audio/songs/
+	out=680e82db5b53a3171c2bc28aab674fdc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaeili-Sayyar-(Ft-Ali-Barati).mp3
+	dir=output/b2/audio/songs/
+	out=17977dbf71362faa52def83507af61a2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaeili-Doos-Derom-Bogom-Mo-(Ft-Sasy).mp3
+	dir=output/b2/audio/songs/
+	out=383fb2983afc2a6ebad1feec724e5d81_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaeili-Majnoone-Leyli-(Ft-Sa30).mp3
+	dir=output/b2/audio/songs/
+	out=a4593cd1ab5d9d5c8e9349442214e48d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaeili-Bahar-(Ft-Ali-Barati).mp3
+	dir=output/b2/audio/songs/
+	out=1b26269839e7734515867444a42a89ff_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaeili-Delroba-(Ft-Behrooz-Fathi).mp3
+	dir=output/b2/audio/songs/
+	out=c41e28b92e83de028263e4e18817eac8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaeili-Siah-Moo.mp3
+	dir=output/b2/audio/songs/
+	out=09dcd880565caca3a6011a75b348df68_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaeili-Cheshmaye-Jadoogar-(Ft-Hamid-Fallah).mp3
+	dir=output/b2/audio/songs/
+	out=757f85a9b679c1a2084dbed4c30813aa_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaeili-Tange-Del-(Ft-Hamid-Fallah).mp3
+	dir=output/b2/audio/songs/
+	out=5f06bd7d2067eb1674a41f2cbfa34d3a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaeili-Negar.mp3
+	dir=output/b2/audio/songs/
+	out=daf9d724b71cbab5da05e31402034c23_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaeili-Ashke-Cheshmat.mp3
+	dir=output/b2/audio/songs/
+	out=3255e171ad645f39548cb61542306de1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaeili-Az-To-Che-Penhoon-(Ft-Peyman-Mousavi).mp3
+	dir=output/b2/audio/songs/
+	out=a404a262abd04fb05e9342e1a4a13f9d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Esmaeili-Ay-Donya-(New-Version).mp3
+	dir=output/b2/audio/songs/
+	out=e0f4d9ed0803458aa725f410620c4a7e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaeili-Naze-Cheshmat-(Ft-Behrooz-Fathi).mp3
+	dir=output/b2/audio/songs/
+	out=ff5c978f9c846e919ef5f4736f3295a2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaeili-Nafas-Nafas-(Ft-Abolfazl-Zeraatkar).mp3
+	dir=output/b2/audio/songs/
+	out=13e2ee433ac31e277ca811ff8e2b583f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaeili-Deltange-Cheshatam-(Ft-Hadi-Afarideh).mp3
+	dir=output/b2/audio/songs/
+	out=d0ec7e31165b0c17ee7e75909859669e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Mostafa-Taftish-Abolfazl-Esmaeili-Eshgh-Yani-Hamin.mp3
+	dir=output/b2/audio/songs/
+	out=854c21df563afe12beb982600e1934fd_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Esmaeili-Alireza-Esmaeili-Madar-Zan.mp3
+	dir=output/b2/audio/songs/
+	out=fa1a750dd6c6c76533e88a159da6a839_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Esmaeili-Mostafa-Dareini-Taghsir.mp3
+	dir=output/b2/audio/songs/
+	out=5434095520cffea9bc32140d48520db9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Esmaeili-Emad-Hamedi-Donyaye-Hasood.mp3
+	dir=output/b2/audio/songs/
+	out=bff36e47c875abdfc63121d1e9d3b5bf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Esmaeili-Emad-Hamedi-Domado-Avordan.mp3
+	dir=output/b2/audio/songs/
+	out=35556a2e8196ce53304f13a1aeea6712_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaili-Zan-Nomokham-(Ft-Arman-Gaysoon-Sasy).mp3
+	dir=output/b2/audio/songs/
+	out=aec1758f20c8d8000451512072527512_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaili-Yaregeh-(Ft-Sasy).mp3
+	dir=output/b2/audio/songs/
+	out=2ae3cef913f4e5ac86ac0a7874744a81_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Esmaili-Mastom-Kon.mp3
+	dir=output/b2/audio/songs/
+	out=48ccd16626c5060730c56357a06966dd_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Esmaili-Kamal-Barekati-Lahnat-Be-Darya.mp3
+	dir=output/b2/audio/songs/
+	out=96f8cd1ce4c06aec4f25ef41b9808a7e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Esmaili-Ali-Barati-Dele-Tang.mp3
+	dir=output/b2/audio/songs/
+	out=b0fddbd3366285c6a90f825dbc3a8df8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Esmaili-Emad-Hamedi-Berar.mp3
+	dir=output/b2/audio/songs/
+	out=e4ddc587168db390f83a63a12804251c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Esmaili-Mohsen-Dolat-Ay-Donya.mp3
+	dir=output/b2/audio/songs/
+	out=798ce3738068a3fbef73ed2424417dec_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Esmaili-Mostafa-Taftish-Nazgol.mp3
+	dir=output/b2/audio/songs/
+	out=8b3bd7a6c32f1efe9fc93c33d25ba14a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fallah-Chete-Refigh.mp3
+	dir=output/b2/audio/songs/
+	out=a028d43b82189e00c7f465fbe32e817e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fallah-Nadari-Ouno.mp3
+	dir=output/b2/audio/songs/
+	out=35043465cb0f5c2779c446a1ca78f863_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fallah-Coffee.mp3
+	dir=output/b2/audio/songs/
+	out=8d1f76195bdd4cf3b1ca3f508a9e2ce2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fallah-Hasrate-Didanet.mp3
+	dir=output/b2/audio/songs/
+	out=43f78b09969664730ae43a0932ad431b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fallah-Eshtebah.mp3
+	dir=output/b2/audio/songs/
+	out=67fa7456e228c1aa4988342dc73666c5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fallah-Chizi-Nagoo-Boro.mp3
+	dir=output/b2/audio/songs/
+	out=6fdd02c8a1b94d62e6cc5d75bff6d95c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fallah-Yalda.mp3
+	dir=output/b2/audio/songs/
+	out=38f696ad8d2af497f8deb35ab4f1cdbb_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fallah-Omghe-Divoonegi.mp3
+	dir=output/b2/audio/songs/
+	out=fd9a9a1888224eda6acbac57aee601ed_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Fallah-Vay-To.mp3
+	dir=output/b2/audio/songs/
+	out=a86fee4aadc1c0244812ed84b0f287a3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fallah-Che-Sakhte.mp3
+	dir=output/b2/audio/songs/
+	out=1c276851a7bb0e943539d8ff0683dfd0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fallah-Eshghe-Bi-Mantegh.mp3
+	dir=output/b2/audio/songs/
+	out=a20ed438b07027bca404112a517eb039_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fallah-Royaei.mp3
+	dir=output/b2/audio/songs/
+	out=6f226c0a8b80e3450f0f5ef3426665c7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fallah-Toro-Mikham.mp3
+	dir=output/b2/audio/songs/
+	out=3d7b540951769b38a1681e8263305fcd_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Fallah-Sakhte.mp3
+	dir=output/b2/audio/songs/
+	out=b53174d15641f105b22076e795fc24df_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fallah-Shahre-Lanati.mp3
+	dir=output/b2/audio/songs/
+	out=24ff63ae2b1e0e1a9d71bfec5140ecc9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fallah-Saeid-Sedaghati-Khatereha.mp3
+	dir=output/b2/audio/songs/
+	out=c6c1b37c129d214f6499818587648f6b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Faramarzi-Eshghe-Tahereh.mp3
+	dir=output/b2/audio/songs/
+	out=5ffe6aafb034be2d1f6aa5312f1e58d0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Faramarzi-Cheshm-Be-Rah.mp3
+	dir=output/b2/audio/songs/
+	out=b074f6fb501d153bd539bacced9f3bd1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Faramarzi-Mane-Divooneh.mp3
+	dir=output/b2/audio/songs/
+	out=857afddad4b8da2db704b97587638949_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Faramarzi-Ba-To-Hastam.mp3
+	dir=output/b2/audio/songs/
+	out=d4aac494861767a4caefa5f801a6e8bd_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Faramarzi-Khiyanat.mp3
+	dir=output/b2/audio/songs/
+	out=9dbdaf378e9d4431d321574ae9423f38_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Faramarzi-Tamaa.mp3
+	dir=output/b2/audio/songs/
+	out=741ce7b2d6e3d2e3c5d1f8400572b8e4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Faramarzi-To-Ke-Rafti.mp3
+	dir=output/b2/audio/songs/
+	out=d008502f23aed69d2ab29991d69c50d5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Faramarzi-Gonah.mp3
+	dir=output/b2/audio/songs/
+	out=1e14eec7941aae4cae5d1fdbe75d26f5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fardi-Poshtet-Khaliye.mp3
+	dir=output/b2/audio/songs/
+	out=1eaa604a8c941921d2984439a4b2a9b6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Fardi-Taghas.mp3
+	dir=output/b2/audio/songs/
+	out=3ddd11a599d050d9f2a99b2554880d64_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Fardi-Mehdi-Javid-Sookot.mp3
+	dir=output/b2/audio/songs/
+	out=a8165ad1004a0dccaf23ab5f132cda9e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Gholipour-Bargardi-Behtare.mp3
+	dir=output/b2/audio/songs/
+	out=eacbf04ee876fd1a765406dbea385c81_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Masoudi-Sange-Tamoom.mp3
+	dir=output/b2/audio/songs/
+	out=87532a150307a3b4bc024dd3331449d3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Masoudi-Hesse-Baroon.mp3
+	dir=output/b2/audio/songs/
+	out=0295b362998d6755b7bfec4e6dc3c54f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Masoudi-Ayandeye-Roshan.mp3
+	dir=output/b2/audio/songs/
+	out=8808d924e8146d4d4497dfd852de585a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Masoudi-Age-To-Boodi.mp3
+	dir=output/b2/audio/songs/
+	out=ac4fe00584ce86ae85351c53851c0f96_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Masoudi-Asheghet-Shodam.mp3
+	dir=output/b2/audio/songs/
+	out=8c76119f1cc9143bca972437220bd5f0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Masoudi-Dooset-Daram.mp3
+	dir=output/b2/audio/songs/
+	out=f338abf946194f95b6bec677d35775c5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Masoudi-Jacket-Tanhaei.mp3
+	dir=output/b2/audio/songs/
+	out=da2839c987c3bd1b03dbc88ebe76c084_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Masoudi-Halam-Khobeh.mp3
+	dir=output/b2/audio/songs/
+	out=e7e728c227869ff7f2624c69c332e189_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Masoudi-Khabe-Zemestooni.mp3
+	dir=output/b2/audio/songs/
+	out=1fcc91c46094aaf294753c9c4605f02c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Masoudi-Hesse-Baroon-(Remix).mp3
+	dir=output/b2/audio/songs/
+	out=4b6c5c788539f1d11d2faa56c601c097_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Masoudi-Eyde-Bi-To.mp3
+	dir=output/b2/audio/songs/
+	out=a80c04c1ffd751eb9808e48622c544ff_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Masoudi-Masir.mp3
+	dir=output/b2/audio/songs/
+	out=155dad01b3a16582e40c6d20971ef92c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Masoudi-Tanham-Gozashti.mp3
+	dir=output/b2/audio/songs/
+	out=8559c910c1ae478fa85209757747044d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Masoudi-Mehman-Ma-Bashid.mp3
+	dir=output/b2/audio/songs/
+	out=eceafd4bd61987228057324f177e9f91_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Masoudi-Masir-(Remix).mp3
+	dir=output/b2/audio/songs/
+	out=19aa7314cc469510dcbe93c906f44333_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Masoudi-Royaye-Dour.mp3
+	dir=output/b2/audio/songs/
+	out=b467cd51835ca67420eb714e7cfb4c3a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Mehraban-Bayad-Beram.mp3
+	dir=output/b2/audio/songs/
+	out=007f30474ca3a40d69163f277b34a138_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Mehraban-Baroon.mp3
+	dir=output/b2/audio/songs/
+	out=bce70c09e1704266c5adfa5021bdd49b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Miraei-Dooset-Daram.mp3
+	dir=output/b2/audio/songs/
+	out=7dcaf791f30944bbaa4221079f169f57_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Mirzaei-Dele-Man.mp3
+	dir=output/b2/audio/songs/
+	out=c2ccca9ac5c6de37e0191313ed9ad4bd_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Mohammadiyan-Akharesham-(Ft-Sasan-SP).mp3
+	dir=output/b2/audio/songs/
+	out=c3aafdf06eed5798d1fec03d8a39ff49_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Naderi-Ye-Omreh.mp3
+	dir=output/b2/audio/songs/
+	out=6e651dbfd5d63f3f7b3336b6c6595a98_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Naderi-Hasrate-Arbaein.mp3
+	dir=output/b2/audio/songs/
+	out=11dfbf42a053ff78960183e9df58e9a7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Naderi-Teshne-Ab.mp3
+	dir=output/b2/audio/songs/
+	out=bb95670dcc7846f0f6fc6a3b832a81aa_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Najjari-Bad-Az-To.mp3
+	dir=output/b2/audio/songs/
+	out=290d0d2bf6349c0101f212dc97f5f764_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Nayebpoor-Hossein-Saghebi-Roo-Siah.mp3
+	dir=output/b2/audio/songs/
+	out=11c6fbfc1ae71a9faf533a5dbbf3bf8d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Pirhadi-Khanomi.mp3
+	dir=output/b2/audio/songs/
+	out=a72906274cd5cadfe2539b6a2637bda2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Pirhadi-Vay-Che-Dokhtare-Balaei.mp3
+	dir=output/b2/audio/songs/
+	out=ce9952be4027ed14080da8d57bc09711_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Pirhadi-Delamoo-Ashegh-Kon.mp3
+	dir=output/b2/audio/songs/
+	out=3199370a5faa154151880f1bb6142c06_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Pirhadi-Naro.mp3
+	dir=output/b2/audio/songs/
+	out=de53a87e2acc4f543ac8d169ee866f04_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Pirhadi-Ya-Habibi.mp3
+	dir=output/b2/audio/songs/
+	out=effdc3fe6efdca57df21fff011707488_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Rezin-Alafaye-Harz-(Ft-Saya).mp3
+	dir=output/b2/audio/songs/
+	out=4121ef841c880cd2b55f7e5862cc1a09_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Rezin-Reza-Sokoot-Faramosham-Kon.mp3
+	dir=output/b2/audio/songs/
+	out=cce2940e5da750da906838cf7baaca5d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Samaee-Kheyli-Halam-Bade.mp3
+	dir=output/b2/audio/songs/
+	out=b3d7c322d867125fd2e7f8e53a885ab5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Samaee-Geryeh-Nakardam.mp3
+	dir=output/b2/audio/songs/
+	out=dd7a051d203b484fa67245886e0ef4cc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Samaee-Doset-Daram.mp3
+	dir=output/b2/audio/songs/
+	out=475e3a8c285226dcee1d1bcad8f11998_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Samaee-Hesse-Ajib.mp3
+	dir=output/b2/audio/songs/
+	out=79921e68c8aa9d64a3c8fef5d7aa4263_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Saraee-Zahed.mp3
+	dir=output/b2/audio/songs/
+	out=c418dfc6dee9c00b1ef40aa46bcc8630_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Saraei-Marham.mp3
+	dir=output/b2/audio/songs/
+	out=23c86e02cc5d2049c57a5167dccbc84e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Shahvarani-Adat.mp3
+	dir=output/b2/audio/songs/
+	out=a6f6f0104692c9dd06463dbc9d4b4fdb_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Shaikhi-Tahamol-Nadare-Nabashi.mp3
+	dir=output/b2/audio/songs/
+	out=80eb4cdd74baa9874441758df8e3f0b7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abolfazl-Shaker-Ghalbe-Shekaste.mp3
+	dir=output/b2/audio/songs/
+	out=3928f173964507a60881af3258218f14_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Tayeb-Nostalgia.mp3
+	dir=output/b2/audio/songs/
+	out=870d710f7ccf9f7c96074369f802706d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Valayi-Marge-Man.mp3
+	dir=output/b2/audio/songs/
+	out=1a667efb99f7fd0c828a40c38c4a646c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Yazdanpanah-Range-Dard.mp3
+	dir=output/b2/audio/songs/
+	out=1618184c5aba293bbcfb921b2282cf1f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Zare-Rahaei-(Ft-Reza-Dadgar).mp3
+	dir=output/b2/audio/songs/
+	out=1cba8d34ceda3647a56bd7ed3ffecb60_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Zare-Mano-Nemibini.mp3
+	dir=output/b2/audio/songs/
+	out=b11345b79945f3de7517274d00e63c4a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Zare-Khiaboon.mp3
+	dir=output/b2/audio/songs/
+	out=f12d2db91bf7c9cb5198517bc3c06574_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazl-Zarrin-Ma-Montazerim.mp3
+	dir=output/b2/audio/songs/
+	out=44dc6b1d93f7e885f1a6939e9bf234b9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abolfazle-Alikhani-Ali-Asghar.mp3
+	dir=output/b2/audio/songs/
+	out=918ee2a048d4d33898b834c849c03837_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aboozar-Asadolahi-Bekhand-Masnoei.mp3
+	dir=output/b2/audio/songs/
+	out=c8333db69e145cc5cb466bfa75b4faf0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aboozar-IzadPour-Kenare-To.mp3
+	dir=output/b2/audio/songs/
+	out=266d115ad316344d8fe70c77ab9876aa_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aboozar-IzadPour-Mage-Mishe.mp3
+	dir=output/b2/audio/songs/
+	out=3c41cf63dadded02243ea6e789e0e220_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aboozar-Izadpour-Atre-Narges.mp3
+	dir=output/b2/audio/songs/
+	out=73f19a5933152addfc014e5080f8fef2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Aboozar-IzadPour-Khod-Azaar.mp3
+	dir=output/b2/audio/songs/
+	out=40b340e59f75e642ecd747563c6c0b27_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Aboozar-Izadpour-Royaye-To.mp3
+	dir=output/b2/audio/songs/
+	out=28969e95cd8fc65951528b9d3e8390cc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Aboozar-Mehrabi-Birahm.mp3
+	dir=output/b2/audio/songs/
+	out=3a066114539ef6d2dbad8ef8084c50fa_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abouzar-Asadolahi-Heseh-Tazeh.mp3
+	dir=output/b2/audio/songs/
+	out=6e427b123a70594da4bd2c7513e0ca22_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abouzar-Ghashghavi-Donyaro-Mizaram-Kenar.mp3
+	dir=output/b2/audio/songs/
+	out=366ade218c8b474f1b026becd4e6376a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abouzar-Ghashghavi-Khabe-Hazyoon.mp3
+	dir=output/b2/audio/songs/
+	out=c54449f9a9877d195f4c716f6a581ebe_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abouzar-Ghashghavi-Boghz.mp3
+	dir=output/b2/audio/songs/
+	out=fd09dd138881e937bae9a019df096f4c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abraham-Eshghe-Sadeh-(Ft-Reza-Karami).mp3
+	dir=output/b2/audio/songs/
+	out=34076f2a7db3f60f507e0ff9fe77ba53_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abteen-Boghze-Kohne.mp3
+	dir=output/b2/audio/songs/
+	out=39f4cc4a79ef5a6e52d86a6d95c49301_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abtin-Shabi-Ke-Bad-Mioomad.mp3
+	dir=output/b2/audio/songs/
+	out=8cc12037bdd1663a6ac25a4ebca9a328_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abtin-Nahale-Omid.mp3
+	dir=output/b2/audio/songs/
+	out=1347fc6fbf6513520cb4362a73d40440_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abtin-Nahale-Omid-(Ft-Araz).mp3
+	dir=output/b2/audio/songs/
+	out=3fb1b9cb67178a76f4d2d2e9ced72eff_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abtin-Eshghe-Zemestooni-(Ft-Araz).mp3
+	dir=output/b2/audio/songs/
+	out=ae74dccfb5e5fa87abf4ebcb02765c80_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abtin-Kenare-Man-Bemoon.mp3
+	dir=output/b2/audio/songs/
+	out=ea3004630978a1faf311907098822064_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abtin-Mano-Az-Yad-Bordi.mp3
+	dir=output/b2/audio/songs/
+	out=302a862ec9a48a73f1ba8298ec7a4066_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abtin-Still-Remember-(Ft-Shuka).mp3
+	dir=output/b2/audio/songs/
+	out=8c1710f5e024f515397b01faa1dccef4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Abtin-Hirbod-For-You-(Ft-Kimi).mp3
+	dir=output/b2/audio/songs/
+	out=f200653db6d5cf7908e1933ef6d91c3c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Araz-2Ta-Donya-(Ft-Abtin).mp3
+	dir=output/b2/audio/songs/
+	out=99087187abc590ae29f98176c842f2ad_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abtin-Ebham-Moon-Cafe-(Ft-Ali-Gerami).mp3
+	dir=output/b2/audio/songs/
+	out=85313bce7a8e6e0b4daccb06cfa7481e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abtin-Ebham-Divooneh.mp3
+	dir=output/b2/audio/songs/
+	out=41211811b32a86986f370f9b4ef5e953_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abtin-Iravani-Aramesh.mp3
+	dir=output/b2/audio/songs/
+	out=59c407e51df39737a25d11e2529149f4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Abtin-Zarei-Ki-Bishtar-Az-Man.mp3
+	dir=output/b2/audio/songs/
+	out=485aaa0b366af8c204e3c043b48b201e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AC-Donyami.mp3
+	dir=output/b2/audio/songs/
+	out=c30df279be78f6e0219cdd0edbc39a2f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/AC-Band-Bash.mp3
+	dir=output/b2/audio/songs/
+	out=4a0264fe1aba29bdcaf4bdb2aa2de8b1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Accolade-Ninoochka-(Ft-Azad).mp3
+	dir=output/b2/audio/songs/
+	out=804a343b2112a19fc7421c6dcbdb8798_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Accolade-Harfe-Ezafeh.mp3
+	dir=output/b2/audio/songs/
+	out=9d17059130d7dd10b2ba41d2fe0eb5cc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Accolade-Raskolnikov.mp3
+	dir=output/b2/audio/songs/
+	out=734d4a5ea7ee5e02a8f466d65895d6ea_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Accolade-Mohandes.mp3
+	dir=output/b2/audio/songs/
+	out=d6ed1e3da9444870ef05b486d481c75f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Accolade-Leh.mp3
+	dir=output/b2/audio/songs/
+	out=160a19737b33b2844c3ca10b1daebf05_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Accolade-Asbabkeshi.mp3
+	dir=output/b2/audio/songs/
+	out=08fcfbe19bf621944c3fee26911defd9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Accolade-Gheteyeh-204.mp3
+	dir=output/b2/audio/songs/
+	out=8dbd94a08007ddc09faf2149b81b5a93_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Ace-Hararate-Aftab.mp3
+	dir=output/b2/audio/songs/
+	out=48157d4eb4cbfb846d9de473c5bd8735_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Ace-Band-Yeki-Mesle-Man.mp3
+	dir=output/b2/audio/songs/
+	out=e78943d47d4faa0e1964594a65c3b93b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/ACE-Band-ACE-Night.mp3
+	dir=output/b2/audio/songs/
+	out=d598225dc201b6fcb57c97ba8292775e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Hooman-Ajdari-Ace-Band-High-Hopes.mp3
+	dir=output/b2/audio/songs/
+	out=a634de7336499059a396ea04eaf1b42a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Ace-Pik-Barname-Chie.mp3
+	dir=output/b2/audio/songs/
+	out=2d55bb33755a46a3b9828b4ee3ca315a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Acedia-Boys-In-The-Hood.mp3
+	dir=output/b2/audio/songs/
+	out=c4bf7885059011b4cd6be2832db4a7b3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Acedia-Straight-Shots.mp3
+	dir=output/b2/audio/songs/
+	out=b8c58e35f84826d311ab9262bb6d5022_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Acedia-Look-Me-In-The-Face.mp3
+	dir=output/b2/audio/songs/
+	out=09666b4f726e88c76e2c37dff5c87982_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Acepik-Sargije.mp3
+	dir=output/b2/audio/songs/
+	out=13c6c5828d42b74e42eed4ac3f769f66_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Acepik-Baraxe-Donya.mp3
+	dir=output/b2/audio/songs/
+	out=44ab5260f9bd56b4853ac1886f32fafb_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Acepik-Das-Nade-(Ft-Lantern).mp3
+	dir=output/b2/audio/songs/
+	out=1ab4e1fa6f5f436b1c71bdfa12b78778_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Acepik-Band-Zendegi-Ine.mp3
+	dir=output/b2/audio/songs/
+	out=6e25279297e5556f3347ab64d1e4e982_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Acrovaya-Man-Khode-Mojezeam.mp3
+	dir=output/b2/audio/songs/
+	out=632ce13aa10f8dc1d97a79d198d038b6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Acrovaya-Hello.mp3
+	dir=output/b2/audio/songs/
+	out=432bcd86e0667c7168b18675d92ba120_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Active-Records-Gangsta-Fathers.mp3
+	dir=output/b2/audio/songs/
+	out=1d0c18e04f2e430706d3574cdc990270_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Acven-Fuck-Step-(Ft-Vigen).mp3
+	dir=output/b2/audio/songs/
+	out=4d2746b5fcc57a5d308edbd5226c9a63_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Acven-In-Ye-No-Jange.mp3
+	dir=output/b2/audio/songs/
+	out=ea3d0cae29e5478a7aa29314cb05c3cb_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Acven-Chi-Avaz-Mishe-(Ft-River).mp3
+	dir=output/b2/audio/songs/
+	out=98219aad8dcdf43c53207bbaee3e5719_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Acven-Teyho-Zirzamin.mp3
+	dir=output/b2/audio/songs/
+	out=01f6a3d9f2218681692948df5940cd05_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Acven-Teyho-Bavaresh-Sakhte.mp3
+	dir=output/b2/audio/songs/
+	out=538fd702cfd20a1271f4cc1dd5c8c318_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/AD-BD-Dizziness-(Original-Mix).mp3
+	dir=output/b2/audio/songs/
+	out=88ac8c6d62fc784380462929e9f54f67_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adak-Band-Ba-Man-Bash.mp3
+	dir=output/b2/audio/songs/
+	out=b24228d7b5673be66f14071354c5b853_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adak-Band-Good-Vibe.mp3
+	dir=output/b2/audio/songs/
+	out=e5ad5d23876b45d2712ba4a41ed85a7b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adam-Delkhoshi.mp3
+	dir=output/b2/audio/songs/
+	out=57b206d8e1b9e320ac22eb12db0fe95d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adam-Behet-Goftam.mp3
+	dir=output/b2/audio/songs/
+	out=714572d0080a4831f6210c1927efd450_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adam-Mano-Bord.mp3
+	dir=output/b2/audio/songs/
+	out=373bdfc108c358e556cdd397bdb41da5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adam-Bigharar.mp3
+	dir=output/b2/audio/songs/
+	out=41a2101847c215726017d04f20e75894_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adam-Pichak.mp3
+	dir=output/b2/audio/songs/
+	out=5f5ff269211edc18c20f6f52a867b105_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Mehrnaz-Adam-Adam-o-Hava.mp3
+	dir=output/b2/audio/songs/
+	out=fc0c4ff0391e68956d3294b3d68be7cf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Roshana-Adam-Khoshbakhti.mp3
+	dir=output/b2/audio/songs/
+	out=ecac96f237da5889ddcf345cd28e01be_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Autumn-Adam-Akhare-Ghese.mp3
+	dir=output/b2/audio/songs/
+	out=512f992ebf48b884ade335c640e20300_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Autumn-Adam-Mehrabani-(Remix).mp3
+	dir=output/b2/audio/songs/
+	out=6ee8b9697c221dea685005e89ca7c3c9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adam-Lambert-Trespassing-(DJ-Toomaj).mp3
+	dir=output/b2/audio/songs/
+	out=25b2c39e0243b1cf88bfe7311f58f923_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adeeb-Dige-Nemishinam.mp3
+	dir=output/b2/audio/songs/
+	out=ec37e0702b48677b03087a725f63b61c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adeeb-Khodaya.mp3
+	dir=output/b2/audio/songs/
+	out=a15a7d0ec5101a48466ebaa747c5cd89_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adeeb-Mard.mp3
+	dir=output/b2/audio/songs/
+	out=fbca0d4f6349e5dff94aed3278628315_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Kotri-Rash-La-Bar.mp3
+	dir=output/b2/audio/songs/
+	out=6e5bb648fc3c61b5a1082fa736250bb9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Koor-Bash-Banoo.mp3
+	dir=output/b2/audio/songs/
+	out=4d44f0f564e9906ef04f33040d4fbfc3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Barun.mp3
+	dir=output/b2/audio/songs/
+	out=c304e56b9c1d4a889948b58c93052981_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Amshaw-Yadi-To.mp3
+	dir=output/b2/audio/songs/
+	out=50a0c637159e1504f635f9446f3d1206_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Drke-Naxosh.mp3
+	dir=output/b2/audio/songs/
+	out=0addd2bb7a4d8816a28e980374b2c219_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Shar.mp3
+	dir=output/b2/audio/songs/
+	out=09bc5555500f053828cabd7075ed9768_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Hawsafar.mp3
+	dir=output/b2/audio/songs/
+	out=771a51e270eda9706809f8f3835f9528_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Hay-La-Daxi-Dnya.mp3
+	dir=output/b2/audio/songs/
+	out=cca9d516344d081aca1c06c1a98e8fd0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Vabastegi.mp3
+	dir=output/b2/audio/songs/
+	out=99cc5533df9d7db02fa99eb4cd7f61f5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Tanya-Gharib.mp3
+	dir=output/b2/audio/songs/
+	out=6dc0b8e0521ce8ecc5fe5ebf744d0a63_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Miyone-Barg-Ha.mp3
+	dir=output/b2/audio/songs/
+	out=ded8b922fee79e3b037fbe3ab1e7a68a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Shekast.mp3
+	dir=output/b2/audio/songs/
+	out=0cd9fd50c142d86ad5fdb7db103f4380_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Sadeghaneh.mp3
+	dir=output/b2/audio/songs/
+	out=efe190ab4b24f2af01cebb50425ffbfe_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Aghapour-Migam-Dire.mp3
+	dir=output/b2/audio/songs/
+	out=7bc1cd56e8706d37e5908c2b15cbf115_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Ahmadi-Vabaste.mp3
+	dir=output/b2/audio/songs/
+	out=d2c8578ab0c713a68f5bc4a370892af2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Ahmadi-Be-Yade-Morteza.mp3
+	dir=output/b2/audio/songs/
+	out=4e8a79fb11545ed4823afdd1e5421278_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Ahmadi-Tamashai.mp3
+	dir=output/b2/audio/songs/
+	out=7a8815778b341259c8165707b4241a69_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Ahmadi-Tamoom-Nemishe-Paeiz.mp3
+	dir=output/b2/audio/songs/
+	out=79f5599c1d77c189f176ba032d1babd6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Asli-Ruberuye-To.mp3
+	dir=output/b2/audio/songs/
+	out=e368846ca0fe8c6db60edc9bd33b0e68_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Darvishi-Bade-To.mp3
+	dir=output/b2/audio/songs/
+	out=a5088257bad7f0cd5feea0197591f271_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Darvishi-Bavar-Kon-(Ft-Nikan).mp3
+	dir=output/b2/audio/songs/
+	out=48e5f9484d79779ab50a291b041b65d5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Kamyab-Bahari-Adel-Darvishi-Shak.mp3
+	dir=output/b2/audio/songs/
+	out=309558255f742f0bb8c731704dcaa65d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Dastyar-Bahona.mp3
+	dir=output/b2/audio/songs/
+	out=b5e3147e8d0e5cc95fac447132ae2b69_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Dastyar-Fekrash-Ra-Bokon.mp3
+	dir=output/b2/audio/songs/
+	out=ae30e53bba114a5a31e83e7cc18acf63_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Dastyar-Atish-Bekesh.mp3
+	dir=output/b2/audio/songs/
+	out=b868642e90d8f2fee6b7bab044e6ef64_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Dastyar-Sokhta-Delon.mp3
+	dir=output/b2/audio/songs/
+	out=cf79a1d1065ef6ff6c9658a132816844_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Dastyar-Ghenaat-(Ft-Sajad-Arjmand).mp3
+	dir=output/b2/audio/songs/
+	out=fd87829b17e36c0db6b39a946b8d0c70_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Dastyar-Na-2.mp3
+	dir=output/b2/audio/songs/
+	out=ddb79bb3700b57703bbcf6ecd65a6592_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Esmaeilpour-Stress.mp3
+	dir=output/b2/audio/songs/
+	out=3400553af4bd3d4cf214bab6c80b1722_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Fallah-Ye-Negah.mp3
+	dir=output/b2/audio/songs/
+	out=f989024f810d2960db3a7e171b0d0c9e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Ghanbari-Hale-Delam-Khoobe.mp3
+	dir=output/b2/audio/songs/
+	out=f7af639e013370575e3b1a8f9779afd7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Ghanbari-Ghasam-Be-Ehsasam.mp3
+	dir=output/b2/audio/songs/
+	out=c846a2bede03cff0031e4974429fad8b_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Ghanbari-Mimiram-Age-Nabashi.mp3
+	dir=output/b2/audio/songs/
+	out=5b4a00e6094d77268332e5d6d1725b17_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Ghanbari-Moshakhaseh-Hale-Khobi-Nadari.mp3
+	dir=output/b2/audio/songs/
+	out=0a1c170f760523af6feb2ff8834bd101_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Ghanbari-Baroone-Kavir.mp3
+	dir=output/b2/audio/songs/
+	out=877442627ebd3cc553695a867c919307_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Ghanbari-Toro-Bekheyro-Maro-Be-Salamat.mp3
+	dir=output/b2/audio/songs/
+	out=c0d16dacb3acf1e1fc823bac1f092467_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Ghanbari-Fekre-Mahal.mp3
+	dir=output/b2/audio/songs/
+	out=62fbd8f5bf171d34dff191176fe70079_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Ghorbani-Nagoo-Nemishe.mp3
+	dir=output/b2/audio/songs/
+	out=7dbbd03ca04795c8a5e4c16e3eb46081_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Ghorbani-Banooye-Asayesh.mp3
+	dir=output/b2/audio/songs/
+	out=d68c70b58c1916cf4729fadce9c2c212_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Habibi-Hale-Man-Khobe.mp3
+	dir=output/b2/audio/songs/
+	out=bb7a566510da1ae6d23b38234e7d268f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Mehr-Ali-Khatere.mp3
+	dir=output/b2/audio/songs/
+	out=4f0c0a9c587908b12e194ad402791e2c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Mehrali-Mohammad-Kavakebi-Entezar.mp3
+	dir=output/b2/audio/songs/
+	out=f192513e24c58e8cbef2d2edb913eeb7_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Moazen-Haale-Man.mp3
+	dir=output/b2/audio/songs/
+	out=b05b94658bc296518983ee18efc0bda2_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Moein-Taheri-Roya-(Ft-Adel-Moazen).mp3
+	dir=output/b2/audio/songs/
+	out=d2ef3a2c445a2b029f28767505510530_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Moeil-Mahakam.mp3
+	dir=output/b2/audio/songs/
+	out=1d02456ac282f2fd1007ba1b73720704_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Moeil-Khanoome-Khoonam.mp3
+	dir=output/b2/audio/songs/
+	out=473b5034dbb6c185497785547736f83f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Moeil-Khoodai.mp3
+	dir=output/b2/audio/songs/
+	out=dfebf9d4916ed88d8d061c9eb2a6617e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Monji-Nagofte-Bodi.mp3
+	dir=output/b2/audio/songs/
+	out=4ba84ac55fd3b873167291bebd3b355a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Mousavi-Ye-Lotfi-Kon.mp3
+	dir=output/b2/audio/songs/
+	out=38ef8d7ac36d6819c584638a9f8d79ee_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Naseri-Khaste-Shodam-Dige-Khoda.mp3
+	dir=output/b2/audio/songs/
+	out=2b68a5b804d0dc73035d97c0bb885016_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Nasiri-Khodaye-Man-Toei.mp3
+	dir=output/b2/audio/songs/
+	out=59dcf1fd641cdac0da0120000fa3737d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Nasiri-Khasteam.mp3
+	dir=output/b2/audio/songs/
+	out=66606b7d4abf2d8112bc16664c25eeed_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Nasiri-Divanegi.mp3
+	dir=output/b2/audio/songs/
+	out=eba06455beb0ba698a90d99eb55287cc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Nasiri-Jonoon.mp3
+	dir=output/b2/audio/songs/
+	out=600acbacbc00b2d868f8df74c75dda54_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Nasiri-Donyaye-Bi-Delan.mp3
+	dir=output/b2/audio/songs/
+	out=4397661392eee06a342c0897f6c44e7c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Salimi-Zire-Baroon.mp3
+	dir=output/b2/audio/songs/
+	out=729fc75020dc4a185d2748a3ac50a0e1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Salimi-Ghalbe-Sangi.mp3
+	dir=output/b2/audio/songs/
+	out=192e6d961b2450b289021534150c4eef_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Salimi-Nabze-Baroon-(Ft-Hosein-Keshtkar).mp3
+	dir=output/b2/audio/songs/
+	out=d3ed02f7dd30a0d9a618f3820e11bcb5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Salimi-Zire-Baroon-Delete.mp3
+	dir=output/b2/audio/songs/
+	out=9534cd97bdb26e6c89b1fa362dbf989c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Salimi-Zire-Baroon-(Remix).mp3
+	dir=output/b2/audio/songs/
+	out=eb3b9202ad558384993044da7ccabfc9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Shapoor-Zange-Tafrih.mp3
+	dir=output/b2/audio/songs/
+	out=18d35e5bab696448e1513442c7eb3c5c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Shapoor-Hameye-Mavared.mp3
+	dir=output/b2/audio/songs/
+	out=38b0202387dd02a4d16964d7b7eda6b3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Shapoor-Aroom-Nemisham.mp3
+	dir=output/b2/audio/songs/
+	out=5d5f5c11efe21ce6caf92560c4937361_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Shapoor-Havaye-Abri-(Ft-Saeed-Fahim).mp3
+	dir=output/b2/audio/songs/
+	out=aedbcbe0776d2c400b63014ac4725f79_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Shapoor-Ghargh-Shodeh.mp3
+	dir=output/b2/audio/songs/
+	out=699d7879534378d8f747e3b39a0b1c1f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Shapoor-Del-Tang.mp3
+	dir=output/b2/audio/songs/
+	out=53f82c3efafa7508011311df01100b64_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Shapoor-Mard-(Ft-Saeed-Fahim).mp3
+	dir=output/b2/audio/songs/
+	out=29e34620535d0524e0f3fc763c938037_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adel-Sharif-7Sin.mp3
+	dir=output/b2/audio/songs/
+	out=2eb5f4480f569188d2e4848cd50b604e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Star-Alin-AJ-Donbale-Forsatam.mp3
+	dir=output/b2/audio/songs/
+	out=fc9b483ba4a5b17aea556cf9411fa7a4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Taleghani-Namayesh-Nameh.mp3
+	dir=output/b2/audio/songs/
+	out=4d941d89cc5efefa64388c631bf4afaf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adel-Taleghani-Daram-Miam.mp3
+	dir=output/b2/audio/songs/
+	out=9c8bacdab37d81c73e036fcee100afca_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adensa-Parseh.mp3
+	dir=output/b2/audio/songs/
+	out=27024a7abb7fbdbe7a40c4c62df138dc_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adib-Telesm.mp3
+	dir=output/b2/audio/songs/
+	out=b533b0df99d619aa5bb3c9221eb9b35f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adib-Bazicheh.mp3
+	dir=output/b2/audio/songs/
+	out=2240b9f27495d6912df7a40779e37849_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adib-Baade-Margam.mp3
+	dir=output/b2/audio/songs/
+	out=de7e5c306f25f6991dc13dcde7441e52_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adib-Daran-Sakht.mp3
+	dir=output/b2/audio/songs/
+	out=f45878495db1748652b37b6831528520_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adib-Madar.mp3
+	dir=output/b2/audio/songs/
+	out=6e2bfc8d0a9afaac73ff4e3062e36d96_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adib-Khamoosh.mp3
+	dir=output/b2/audio/songs/
+	out=3c122611a732792ac229d4b0f395e2d6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adib-Bahramzadeh-Mihane-Man.mp3
+	dir=output/b2/audio/songs/
+	out=339fbcef15770950e825fe80a2d517dd_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adib-Hoseini-Tanyaee.mp3
+	dir=output/b2/audio/songs/
+	out=f3e5523e9e07e8d0d30216bca85601d8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adib-Pezhvak-Bartar-Az-Man.mp3
+	dir=output/b2/audio/songs/
+	out=b0658bd90f5237e9651bf8ff59ab1e8e_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Saeed-Osra-Adib-Pezhvak-Naneveshte.mp3
+	dir=output/b2/audio/songs/
+	out=94f42cc1eecbb5a66cea804f24e9765d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adib-Taheri-Saret-Ro-Barnagardon.mp3
+	dir=output/b2/audio/songs/
+	out=bb5d238b76231f3b55d5e880348a078a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adib-Taheri-Dastamo-Begir.mp3
+	dir=output/b2/audio/songs/
+	out=44fe7220b5f43287ffc2450ffe48b821_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adib-Taheri-Lamse-Hese-Tazeh.mp3
+	dir=output/b2/audio/songs/
+	out=4182eff8868dd6987a2c3ce46beecb16_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adib-Vahdani-Kaveh.mp3
+	dir=output/b2/audio/songs/
+	out=f88efe48cb0de031afb230de3c6bf20d_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adin-Ghahr-Nakon.mp3
+	dir=output/b2/audio/songs/
+	out=f3a6cf8a9554fd5a6e53e79ac51b8f05_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adin-Negah.mp3
+	dir=output/b2/audio/songs/
+	out=0a5cc77ef24398cdba8ffb46f970a786_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adin-Divoonegit.mp3
+	dir=output/b2/audio/songs/
+	out=0a9a1df29b9ad6bc3c85079abbc451a3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adin-Havaye-Do-Nafare.mp3
+	dir=output/b2/audio/songs/
+	out=519049219a75a92feda98427fb47563c_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adin-Lalayi-Baraye-Madar.mp3
+	dir=output/b2/audio/songs/
+	out=9ff51bc9d1021c7d3fdf7d12fffb6bd8_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adin-Dooset-Daram.mp3
+	dir=output/b2/audio/songs/
+	out=3a9e79dcaa15e6c0f150932af501cec5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adin-Barf-Bebar.mp3
+	dir=output/b2/audio/songs/
+	out=0190fd8841499f5582114012e52750d1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adin-Iranian-Gulf.mp3
+	dir=output/b2/audio/songs/
+	out=61c8dcf2d366a4681652b8563356e476_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adin-Barf-Bebar-(Remix).mp3
+	dir=output/b2/audio/songs/
+	out=d1c5a954a117a241b9c05e4afcf997ba_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adine-7-Khabis-(Ft-Shahdar).mp3
+	dir=output/b2/audio/songs/
+	out=6333f436f2762f7459d498d868b35784_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Admeta-Delrikhteh.mp3
+	dir=output/b2/audio/songs/
+	out=a77351639ddf9e569a4eca3bffa396a5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adnan-Vasiat-Nameh.mp3
+	dir=output/b2/audio/songs/
+	out=e72adc89a741753fe192db7804743f98_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adnan-Khodahafez.mp3
+	dir=output/b2/audio/songs/
+	out=aa712f5e4d68a9fbfb54bcfa35c38a70_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adnan-Rish.mp3
+	dir=output/b2/audio/songs/
+	out=981b0c51f65dbfbf0f341347c519a2fd_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adnan-2-Friends.mp3
+	dir=output/b2/audio/songs/
+	out=8426e839529b4b9065dae1a4cd662e6a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adnan-Adamak.mp3
+	dir=output/b2/audio/songs/
+	out=e2593f97ce425a4b8ffc7d136fc6fae1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adnan-Khaste-Shodam.mp3
+	dir=output/b2/audio/songs/
+	out=adb425f119a61538db2d573eb536103a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adnan-Man-Haminam.mp3
+	dir=output/b2/audio/songs/
+	out=6f0a058887d00063fcf4273707d9d47f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adnan-Havaye-Gham.mp3
+	dir=output/b2/audio/songs/
+	out=6f90dabb8da2a0c1993d4e3788601af1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adnan-Bi-Parde.mp3
+	dir=output/b2/audio/songs/
+	out=67be10d505338216c7365c071245b7eb_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adnan-Badbin-(Ft-Metti).mp3
+	dir=output/b2/audio/songs/
+	out=a0570e83fc162f719aaed5d634ebd2a4_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Hamid-Haghighat-Khah-Sedam-Bezan-(Ft-Adnan).mp3
+	dir=output/b2/audio/songs/
+	out=73d1531b247aebba7e7d30ff0e4075cf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adnan-Mohammad-Amin-Tanhaie-Mahze.mp3
+	dir=output/b2/audio/songs/
+	out=db640d21be927829001a71925a9c9950_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adonis-Island-Khatere.mp3
+	dir=output/b2/audio/songs/
+	out=f7a945a9e773ce906668d38cea74c22f_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adonis-Island-Baroon-Paeezi.mp3
+	dir=output/b2/audio/songs/
+	out=3ccc21ee2b57768fdee00cf1ccbdd0d3_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adoodi-In-Rooza.mp3
+	dir=output/b2/audio/songs/
+	out=78c01d5ec3f0d5a3ed4307b851f4a7a0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Ador-Khasis-Tarin-Past.mp3
+	dir=output/b2/audio/songs/
+	out=37719dda0800ff141b4dab57cd6c9ef9_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrenal-Insomnia.mp3
+	dir=output/b2/audio/songs/
+	out=d3a3cd433d3085dfa69ee4ecb53b8970_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrian-Aroomam-Kon.mp3
+	dir=output/b2/audio/songs/
+	out=732aefbd4e26771badc72823c25d7d5a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrian-To-Ke-Bashi.mp3
+	dir=output/b2/audio/songs/
+	out=a92faf991aef6a4b79a6ff10a7c4c530_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrian-Momen-Del-Mige-Omad.mp3
+	dir=output/b2/audio/songs/
+	out=15d6fce415d0c3bbf6b585b2f1230058_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrian-Momen-Hala-Nisti.mp3
+	dir=output/b2/audio/songs/
+	out=5a1b36d98d15fb61223265a35741edde_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrian-Momen-Steres.mp3
+	dir=output/b2/audio/songs/
+	out=ad8521a005154649268f59d87e5da5cf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrian-Momen-Divoonam-Kardi.mp3
+	dir=output/b2/audio/songs/
+	out=8e28f5828fc9b9bc289eeec937db4464_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrin-Favareha.mp3
+	dir=output/b2/audio/songs/
+	out=e37430e0b616f12c29ec54eec1f067cf_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrin-Baroonamo-Baroonam.mp3
+	dir=output/b2/audio/songs/
+	out=28d8619a963f0789deeabef051d3db7a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrin-Otaghe-Khali.mp3
+	dir=output/b2/audio/songs/
+	out=46064f6728dae64ae0402fae52c6410a_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrin-Daghoone-Daghoonam.mp3
+	dir=output/b2/audio/songs/
+	out=f3852e1a0723dfb892607b5d03da3e66_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrin-Be-Man-Negah-Kon.mp3
+	dir=output/b2/audio/songs/
+	out=ba4b1ac2849b564a7d568ea3eaa8c7cd_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrin-Edeam-Ine.mp3
+	dir=output/b2/audio/songs/
+	out=e793e3c260d5c309807dddf58ed88964_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrin-Hey-To.mp3
+	dir=output/b2/audio/songs/
+	out=68f74db74dbaa5a53eb478b7f144bfd1_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrin-Chera-Az-Man-Boridi.mp3
+	dir=output/b2/audio/songs/
+	out=934dd85fde6df367b2fff3ba106d5f56_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrin-Fekre-Manam-Bash.mp3
+	dir=output/b2/audio/songs/
+	out=a8879ad60bf93f4e7196f2c3dd029ce5_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adrin-Dari-Miri-Naro.mp3
+	dir=output/b2/audio/songs/
+	out=024966d4f44b98998337506bb944f869_128.mp3
+https://host1.rjmediamusic.com/media/mp3/Adrin-Baba-Baba.mp3
+	dir=output/b2/audio/songs/
+	out=bf1975ee38efab84e5bc915944bcf5d6_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adrin-Pileh.mp3
+	dir=output/b2/audio/songs/
+	out=116b33876cee6ec08fa30b5ce4cd03f0_128.mp3
+https://host1.rjmediamusic.com/media/mp3/mp3-256/Adrin-Tarze-Negahe-To.mp3
+	dir=output/b2/audio/songs/
+	out=6d272a1ac96cf14ba04cbba447c81f78_128.mp3
