@@ -20,3 +20,4 @@ The main features of this codebase are as below:
 1. Like any other crawlers, this code depends on the structure of the targeted websites. It is essential to test
    and update this repo regularly.
 2. The acrcloud.com recognition services is used only for test. In our real-world tool, we developed our recognition engine.
+3. I saved some output of project like musics, images, logs, etc. to have sense of what are outputs formats.
